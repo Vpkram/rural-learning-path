@@ -530,6 +530,9 @@ def _render_diagnostic_results(
             for topic in results.topics
         ]
     )
+    from ui.result_charts import render_diagnostic_charts
+
+    render_diagnostic_charts(results.topics)
     st.subheader("Review every question")
     language = st.session_state.get("language", "en")
     for index, item in enumerate(results.review, start=1):
