@@ -213,3 +213,8 @@ unreachable supplied links with `python -m scripts.check_videos`.
 `python -m scripts.build_curriculum_packs` regenerates the generated pack
 scaffold and starter question records. It does not promote generated content
 to complete status.
+## Known issues
+- Ticking a task in the Study plan can raise a SQLite thread error. A fix (one short-lived database connection per operation) is planned.
+- Many question packs are drafts and need teacher review before classroom use.
+- Video links are not all verified yet.
+- Very large textbooks can take several minutes to index.
