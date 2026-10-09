@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-2-english-my-bicycle-001",
+      "topic_key": "my-bicycle",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about My Bicycle?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Bicycle, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Bicycle uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-my-bicycle-002",
+      "topic_key": "my-bicycle",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving My Bicycle?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Bicycle, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Bicycle uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-my-bicycle-003",
+      "topic_key": "my-bicycle",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise My Bicycle?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Bicycle, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Bicycle uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-picture-reading-001",
+      "topic_key": "picture-reading",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-picture-reading-002",
+      "topic_key": "picture-reading",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-picture-reading-003",
+      "topic_key": "picture-reading",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-big-race-001",
+      "topic_key": "the-big-race",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Big Race?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Big Race, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Big Race uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-big-race-002",
+      "topic_key": "the-big-race",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Big Race?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Big Race, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Big Race uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-big-race-003",
+      "topic_key": "the-big-race",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Big Race?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Big Race, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Big Race uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-seeing-without-seeing-001",
+      "topic_key": "seeing-without-seeing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Seeing without Seeing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeing without Seeing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeing without Seeing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-seeing-without-seeing-002",
+      "topic_key": "seeing-without-seeing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Seeing without Seeing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeing without Seeing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeing without Seeing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-seeing-without-seeing-003",
+      "topic_key": "seeing-without-seeing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Seeing without Seeing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeing without Seeing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeing without Seeing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-magic-porridge-pot-001",
+      "topic_key": "the-magic-porridge-pot",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Magic Porridge Pot?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Magic Porridge Pot, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Magic Porridge Pot uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-magic-porridge-pot-002",
+      "topic_key": "the-magic-porridge-pot",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Magic Porridge Pot?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Magic Porridge Pot, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Magic Porridge Pot uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-english-the-magic-porridge-pot-003",
+      "topic_key": "the-magic-porridge-pot",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Magic Porridge Pot?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Magic Porridge Pot, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Magic Porridge Pot uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

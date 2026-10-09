@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-4-english",
+    "name": "English",
+    "class_level": "Class 4",
+    "stream": "",
+    "description": "Class 4  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "wake-up",
+      "name": "Wake Up!",
+      "description": "Study and practise the ideas in Wake Up!.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "neha-s-alarm-clock",
+      "name": "Neha's Alarm Clock",
+      "description": "Study and practise the ideas in Neha's Alarm Clock.",
+      "prerequisites": [
+        "wake-up"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-little-fir-tree",
+      "name": "The Little Fir Tree",
+      "description": "Study and practise the ideas in The Little Fir Tree.",
+      "prerequisites": [
+        "neha-s-alarm-clock"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-donkey",
+      "name": "The Donkey",
+      "description": "Study and practise the ideas in The Donkey.",
+      "prerequisites": [
+        "the-little-fir-tree"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-milkman-s-cow",
+      "name": "The Milkman's Cow",
+      "description": "Study and practise the ideas in The Milkman's Cow.",
+      "prerequisites": [
+        "the-donkey"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

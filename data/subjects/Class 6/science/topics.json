@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "key": "class-6-science",
+    "name": "Science",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-wonderful-world-of-science",
+      "name": "The Wonderful World of Science",
+      "description": "Study and practise the ideas in The Wonderful World of Science.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "diversity-in-the-living-world",
+      "name": "Diversity in the Living World",
+      "description": "Study and practise the ideas in Diversity in the Living World.",
+      "prerequisites": [
+        "the-wonderful-world-of-science"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "mindful-eating-a-path-to-a-healthy-body",
+      "name": "Mindful Eating: A Path to a Healthy Body",
+      "description": "Study and practise the ideas in Mindful Eating: A Path to a Healthy Body.",
+      "prerequisites": [
+        "diversity-in-the-living-world"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "exploring-magnets",
+      "name": "Exploring Magnets",
+      "description": "Study and practise the ideas in Exploring Magnets.",
+      "prerequisites": [
+        "mindful-eating-a-path-to-a-healthy-body"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "measurement-of-length-and-motion",
+      "name": "Measurement of Length and Motion",
+      "description": "Study and practise the ideas in Measurement of Length and Motion.",
+      "prerequisites": [
+        "exploring-magnets"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "materials-around-us",
+      "name": "Materials Around Us",
+      "description": "Study and practise the ideas in Materials Around Us.",
+      "prerequisites": [
+        "measurement-of-length-and-motion"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "temperature-and-its-measurement",
+      "name": "Temperature and its Measurement",
+      "description": "Study and practise the ideas in Temperature and its Measurement.",
+      "prerequisites": [
+        "materials-around-us"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "a-journey-through-states-of-water",
+      "name": "A Journey through States of Water",
+      "description": "Study and practise the ideas in A Journey through States of Water.",
+      "prerequisites": [
+        "temperature-and-its-measurement"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "methods-of-separation-in-everyday-life",
+      "name": "Methods of Separation in Everyday Life",
+      "description": "Study and practise the ideas in Methods of Separation in Everyday Life.",
+      "prerequisites": [
+        "a-journey-through-states-of-water"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "living-creatures-exploring-their-characteristics",
+      "name": "Living Creatures: Exploring their Characteristics",
+      "description": "Study and practise the ideas in Living Creatures: Exploring their Characteristics.",
+      "prerequisites": [
+        "methods-of-separation-in-everyday-life"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "nature-s-treasures",
+      "name": "Nature's Treasures",
+      "description": "Study and practise the ideas in Nature's Treasures.",
+      "prerequisites": [
+        "living-creatures-exploring-their-characteristics"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "beyond-earth",
+      "name": "Beyond Earth",
+      "description": "Study and practise the ideas in Beyond Earth.",
+      "prerequisites": [
+        "nature-s-treasures"
+      ],
+      "sequence_number": 12
+    }
+  ]
+}

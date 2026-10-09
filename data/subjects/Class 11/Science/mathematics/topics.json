@@ -1,0 +1,180 @@
+{
+  "subject": {
+    "key": "class-11-science-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 11",
+    "stream": "Science",
+    "description": "Class 11 Science Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "sets",
+      "name": "Sets",
+      "description": "Study and practise the ideas in Sets.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "relations-and-functions",
+      "name": "Relations and Functions",
+      "description": "Study and practise the ideas in Relations and Functions.",
+      "prerequisites": [
+        "sets"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "trigonometric-functions",
+      "name": "Trigonometric Functions",
+      "description": "Study and practise the ideas in Trigonometric Functions.",
+      "prerequisites": [
+        "relations-and-functions"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "complex-numbers",
+      "name": "Complex Numbers",
+      "description": "Study and practise the ideas in Complex Numbers.",
+      "prerequisites": [
+        "trigonometric-functions"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "linear-inequalities",
+      "name": "Linear Inequalities",
+      "description": "Study and practise the ideas in Linear Inequalities.",
+      "prerequisites": [
+        "complex-numbers"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "permutations-and-combinations",
+      "name": "Permutations and Combinations",
+      "description": "Study and practise the ideas in Permutations and Combinations.",
+      "prerequisites": [
+        "linear-inequalities"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "binomial-theorem",
+      "name": "Binomial Theorem",
+      "description": "Study and practise the ideas in Binomial Theorem.",
+      "prerequisites": [
+        "permutations-and-combinations"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "sequences-and-series",
+      "name": "Sequences and Series",
+      "description": "Study and practise the ideas in Sequences and Series.",
+      "prerequisites": [
+        "binomial-theorem"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "straight-lines",
+      "name": "Straight Lines",
+      "description": "Study and practise the ideas in Straight Lines.",
+      "prerequisites": [
+        "sequences-and-series"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "conic-sections",
+      "name": "Conic Sections",
+      "description": "Study and practise the ideas in Conic Sections.",
+      "prerequisites": [
+        "straight-lines"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "limits-and-derivatives",
+      "name": "Limits and Derivatives",
+      "description": "Study and practise the ideas in Limits and Derivatives.",
+      "prerequisites": [
+        "conic-sections"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "statistics-and-probability",
+      "name": "Statistics and Probability",
+      "description": "Study and practise the ideas in Statistics and Probability.",
+      "prerequisites": [
+        "limits-and-derivatives"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "matrices",
+      "name": "Matrices",
+      "description": "Study and practise the ideas in Matrices.",
+      "prerequisites": [
+        "statistics-and-probability"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "determinants",
+      "name": "Determinants",
+      "description": "Study and practise the ideas in Determinants.",
+      "prerequisites": [
+        "matrices"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "continuity-and-differentiability",
+      "name": "Continuity and Differentiability",
+      "description": "Study and practise the ideas in Continuity and Differentiability.",
+      "prerequisites": [
+        "determinants"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "applications-of-derivatives",
+      "name": "Applications of Derivatives",
+      "description": "Study and practise the ideas in Applications of Derivatives.",
+      "prerequisites": [
+        "continuity-and-differentiability"
+      ],
+      "sequence_number": 16
+    },
+    {
+      "key": "integrals",
+      "name": "Integrals",
+      "description": "Study and practise the ideas in Integrals.",
+      "prerequisites": [
+        "applications-of-derivatives"
+      ],
+      "sequence_number": 17
+    },
+    {
+      "key": "differential-equations",
+      "name": "Differential Equations",
+      "description": "Study and practise the ideas in Differential Equations.",
+      "prerequisites": [
+        "integrals"
+      ],
+      "sequence_number": 18
+    },
+    {
+      "key": "vectors-and-three-dimensional-geometry",
+      "name": "Vectors and Three-Dimensional Geometry",
+      "description": "Study and practise the ideas in Vectors and Three-Dimensional Geometry.",
+      "prerequisites": [
+        "differential-equations"
+      ],
+      "sequence_number": 19
+    }
+  ]
+}

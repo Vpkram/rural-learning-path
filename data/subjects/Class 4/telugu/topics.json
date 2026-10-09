@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-4-telugu",
+    "name": "Telugu",
+    "class_level": "Class 4",
+    "stream": "",
+    "description": "Class 4  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "వర్ణమాల పదాలు",
+      "description": "Study and practise the ideas in వర్ణమాల పదాలు.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "వచనం లింగం",
+      "description": "Study and practise the ideas in వచనం లింగం.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "కథ సారాంశం",
+      "description": "Study and practise the ideas in కథ సారాంశం.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "పద్య భాష",
+      "description": "Study and practise the ideas in పద్య భాష.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "లేఖ రచన",
+      "description": "Study and practise the ideas in లేఖ రచన.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-4-environmental-studies",
+    "name": "Environmental Studies",
+    "class_level": "Class 4",
+    "stream": "",
+    "description": "Class 4  Environmental Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "going-to-school",
+      "name": "Going to School",
+      "description": "Study and practise the ideas in Going to School.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "ear-to-ear",
+      "name": "Ear to Ear",
+      "description": "Study and practise the ideas in Ear to Ear.",
+      "prerequisites": [
+        "going-to-school"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "a-day-with-nandu",
+      "name": "A Day with Nandu",
+      "description": "Study and practise the ideas in A Day with Nandu.",
+      "prerequisites": [
+        "ear-to-ear"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-story-of-amrita",
+      "name": "The Story of Amrita",
+      "description": "Study and practise the ideas in The Story of Amrita.",
+      "prerequisites": [
+        "a-day-with-nandu"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "anita-and-the-honeybees",
+      "name": "Anita and the Honeybees",
+      "description": "Study and practise the ideas in Anita and the Honeybees.",
+      "prerequisites": [
+        "the-story-of-amrita"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "subject": {
+    "key": "dbms",
+    "name": "Database Management Systems",
+    "class_level": "College",
+    "description": "Introductory database concepts, SQL, normalization, and transactions.",
+    "stream": ""
+  },
+  "topics": [
+    {
+      "key": "database-basics",
+      "name": "Database Basics",
+      "description": "Purpose of databases, DBMS software, tables, and records.",
+      "notes": {
+        "en": "A database stores organized information. A DBMS helps users create, find, change, protect, and recover that information.",
+        "te": "డేటాబేస్ క్రమబద్ధమైన సమాచారాన్ని నిల్వ చేస్తుంది. ఆ సమాచారాన్ని సృష్టించడానికి, వెతకడానికి, మార్చడానికి, రక్షించడానికి మరియు తిరిగి పొందడానికి DBMS సహాయపడుతుంది."
+      },
+      "sequence_number": 1,
+      "prerequisites": []
+    },
+    {
+      "key": "relational-model",
+      "name": "Relational Model",
+      "description": "Relations, rows, columns, keys, and integrity.",
+      "notes": {
+        "en": "A relational database organizes data into tables. Rows are records, columns are attributes, and keys identify records and link related tables.",
+        "te": "రిలేషనల్ డేటాబేస్ డేటాను పట్టికలుగా క్రమబద్ధం చేస్తుంది. వరుసలు రికార్డులు, నిలువు వరుసలు లక్షణాలు; కీల్స్ రికార్డులను గుర్తించి సంబంధిత పట్టికలను కలుపుతాయి."
+      },
+      "sequence_number": 2,
+      "prerequisites": [
+        "database-basics"
+      ]
+    },
+    {
+      "key": "sql-basics",
+      "name": "SQL Basics",
+      "description": "Basic data retrieval and filtering with SQL.",
+      "notes": {
+        "en": "SQL is used to ask a relational database for data. SELECT chooses columns, FROM names the source table, and WHERE filters rows.",
+        "te": "రిలేషనల్ డేటాబేస్ నుంచి సమాచారాన్ని అడగడానికి SQL ఉపయోగిస్తారు. SELECT నిలువు వరుసలను ఎంచుకుంటుంది, FROM పట్టికను చెబుతుంది, WHERE వరుసలను వడపోస్తుంది."
+      },
+      "sequence_number": 3,
+      "prerequisites": [
+        "relational-model"
+      ]
+    },
+    {
+      "key": "normalization",
+      "name": "Normalization",
+      "description": "Organizing relational data to reduce duplication and anomalies.",
+      "notes": {
+        "en": "Normalization organizes related facts into suitable tables to reduce repeated data and insertion, update, and deletion anomalies.",
+        "te": "నార్మలైజేషన్ సంబంధిత సమాచారాన్ని సరైన పట్టికల్లో ఉంచి పునరావృత డేటాను, చేర్పు, మార్పు మరియు తొలగింపు అనామలీలను తగ్గిస్తుంది."
+      },
+      "sequence_number": 4,
+      "prerequisites": [
+        "relational-model",
+        "sql-basics"
+      ]
+    },
+    {
+      "key": "transactions",
+      "name": "Transactions",
+      "description": "Reliable groups of database operations and ACID properties.",
+      "notes": {
+        "en": "A transaction is a group of database operations treated as one unit. ACID describes atomicity, consistency, isolation, and durability.",
+        "te": "ట్రాన్సాక్షన్ అనేది ఒక యూనిట్‌గా పరిగణించే డేటాబేస్ చర్యల సమూహం. ACIDలో అటామిసిటీ, కన్సిస్టెన్సీ, ఐసోలేషన్ మరియు డ్యూరబిలిటీ ఉంటాయి."
+      },
+      "sequence_number": 5,
+      "prerequisites": [
+        "database-basics",
+        "relational-model"
+      ]
+    }
+  ]
+}

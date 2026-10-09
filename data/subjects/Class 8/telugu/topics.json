@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-8-telugu",
+    "name": "Telugu",
+    "class_level": "Class 8",
+    "stream": "",
+    "description": "Class 8  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "గద్య పఠనం",
+      "description": "Study and practise the ideas in గద్య పఠనం.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "కవితా పఠనం",
+      "description": "Study and practise the ideas in కవితా పఠనం.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "వ్యాస రచన",
+      "description": "Study and practise the ideas in వ్యాస రచన.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "సంభాషణ మరియు నాటకం",
+      "description": "Study and practise the ideas in సంభాషణ మరియు నాటకం.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "భాషా నిర్మాణం",
+      "description": "Study and practise the ideas in భాషా నిర్మాణం.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

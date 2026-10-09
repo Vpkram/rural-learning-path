@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-machine-learning",
+    "name": "Machine Learning",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Machine Learning learning pack"
+  },
+  "topics": [
+    {
+      "key": "learning-problems-and-data",
+      "name": "Learning Problems and Data",
+      "description": "Study and practise the ideas in Learning Problems and Data.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "data-preparation",
+      "name": "Data Preparation",
+      "description": "Study and practise the ideas in Data Preparation.",
+      "prerequisites": [
+        "learning-problems-and-data"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "linear-regression",
+      "name": "Linear Regression",
+      "description": "Study and practise the ideas in Linear Regression.",
+      "prerequisites": [
+        "data-preparation"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "classification-models",
+      "name": "Classification Models",
+      "description": "Study and practise the ideas in Classification Models.",
+      "prerequisites": [
+        "linear-regression"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "decision-trees",
+      "name": "Decision Trees",
+      "description": "Study and practise the ideas in Decision Trees.",
+      "prerequisites": [
+        "classification-models"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "model-evaluation",
+      "name": "Model Evaluation",
+      "description": "Study and practise the ideas in Model Evaluation.",
+      "prerequisites": [
+        "decision-trees"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "clustering",
+      "name": "Clustering",
+      "description": "Study and practise the ideas in Clustering.",
+      "prerequisites": [
+        "model-evaluation"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "neural-network-basics",
+      "name": "Neural Network Basics",
+      "description": "Study and practise the ideas in Neural Network Basics.",
+      "prerequisites": [
+        "clustering"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "regularization-and-generalization",
+      "name": "Regularization and Generalization",
+      "description": "Study and practise the ideas in Regularization and Generalization.",
+      "prerequisites": [
+        "neural-network-basics"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

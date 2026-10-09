@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-6-hindi",
+    "name": "Hindi",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "वह चिड़िया जो",
+      "description": "Study and practise the ideas in वह चिड़िया जो.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "बचपन",
+      "description": "Study and practise the ideas in बचपन.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "नादान दोस्त",
+      "description": "Study and practise the ideas in नादान दोस्त.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "चाँद से थोड़ी-सी गप्पें",
+      "description": "Study and practise the ideas in चाँद से थोड़ी-सी गप्पें.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "साथी हाथ बढ़ाना",
+      "description": "Study and practise the ideas in साथी हाथ बढ़ाना.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "videos": [
+    {
+      "topic": "Algorithm Analysis",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Algorithm Analysis",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Arrays and Strings",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Arrays and Strings",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Linked Lists",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Linked Lists",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Stacks and Queues",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Stacks and Queues",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Trees and Binary Search Trees",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Trees and Binary Search Trees",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Heaps and Priority Queues",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Heaps and Priority Queues",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Hashing",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Hashing",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Graphs and Traversal",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Graphs and Traversal",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Sorting and Searching",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Sorting and Searching",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

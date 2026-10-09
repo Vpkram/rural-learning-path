@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-5-english-ice-cream-man-001",
+      "topic_key": "ice-cream-man",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Ice-cream Man?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ice-cream Man, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ice-cream Man uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-ice-cream-man-002",
+      "topic_key": "ice-cream-man",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Ice-cream Man?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ice-cream Man, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ice-cream Man uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-ice-cream-man-003",
+      "topic_key": "ice-cream-man",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Ice-cream Man?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ice-cream Man, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ice-cream Man uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-wonderful-waste-001",
+      "topic_key": "wonderful-waste",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Wonderful Waste!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wonderful Waste!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wonderful Waste! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-wonderful-waste-002",
+      "topic_key": "wonderful-waste",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Wonderful Waste!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wonderful Waste!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wonderful Waste! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-wonderful-waste-003",
+      "topic_key": "wonderful-waste",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Wonderful Waste!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wonderful Waste!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wonderful Waste! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-teamwork-001",
+      "topic_key": "teamwork",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Teamwork?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Teamwork, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Teamwork uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-teamwork-002",
+      "topic_key": "teamwork",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Teamwork?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Teamwork, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Teamwork uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-teamwork-003",
+      "topic_key": "teamwork",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Teamwork?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Teamwork, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Teamwork uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-flying-together-001",
+      "topic_key": "flying-together",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Flying Together?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Flying Together, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Flying Together uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-flying-together-002",
+      "topic_key": "flying-together",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Flying Together?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Flying Together, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Flying Together uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-flying-together-003",
+      "topic_key": "flying-together",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Flying Together?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Flying Together, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Flying Together uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-my-shadow-001",
+      "topic_key": "my-shadow",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about My Shadow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Shadow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Shadow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-my-shadow-002",
+      "topic_key": "my-shadow",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving My Shadow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Shadow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Shadow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-english-my-shadow-003",
+      "topic_key": "my-shadow",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise My Shadow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Shadow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Shadow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-3-english",
+    "name": "English",
+    "class_level": "Class 3",
+    "stream": "",
+    "description": "Class 3  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "colours",
+      "name": "Colours",
+      "description": "Study and practise the ideas in Colours.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "badal-and-moti",
+      "name": "Badal and Moti",
+      "description": "Study and practise the ideas in Badal and Moti.",
+      "prerequisites": [
+        "colours"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "best-friends",
+      "name": "Best Friends",
+      "description": "Study and practise the ideas in Best Friends.",
+      "prerequisites": [
+        "badal-and-moti"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "out-in-the-garden",
+      "name": "Out in the Garden",
+      "description": "Study and practise the ideas in Out in the Garden.",
+      "prerequisites": [
+        "best-friends"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "talking-toys",
+      "name": "Talking Toys",
+      "description": "Study and practise the ideas in Talking Toys.",
+      "prerequisites": [
+        "out-in-the-garden"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

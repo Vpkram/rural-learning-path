@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-5-environmental-studies-super-senses-001",
+      "topic_key": "super-senses",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Super Senses?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Super Senses, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Super Senses uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-super-senses-002",
+      "topic_key": "super-senses",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Super Senses?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Super Senses, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Super Senses uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-super-senses-003",
+      "topic_key": "super-senses",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Super Senses?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Super Senses, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Super Senses uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-a-snake-charmer-s-story-001",
+      "topic_key": "a-snake-charmer-s-story",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Snake Charmer's Story?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Snake Charmer's Story, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Snake Charmer's Story uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-a-snake-charmer-s-story-002",
+      "topic_key": "a-snake-charmer-s-story",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Snake Charmer's Story?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Snake Charmer's Story, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Snake Charmer's Story uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-a-snake-charmer-s-story-003",
+      "topic_key": "a-snake-charmer-s-story",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Snake Charmer's Story?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Snake Charmer's Story, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Snake Charmer's Story uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-from-tasting-to-digesting-001",
+      "topic_key": "from-tasting-to-digesting",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about From Tasting to Digesting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From Tasting to Digesting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From Tasting to Digesting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-from-tasting-to-digesting-002",
+      "topic_key": "from-tasting-to-digesting",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving From Tasting to Digesting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From Tasting to Digesting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From Tasting to Digesting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-from-tasting-to-digesting-003",
+      "topic_key": "from-tasting-to-digesting",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise From Tasting to Digesting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From Tasting to Digesting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From Tasting to Digesting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-mangoes-round-the-year-001",
+      "topic_key": "mangoes-round-the-year",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Mangoes Round the Year?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mangoes Round the Year, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mangoes Round the Year uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-mangoes-round-the-year-002",
+      "topic_key": "mangoes-round-the-year",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Mangoes Round the Year?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mangoes Round the Year, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mangoes Round the Year uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-mangoes-round-the-year-003",
+      "topic_key": "mangoes-round-the-year",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Mangoes Round the Year?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mangoes Round the Year, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mangoes Round the Year uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-seeds-and-seeds-001",
+      "topic_key": "seeds-and-seeds",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Seeds and Seeds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeds and Seeds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeds and Seeds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-seeds-and-seeds-002",
+      "topic_key": "seeds-and-seeds",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Seeds and Seeds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeds and Seeds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeds and Seeds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-environmental-studies-seeds-and-seeds-003",
+      "topic_key": "seeds-and-seeds",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Seeds and Seeds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Seeds and Seeds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Seeds and Seeds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

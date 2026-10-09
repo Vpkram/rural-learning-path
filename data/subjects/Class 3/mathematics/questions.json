@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-3-mathematics-where-to-look-from-001",
+      "topic_key": "where-to-look-from",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Where to Look From?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Where to Look From, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Where to Look From uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-where-to-look-from-002",
+      "topic_key": "where-to-look-from",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Where to Look From?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Where to Look From, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Where to Look From uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-where-to-look-from-003",
+      "topic_key": "where-to-look-from",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Where to Look From?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Where to Look From, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Where to Look From uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-fun-with-numbers-001",
+      "topic_key": "fun-with-numbers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Fun with Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fun with Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fun with Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-fun-with-numbers-002",
+      "topic_key": "fun-with-numbers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Fun with Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fun with Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fun with Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-fun-with-numbers-003",
+      "topic_key": "fun-with-numbers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Fun with Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fun with Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fun with Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-give-and-take-001",
+      "topic_key": "give-and-take",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Give and Take?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Give and Take, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Give and Take uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-give-and-take-002",
+      "topic_key": "give-and-take",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Give and Take?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Give and Take, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Give and Take uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-give-and-take-003",
+      "topic_key": "give-and-take",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Give and Take?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Give and Take, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Give and Take uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-long-and-short-001",
+      "topic_key": "long-and-short",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-long-and-short-002",
+      "topic_key": "long-and-short",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-long-and-short-003",
+      "topic_key": "long-and-short",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-shapes-and-designs-001",
+      "topic_key": "shapes-and-designs",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Shapes and Designs?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Designs, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Designs uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-shapes-and-designs-002",
+      "topic_key": "shapes-and-designs",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Shapes and Designs?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Designs, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Designs uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-mathematics-shapes-and-designs-003",
+      "topic_key": "shapes-and-designs",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Shapes and Designs?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Designs, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Designs uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

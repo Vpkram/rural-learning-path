@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-6-telugu",
+    "name": "Telugu",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "చదవడం మరియు భావగ్రహణం",
+      "description": "Study and practise the ideas in చదవడం మరియు భావగ్రహణం.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "పద సంపద",
+      "description": "Study and practise the ideas in పద సంపద.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "కథా పఠనం",
+      "description": "Study and practise the ideas in కథా పఠనం.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "పద్య అవగాహన",
+      "description": "Study and practise the ideas in పద్య అవగాహన.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "వ్యాకరణ పునాది",
+      "description": "Study and practise the ideas in వ్యాకరణ పునాది.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

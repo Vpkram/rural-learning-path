@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-3-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 3",
+    "stream": "",
+    "description": "Class 3  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "where-to-look-from",
+      "name": "Where to Look From",
+      "description": "Study and practise the ideas in Where to Look From.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "fun-with-numbers",
+      "name": "Fun with Numbers",
+      "description": "Study and practise the ideas in Fun with Numbers.",
+      "prerequisites": [
+        "where-to-look-from"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "give-and-take",
+      "name": "Give and Take",
+      "description": "Study and practise the ideas in Give and Take.",
+      "prerequisites": [
+        "fun-with-numbers"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "long-and-short",
+      "name": "Long and Short",
+      "description": "Study and practise the ideas in Long and Short.",
+      "prerequisites": [
+        "give-and-take"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "shapes-and-designs",
+      "name": "Shapes and Designs",
+      "description": "Study and practise the ideas in Shapes and Designs.",
+      "prerequisites": [
+        "long-and-short"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

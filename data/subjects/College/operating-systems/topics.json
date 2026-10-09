@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-operating-systems",
+    "name": "Operating Systems",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Operating Systems learning pack"
+  },
+  "topics": [
+    {
+      "key": "operating-system-structures",
+      "name": "Operating System Structures",
+      "description": "Study and practise the ideas in Operating System Structures.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "processes-and-threads",
+      "name": "Processes and Threads",
+      "description": "Study and practise the ideas in Processes and Threads.",
+      "prerequisites": [
+        "operating-system-structures"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "cpu-scheduling",
+      "name": "CPU Scheduling",
+      "description": "Study and practise the ideas in CPU Scheduling.",
+      "prerequisites": [
+        "processes-and-threads"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "process-synchronization",
+      "name": "Process Synchronization",
+      "description": "Study and practise the ideas in Process Synchronization.",
+      "prerequisites": [
+        "cpu-scheduling"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "deadlocks",
+      "name": "Deadlocks",
+      "description": "Study and practise the ideas in Deadlocks.",
+      "prerequisites": [
+        "process-synchronization"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "memory-management",
+      "name": "Memory Management",
+      "description": "Study and practise the ideas in Memory Management.",
+      "prerequisites": [
+        "deadlocks"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "virtual-memory",
+      "name": "Virtual Memory",
+      "description": "Study and practise the ideas in Virtual Memory.",
+      "prerequisites": [
+        "memory-management"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "file-systems",
+      "name": "File Systems",
+      "description": "Study and practise the ideas in File Systems.",
+      "prerequisites": [
+        "virtual-memory"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "i-o-systems",
+      "name": "I/O Systems",
+      "description": "Study and practise the ideas in I/O Systems.",
+      "prerequisites": [
+        "file-systems"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

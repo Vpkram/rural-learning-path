@@ -1,0 +1,388 @@
+{
+  "questions": [
+    {
+      "key": "class-9-social-science-the-french-revolution-001",
+      "topic_key": "the-french-revolution",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The French Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The French Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The French Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-the-french-revolution-002",
+      "topic_key": "the-french-revolution",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The French Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The French Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The French Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-the-french-revolution-003",
+      "topic_key": "the-french-revolution",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The French Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The French Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The French Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-socialism-in-europe-and-the-russian-revolution-001",
+      "topic_key": "socialism-in-europe-and-the-russian-revolution",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Socialism in Europe and the Russian Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Socialism in Europe and the Russian Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Socialism in Europe and the Russian Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-socialism-in-europe-and-the-russian-revolution-002",
+      "topic_key": "socialism-in-europe-and-the-russian-revolution",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Socialism in Europe and the Russian Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Socialism in Europe and the Russian Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Socialism in Europe and the Russian Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-socialism-in-europe-and-the-russian-revolution-003",
+      "topic_key": "socialism-in-europe-and-the-russian-revolution",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Socialism in Europe and the Russian Revolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Socialism in Europe and the Russian Revolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Socialism in Europe and the Russian Revolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-india-size-and-location-001",
+      "topic_key": "india-size-and-location",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about India: Size and Location?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India: Size and Location, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India: Size and Location uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-india-size-and-location-002",
+      "topic_key": "india-size-and-location",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving India: Size and Location?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India: Size and Location, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India: Size and Location uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-india-size-and-location-003",
+      "topic_key": "india-size-and-location",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise India: Size and Location?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India: Size and Location, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India: Size and Location uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-physical-features-of-india-001",
+      "topic_key": "physical-features-of-india",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Physical Features of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Features of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Features of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-physical-features-of-india-002",
+      "topic_key": "physical-features-of-india",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Physical Features of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Features of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Features of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-physical-features-of-india-003",
+      "topic_key": "physical-features-of-india",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Physical Features of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Features of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Features of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-what-is-democracy-why-democracy-001",
+      "topic_key": "what-is-democracy-why-democracy",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about What Is Democracy? Why Democracy??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Democracy? Why Democracy?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Democracy? Why Democracy? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-what-is-democracy-why-democracy-002",
+      "topic_key": "what-is-democracy-why-democracy",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving What Is Democracy? Why Democracy??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Democracy? Why Democracy?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Democracy? Why Democracy? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-what-is-democracy-why-democracy-003",
+      "topic_key": "what-is-democracy-why-democracy",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise What Is Democracy? Why Democracy??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Democracy? Why Democracy?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Democracy? Why Democracy? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-constitutional-design-001",
+      "topic_key": "constitutional-design",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Constitutional Design?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitutional Design, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitutional Design uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-constitutional-design-002",
+      "topic_key": "constitutional-design",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Constitutional Design?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitutional Design, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitutional Design uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-constitutional-design-003",
+      "topic_key": "constitutional-design",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Constitutional Design?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitutional Design, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitutional Design uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-the-story-of-village-palampur-001",
+      "topic_key": "the-story-of-village-palampur",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Story of Village Palampur?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Village Palampur, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Village Palampur uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-the-story-of-village-palampur-002",
+      "topic_key": "the-story-of-village-palampur",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Story of Village Palampur?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Village Palampur, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Village Palampur uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-the-story-of-village-palampur-003",
+      "topic_key": "the-story-of-village-palampur",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Story of Village Palampur?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Village Palampur, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Village Palampur uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-people-as-resource-001",
+      "topic_key": "people-as-resource",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about People as Resource?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for People as Resource, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on People as Resource uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-people-as-resource-002",
+      "topic_key": "people-as-resource",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving People as Resource?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for People as Resource, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on People as Resource uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-social-science-people-as-resource-003",
+      "topic_key": "people-as-resource",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise People as Resource?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for People as Resource, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on People as Resource uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

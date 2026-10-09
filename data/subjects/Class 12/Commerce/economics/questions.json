@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "key": "class-12-commerce-economics-introduction-to-economics-001",
+      "topic_key": "introduction-to-economics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Introduction to Economics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Economics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Economics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-introduction-to-economics-002",
+      "topic_key": "introduction-to-economics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Introduction to Economics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Economics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Economics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-introduction-to-economics-003",
+      "topic_key": "introduction-to-economics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Introduction to Economics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Economics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Economics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-consumer-behaviour-001",
+      "topic_key": "consumer-behaviour",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Consumer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Consumer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Consumer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-consumer-behaviour-002",
+      "topic_key": "consumer-behaviour",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Consumer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Consumer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Consumer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-consumer-behaviour-003",
+      "topic_key": "consumer-behaviour",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Consumer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Consumer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Consumer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-producer-behaviour-001",
+      "topic_key": "producer-behaviour",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Producer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Producer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Producer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-producer-behaviour-002",
+      "topic_key": "producer-behaviour",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Producer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Producer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Producer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-producer-behaviour-003",
+      "topic_key": "producer-behaviour",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Producer Behaviour?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Producer Behaviour, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Producer Behaviour uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-market-forms-001",
+      "topic_key": "market-forms",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Market Forms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Market Forms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Market Forms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-market-forms-002",
+      "topic_key": "market-forms",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Market Forms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Market Forms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Market Forms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-market-forms-003",
+      "topic_key": "market-forms",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Market Forms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Market Forms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Market Forms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-national-income-001",
+      "topic_key": "national-income",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about National Income?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for National Income, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on National Income uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-national-income-002",
+      "topic_key": "national-income",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving National Income?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for National Income, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on National Income uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-national-income-003",
+      "topic_key": "national-income",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise National Income?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for National Income, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on National Income uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-money-and-banking-001",
+      "topic_key": "money-and-banking",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Money and Banking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Money and Banking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Money and Banking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-money-and-banking-002",
+      "topic_key": "money-and-banking",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Money and Banking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Money and Banking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Money and Banking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-money-and-banking-003",
+      "topic_key": "money-and-banking",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Money and Banking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Money and Banking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Money and Banking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-income-determination-001",
+      "topic_key": "income-determination",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Income Determination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Income Determination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Income Determination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-income-determination-002",
+      "topic_key": "income-determination",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Income Determination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Income Determination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Income Determination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-income-determination-003",
+      "topic_key": "income-determination",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Income Determination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Income Determination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Income Determination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-government-budget-001",
+      "topic_key": "government-budget",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Government Budget?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Government Budget, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Government Budget uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-government-budget-002",
+      "topic_key": "government-budget",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Government Budget?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Government Budget, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Government Budget uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-government-budget-003",
+      "topic_key": "government-budget",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Government Budget?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Government Budget, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Government Budget uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-balance-of-payments-001",
+      "topic_key": "balance-of-payments",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Balance of Payments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Balance of Payments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Balance of Payments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-balance-of-payments-002",
+      "topic_key": "balance-of-payments",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Balance of Payments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Balance of Payments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Balance of Payments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-balance-of-payments-003",
+      "topic_key": "balance-of-payments",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Balance of Payments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Balance of Payments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Balance of Payments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-development-experience-001",
+      "topic_key": "development-experience",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Development Experience?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Development Experience, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Development Experience uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-development-experience-002",
+      "topic_key": "development-experience",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Development Experience?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Development Experience, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Development Experience uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-development-experience-003",
+      "topic_key": "development-experience",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Development Experience?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Development Experience, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Development Experience uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-indian-economy-on-the-eve-of-independence-001",
+      "topic_key": "indian-economy-on-the-eve-of-independence",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Indian Economy on the Eve of Independence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Indian Economy on the Eve of Independence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Indian Economy on the Eve of Independence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-indian-economy-on-the-eve-of-independence-002",
+      "topic_key": "indian-economy-on-the-eve-of-independence",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Indian Economy on the Eve of Independence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Indian Economy on the Eve of Independence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Indian Economy on the Eve of Independence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-indian-economy-on-the-eve-of-independence-003",
+      "topic_key": "indian-economy-on-the-eve-of-independence",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Indian Economy on the Eve of Independence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Indian Economy on the Eve of Independence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Indian Economy on the Eve of Independence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-economic-reforms-001",
+      "topic_key": "economic-reforms",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Economic Reforms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Economic Reforms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Economic Reforms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-economic-reforms-002",
+      "topic_key": "economic-reforms",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Economic Reforms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Economic Reforms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Economic Reforms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-economic-reforms-003",
+      "topic_key": "economic-reforms",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Economic Reforms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Economic Reforms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Economic Reforms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-human-capital-001",
+      "topic_key": "human-capital",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Human Capital?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Capital, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Capital uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-human-capital-002",
+      "topic_key": "human-capital",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Human Capital?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Capital, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Capital uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-human-capital-003",
+      "topic_key": "human-capital",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Human Capital?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Capital, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Capital uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-rural-development-001",
+      "topic_key": "rural-development",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Rural Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rural Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rural Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-rural-development-002",
+      "topic_key": "rural-development",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Rural Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rural Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rural Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-rural-development-003",
+      "topic_key": "rural-development",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Rural Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rural Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rural Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-employment-and-sustainable-development-001",
+      "topic_key": "employment-and-sustainable-development",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Employment and Sustainable Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Employment and Sustainable Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Employment and Sustainable Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-employment-and-sustainable-development-002",
+      "topic_key": "employment-and-sustainable-development",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Employment and Sustainable Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Employment and Sustainable Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Employment and Sustainable Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-economics-employment-and-sustainable-development-003",
+      "topic_key": "employment-and-sustainable-development",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Employment and Sustainable Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Employment and Sustainable Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Employment and Sustainable Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

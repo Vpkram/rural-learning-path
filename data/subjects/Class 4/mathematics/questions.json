@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-4-mathematics-building-with-bricks-001",
+      "topic_key": "building-with-bricks",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Building with Bricks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Building with Bricks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Building with Bricks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-building-with-bricks-002",
+      "topic_key": "building-with-bricks",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Building with Bricks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Building with Bricks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Building with Bricks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-building-with-bricks-003",
+      "topic_key": "building-with-bricks",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Building with Bricks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Building with Bricks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Building with Bricks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-long-and-short-001",
+      "topic_key": "long-and-short",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-long-and-short-002",
+      "topic_key": "long-and-short",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-long-and-short-003",
+      "topic_key": "long-and-short",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Long and Short?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Long and Short, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Long and Short uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-a-trip-to-bhopal-001",
+      "topic_key": "a-trip-to-bhopal",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Trip to Bhopal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Trip to Bhopal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Trip to Bhopal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-a-trip-to-bhopal-002",
+      "topic_key": "a-trip-to-bhopal",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Trip to Bhopal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Trip to Bhopal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Trip to Bhopal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-a-trip-to-bhopal-003",
+      "topic_key": "a-trip-to-bhopal",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Trip to Bhopal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Trip to Bhopal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Trip to Bhopal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-tick-tick-tick-001",
+      "topic_key": "tick-tick-tick",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Tick-Tick-Tick?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tick-Tick-Tick, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tick-Tick-Tick uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-tick-tick-tick-002",
+      "topic_key": "tick-tick-tick",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Tick-Tick-Tick?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tick-Tick-Tick, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tick-Tick-Tick uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-tick-tick-tick-003",
+      "topic_key": "tick-tick-tick",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Tick-Tick-Tick?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tick-Tick-Tick, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tick-Tick-Tick uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-the-way-the-world-looks-001",
+      "topic_key": "the-way-the-world-looks",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Way the World Looks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Way the World Looks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Way the World Looks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-the-way-the-world-looks-002",
+      "topic_key": "the-way-the-world-looks",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Way the World Looks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Way the World Looks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Way the World Looks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-mathematics-the-way-the-world-looks-003",
+      "topic_key": "the-way-the-world-looks",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Way the World Looks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Way the World Looks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Way the World Looks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

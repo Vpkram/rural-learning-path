@@ -1,0 +1,166 @@
+{
+  "videos": [
+    {
+      "topic": "Operating System Structures",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Operating System Structures",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Processes and Threads",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Processes and Threads",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "CPU Scheduling",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "CPU Scheduling",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Process Synchronization",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Process Synchronization",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Deadlocks",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Deadlocks",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Memory Management",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Memory Management",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Virtual Memory",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Virtual Memory",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "File Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "File Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "I/O Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "I/O Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

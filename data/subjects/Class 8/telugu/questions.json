@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-8-telugu-topic-01-001",
+      "topic_key": "topic-01",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about గద్య పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గద్య పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గద్య పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-01-002",
+      "topic_key": "topic-01",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving గద్య పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గద్య పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గద్య పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-01-003",
+      "topic_key": "topic-01",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise గద్య పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గద్య పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గద్య పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-02-001",
+      "topic_key": "topic-02",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about కవితా పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కవితా పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కవితా పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-02-002",
+      "topic_key": "topic-02",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving కవితా పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కవితా పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కవితా పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-02-003",
+      "topic_key": "topic-02",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise కవితా పఠనం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కవితా పఠనం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కవితా పఠనం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-03-001",
+      "topic_key": "topic-03",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about వ్యాస రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for వ్యాస రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on వ్యాస రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-03-002",
+      "topic_key": "topic-03",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving వ్యాస రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for వ్యాస రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on వ్యాస రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-03-003",
+      "topic_key": "topic-03",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise వ్యాస రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for వ్యాస రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on వ్యాస రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-04-001",
+      "topic_key": "topic-04",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about సంభాషణ మరియు నాటకం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for సంభాషణ మరియు నాటకం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on సంభాషణ మరియు నాటకం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-04-002",
+      "topic_key": "topic-04",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving సంభాషణ మరియు నాటకం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for సంభాషణ మరియు నాటకం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on సంభాషణ మరియు నాటకం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-04-003",
+      "topic_key": "topic-04",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise సంభాషణ మరియు నాటకం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for సంభాషణ మరియు నాటకం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on సంభాషణ మరియు నాటకం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-05-001",
+      "topic_key": "topic-05",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about భాషా నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for భాషా నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on భాషా నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-05-002",
+      "topic_key": "topic-05",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving భాషా నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for భాషా నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on భాషా నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-telugu-topic-05-003",
+      "topic_key": "topic-05",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise భాషా నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for భాషా నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on భాషా నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

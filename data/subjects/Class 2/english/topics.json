@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-2-english",
+    "name": "English",
+    "class_level": "Class 2",
+    "stream": "",
+    "description": "Class 2  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "my-bicycle",
+      "name": "My Bicycle",
+      "description": "Study and practise the ideas in My Bicycle.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "picture-reading",
+      "name": "Picture Reading",
+      "description": "Study and practise the ideas in Picture Reading.",
+      "prerequisites": [
+        "my-bicycle"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-big-race",
+      "name": "The Big Race",
+      "description": "Study and practise the ideas in The Big Race.",
+      "prerequisites": [
+        "picture-reading"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "seeing-without-seeing",
+      "name": "Seeing without Seeing",
+      "description": "Study and practise the ideas in Seeing without Seeing.",
+      "prerequisites": [
+        "the-big-race"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-magic-porridge-pot",
+      "name": "The Magic Porridge Pot",
+      "description": "Study and practise the ideas in The Magic Porridge Pot.",
+      "prerequisites": [
+        "seeing-without-seeing"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

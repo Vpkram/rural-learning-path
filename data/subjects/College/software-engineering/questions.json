@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-software-engineering-software-processes-001",
+      "topic_key": "software-processes",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Software Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-processes-002",
+      "topic_key": "software-processes",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Software Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-processes-003",
+      "topic_key": "software-processes",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Software Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-processes-004",
+      "topic_key": "software-processes",
+      "difficulty": 2,
+      "prompt": "When applying Software Processes, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-processes-005",
+      "topic_key": "software-processes",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Software Processes. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-processes-006",
+      "topic_key": "software-processes",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Software Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-001",
+      "topic_key": "requirements-engineering",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Requirements Engineering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-002",
+      "topic_key": "requirements-engineering",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Requirements Engineering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-003",
+      "topic_key": "requirements-engineering",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Requirements Engineering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-004",
+      "topic_key": "requirements-engineering",
+      "difficulty": 2,
+      "prompt": "When applying Requirements Engineering, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-005",
+      "topic_key": "requirements-engineering",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Requirements Engineering. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-requirements-engineering-006",
+      "topic_key": "requirements-engineering",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Requirements Engineering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Requirements Engineering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Requirements Engineering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-001",
+      "topic_key": "system-modeling",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about System Modeling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-002",
+      "topic_key": "system-modeling",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving System Modeling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-003",
+      "topic_key": "system-modeling",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise System Modeling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-004",
+      "topic_key": "system-modeling",
+      "difficulty": 2,
+      "prompt": "When applying System Modeling, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-005",
+      "topic_key": "system-modeling",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing System Modeling. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-system-modeling-006",
+      "topic_key": "system-modeling",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying System Modeling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for System Modeling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on System Modeling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-001",
+      "topic_key": "software-architecture",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Software Architecture?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-002",
+      "topic_key": "software-architecture",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Software Architecture?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-003",
+      "topic_key": "software-architecture",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Software Architecture?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-004",
+      "topic_key": "software-architecture",
+      "difficulty": 2,
+      "prompt": "When applying Software Architecture, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-005",
+      "topic_key": "software-architecture",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Software Architecture. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-architecture-006",
+      "topic_key": "software-architecture",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Software Architecture?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Architecture, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Architecture uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-001",
+      "topic_key": "design-and-implementation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Design and Implementation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-002",
+      "topic_key": "design-and-implementation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Design and Implementation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-003",
+      "topic_key": "design-and-implementation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Design and Implementation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-004",
+      "topic_key": "design-and-implementation",
+      "difficulty": 2,
+      "prompt": "When applying Design and Implementation, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-005",
+      "topic_key": "design-and-implementation",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Design and Implementation. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-design-and-implementation-006",
+      "topic_key": "design-and-implementation",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Design and Implementation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Design and Implementation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Design and Implementation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-001",
+      "topic_key": "software-testing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Software Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-002",
+      "topic_key": "software-testing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Software Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-003",
+      "topic_key": "software-testing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Software Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-004",
+      "topic_key": "software-testing",
+      "difficulty": 2,
+      "prompt": "When applying Software Testing, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-005",
+      "topic_key": "software-testing",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Software Testing. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-software-testing-006",
+      "topic_key": "software-testing",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Software Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Software Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Software Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-001",
+      "topic_key": "project-planning",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Project Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-002",
+      "topic_key": "project-planning",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Project Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-003",
+      "topic_key": "project-planning",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Project Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-004",
+      "topic_key": "project-planning",
+      "difficulty": 2,
+      "prompt": "When applying Project Planning, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-005",
+      "topic_key": "project-planning",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Project Planning. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-project-planning-006",
+      "topic_key": "project-planning",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Project Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Project Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Project Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-001",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Quality and Maintenance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-002",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Quality and Maintenance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-003",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Quality and Maintenance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-004",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 2,
+      "prompt": "When applying Quality and Maintenance, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-005",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Quality and Maintenance. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-quality-and-maintenance-006",
+      "topic_key": "quality-and-maintenance",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Quality and Maintenance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quality and Maintenance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quality and Maintenance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-001",
+      "topic_key": "configuration-management",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Configuration Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-002",
+      "topic_key": "configuration-management",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Configuration Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-003",
+      "topic_key": "configuration-management",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Configuration Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-004",
+      "topic_key": "configuration-management",
+      "difficulty": 2,
+      "prompt": "When applying Configuration Management, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-005",
+      "topic_key": "configuration-management",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Configuration Management. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-software-engineering-configuration-management-006",
+      "topic_key": "configuration-management",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Configuration Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Configuration Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Configuration Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

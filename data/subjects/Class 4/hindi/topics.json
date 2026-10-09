@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-4-hindi",
+    "name": "Hindi",
+    "class_level": "Class 4",
+    "stream": "",
+    "description": "Class 4  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "वर्ण और शब्द",
+      "description": "Study and practise the ideas in वर्ण और शब्द.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "वचन और लिंग",
+      "description": "Study and practise the ideas in वचन और लिंग.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "कहानी का सार",
+      "description": "Study and practise the ideas in कहानी का सार.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कविता की भाषा",
+      "description": "Study and practise the ideas in कविता की भाषा.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "पत्र लेखन",
+      "description": "Study and practise the ideas in पत्र लेखन.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "class-11-arts-history-writing-and-city-life-001",
+      "topic_key": "writing-and-city-life",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Writing and City Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Writing and City Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Writing and City Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-writing-and-city-life-002",
+      "topic_key": "writing-and-city-life",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Writing and City Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Writing and City Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Writing and City Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-writing-and-city-life-003",
+      "topic_key": "writing-and-city-life",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Writing and City Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Writing and City Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Writing and City Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-empire-across-three-continents-001",
+      "topic_key": "an-empire-across-three-continents",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about An Empire Across Three Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Empire Across Three Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Empire Across Three Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-empire-across-three-continents-002",
+      "topic_key": "an-empire-across-three-continents",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving An Empire Across Three Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Empire Across Three Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Empire Across Three Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-empire-across-three-continents-003",
+      "topic_key": "an-empire-across-three-continents",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise An Empire Across Three Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Empire Across Three Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Empire Across Three Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-central-islamic-lands-001",
+      "topic_key": "central-islamic-lands",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Central Islamic Lands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Central Islamic Lands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Central Islamic Lands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-central-islamic-lands-002",
+      "topic_key": "central-islamic-lands",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Central Islamic Lands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Central Islamic Lands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Central Islamic Lands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-central-islamic-lands-003",
+      "topic_key": "central-islamic-lands",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Central Islamic Lands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Central Islamic Lands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Central Islamic Lands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-the-three-orders-001",
+      "topic_key": "the-three-orders",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Three Orders?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Three Orders, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Three Orders uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-the-three-orders-002",
+      "topic_key": "the-three-orders",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Three Orders?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Three Orders, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Three Orders uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-the-three-orders-003",
+      "topic_key": "the-three-orders",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Three Orders?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Three Orders, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Three Orders uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-changing-cultural-traditions-001",
+      "topic_key": "changing-cultural-traditions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Changing Cultural Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changing Cultural Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changing Cultural Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-changing-cultural-traditions-002",
+      "topic_key": "changing-cultural-traditions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Changing Cultural Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changing Cultural Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changing Cultural Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-changing-cultural-traditions-003",
+      "topic_key": "changing-cultural-traditions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Changing Cultural Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changing Cultural Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changing Cultural Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-displacing-indigenous-peoples-001",
+      "topic_key": "displacing-indigenous-peoples",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Displacing Indigenous Peoples?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Displacing Indigenous Peoples, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Displacing Indigenous Peoples uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-displacing-indigenous-peoples-002",
+      "topic_key": "displacing-indigenous-peoples",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Displacing Indigenous Peoples?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Displacing Indigenous Peoples, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Displacing Indigenous Peoples uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-displacing-indigenous-peoples-003",
+      "topic_key": "displacing-indigenous-peoples",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Displacing Indigenous Peoples?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Displacing Indigenous Peoples, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Displacing Indigenous Peoples uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-paths-to-modernisation-001",
+      "topic_key": "paths-to-modernisation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Paths to Modernisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Paths to Modernisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Paths to Modernisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-paths-to-modernisation-002",
+      "topic_key": "paths-to-modernisation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Paths to Modernisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Paths to Modernisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Paths to Modernisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-paths-to-modernisation-003",
+      "topic_key": "paths-to-modernisation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Paths to Modernisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Paths to Modernisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Paths to Modernisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bricks-beads-and-bones-001",
+      "topic_key": "bricks-beads-and-bones",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Bricks, Beads and Bones?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bricks, Beads and Bones, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bricks, Beads and Bones uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bricks-beads-and-bones-002",
+      "topic_key": "bricks-beads-and-bones",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Bricks, Beads and Bones?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bricks, Beads and Bones, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bricks, Beads and Bones uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bricks-beads-and-bones-003",
+      "topic_key": "bricks-beads-and-bones",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Bricks, Beads and Bones?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bricks, Beads and Bones, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bricks, Beads and Bones uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kings-farmers-and-towns-001",
+      "topic_key": "kings-farmers-and-towns",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Kings, Farmers and Towns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kings, Farmers and Towns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kings, Farmers and Towns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kings-farmers-and-towns-002",
+      "topic_key": "kings-farmers-and-towns",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Kings, Farmers and Towns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kings, Farmers and Towns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kings, Farmers and Towns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kings-farmers-and-towns-003",
+      "topic_key": "kings-farmers-and-towns",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Kings, Farmers and Towns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kings, Farmers and Towns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kings, Farmers and Towns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kinship-caste-and-class-001",
+      "topic_key": "kinship-caste-and-class",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Kinship, Caste and Class?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinship, Caste and Class, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinship, Caste and Class uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kinship-caste-and-class-002",
+      "topic_key": "kinship-caste-and-class",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Kinship, Caste and Class?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinship, Caste and Class, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinship, Caste and Class uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-kinship-caste-and-class-003",
+      "topic_key": "kinship-caste-and-class",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Kinship, Caste and Class?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinship, Caste and Class, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinship, Caste and Class uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-thinkers-beliefs-and-buildings-001",
+      "topic_key": "thinkers-beliefs-and-buildings",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Thinkers, Beliefs and Buildings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thinkers, Beliefs and Buildings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thinkers, Beliefs and Buildings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-thinkers-beliefs-and-buildings-002",
+      "topic_key": "thinkers-beliefs-and-buildings",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Thinkers, Beliefs and Buildings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thinkers, Beliefs and Buildings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thinkers, Beliefs and Buildings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-thinkers-beliefs-and-buildings-003",
+      "topic_key": "thinkers-beliefs-and-buildings",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Thinkers, Beliefs and Buildings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thinkers, Beliefs and Buildings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thinkers, Beliefs and Buildings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-through-the-eyes-of-travellers-001",
+      "topic_key": "through-the-eyes-of-travellers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Through the Eyes of Travellers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Through the Eyes of Travellers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Through the Eyes of Travellers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-through-the-eyes-of-travellers-002",
+      "topic_key": "through-the-eyes-of-travellers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Through the Eyes of Travellers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Through the Eyes of Travellers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Through the Eyes of Travellers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-through-the-eyes-of-travellers-003",
+      "topic_key": "through-the-eyes-of-travellers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Through the Eyes of Travellers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Through the Eyes of Travellers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Through the Eyes of Travellers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bhakti-sufi-traditions-001",
+      "topic_key": "bhakti-sufi-traditions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Bhakti-Sufi Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bhakti-Sufi Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bhakti-Sufi Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bhakti-sufi-traditions-002",
+      "topic_key": "bhakti-sufi-traditions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Bhakti-Sufi Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bhakti-Sufi Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bhakti-Sufi Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-bhakti-sufi-traditions-003",
+      "topic_key": "bhakti-sufi-traditions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Bhakti-Sufi Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bhakti-Sufi Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bhakti-Sufi Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-imperial-capital-vijayanagara-001",
+      "topic_key": "an-imperial-capital-vijayanagara",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about An Imperial Capital: Vijayanagara?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Imperial Capital: Vijayanagara, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Imperial Capital: Vijayanagara uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-imperial-capital-vijayanagara-002",
+      "topic_key": "an-imperial-capital-vijayanagara",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving An Imperial Capital: Vijayanagara?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Imperial Capital: Vijayanagara, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Imperial Capital: Vijayanagara uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-an-imperial-capital-vijayanagara-003",
+      "topic_key": "an-imperial-capital-vijayanagara",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise An Imperial Capital: Vijayanagara?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for An Imperial Capital: Vijayanagara, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on An Imperial Capital: Vijayanagara uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-peasants-zamindars-and-the-state-001",
+      "topic_key": "peasants-zamindars-and-the-state",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Peasants, Zamindars and the State?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Peasants, Zamindars and the State, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Peasants, Zamindars and the State uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-peasants-zamindars-and-the-state-002",
+      "topic_key": "peasants-zamindars-and-the-state",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Peasants, Zamindars and the State?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Peasants, Zamindars and the State, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Peasants, Zamindars and the State uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-peasants-zamindars-and-the-state-003",
+      "topic_key": "peasants-zamindars-and-the-state",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Peasants, Zamindars and the State?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Peasants, Zamindars and the State, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Peasants, Zamindars and the State uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-colonialism-and-the-countryside-001",
+      "topic_key": "colonialism-and-the-countryside",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Colonialism and the Countryside?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colonialism and the Countryside, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colonialism and the Countryside uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-colonialism-and-the-countryside-002",
+      "topic_key": "colonialism-and-the-countryside",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Colonialism and the Countryside?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colonialism and the Countryside, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colonialism and the Countryside uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-colonialism-and-the-countryside-003",
+      "topic_key": "colonialism-and-the-countryside",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Colonialism and the Countryside?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colonialism and the Countryside, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colonialism and the Countryside uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-mahatma-gandhi-and-the-nationalist-movement-001",
+      "topic_key": "mahatma-gandhi-and-the-nationalist-movement",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Mahatma Gandhi and the Nationalist Movement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mahatma Gandhi and the Nationalist Movement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mahatma Gandhi and the Nationalist Movement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-mahatma-gandhi-and-the-nationalist-movement-002",
+      "topic_key": "mahatma-gandhi-and-the-nationalist-movement",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Mahatma Gandhi and the Nationalist Movement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mahatma Gandhi and the Nationalist Movement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mahatma Gandhi and the Nationalist Movement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-mahatma-gandhi-and-the-nationalist-movement-003",
+      "topic_key": "mahatma-gandhi-and-the-nationalist-movement",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Mahatma Gandhi and the Nationalist Movement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mahatma Gandhi and the Nationalist Movement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mahatma Gandhi and the Nationalist Movement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-framing-the-constitution-001",
+      "topic_key": "framing-the-constitution",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Framing the Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Framing the Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Framing the Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-framing-the-constitution-002",
+      "topic_key": "framing-the-constitution",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Framing the Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Framing the Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Framing the Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-arts-history-framing-the-constitution-003",
+      "topic_key": "framing-the-constitution",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Framing the Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Framing the Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Framing the Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

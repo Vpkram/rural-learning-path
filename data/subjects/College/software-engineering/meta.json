@@ -1,0 +1,8 @@
+{
+  "class": "College",
+  "subject": "Software Engineering",
+  "board": "University",
+  "language": "en",
+  "status": "draft",
+  "version": "1.0"
+}

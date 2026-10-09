@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-5-environmental-studies",
+    "name": "Environmental Studies",
+    "class_level": "Class 5",
+    "stream": "",
+    "description": "Class 5  Environmental Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "super-senses",
+      "name": "Super Senses",
+      "description": "Study and practise the ideas in Super Senses.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "a-snake-charmer-s-story",
+      "name": "A Snake Charmer's Story",
+      "description": "Study and practise the ideas in A Snake Charmer's Story.",
+      "prerequisites": [
+        "super-senses"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "from-tasting-to-digesting",
+      "name": "From Tasting to Digesting",
+      "description": "Study and practise the ideas in From Tasting to Digesting.",
+      "prerequisites": [
+        "a-snake-charmer-s-story"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "mangoes-round-the-year",
+      "name": "Mangoes Round the Year",
+      "description": "Study and practise the ideas in Mangoes Round the Year.",
+      "prerequisites": [
+        "from-tasting-to-digesting"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "seeds-and-seeds",
+      "name": "Seeds and Seeds",
+      "description": "Study and practise the ideas in Seeds and Seeds.",
+      "prerequisites": [
+        "mangoes-round-the-year"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

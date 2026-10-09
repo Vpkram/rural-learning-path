@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "key": "class-11-science-computer-science",
+    "name": "Computer Science",
+    "class_level": "Class 11",
+    "stream": "Science",
+    "description": "Class 11 Science Computer Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "computer-systems",
+      "name": "Computer Systems",
+      "description": "Study and practise the ideas in Computer Systems.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "boolean-logic",
+      "name": "Boolean Logic",
+      "description": "Study and practise the ideas in Boolean Logic.",
+      "prerequisites": [
+        "computer-systems"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "number-systems",
+      "name": "Number Systems",
+      "description": "Study and practise the ideas in Number Systems.",
+      "prerequisites": [
+        "boolean-logic"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "python-fundamentals",
+      "name": "Python Fundamentals",
+      "description": "Study and practise the ideas in Python Fundamentals.",
+      "prerequisites": [
+        "number-systems"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "conditional-and-iterative-statements",
+      "name": "Conditional and Iterative Statements",
+      "description": "Study and practise the ideas in Conditional and Iterative Statements.",
+      "prerequisites": [
+        "python-fundamentals"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "strings-and-lists",
+      "name": "Strings and Lists",
+      "description": "Study and practise the ideas in Strings and Lists.",
+      "prerequisites": [
+        "conditional-and-iterative-statements"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "tuples-and-dictionaries",
+      "name": "Tuples and Dictionaries",
+      "description": "Study and practise the ideas in Tuples and Dictionaries.",
+      "prerequisites": [
+        "strings-and-lists"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "functions",
+      "name": "Functions",
+      "description": "Study and practise the ideas in Functions.",
+      "prerequisites": [
+        "tuples-and-dictionaries"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "file-handling",
+      "name": "File Handling",
+      "description": "Study and practise the ideas in File Handling.",
+      "prerequisites": [
+        "functions"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "computer-networks",
+      "name": "Computer Networks",
+      "description": "Study and practise the ideas in Computer Networks.",
+      "prerequisites": [
+        "file-handling"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "database-concepts",
+      "name": "Database Concepts",
+      "description": "Study and practise the ideas in Database Concepts.",
+      "prerequisites": [
+        "computer-networks"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "sql",
+      "name": "SQL",
+      "description": "Study and practise the ideas in SQL.",
+      "prerequisites": [
+        "database-concepts"
+      ],
+      "sequence_number": 12
+    }
+  ]
+}

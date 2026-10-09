@@ -1,0 +1,81 @@
+{
+  "subject": {
+    "key": "class-9-social-science",
+    "name": "Social Science",
+    "class_level": "Class 9",
+    "stream": "",
+    "description": "Class 9  Social Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-french-revolution",
+      "name": "The French Revolution",
+      "description": "Study and practise the ideas in The French Revolution.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "socialism-in-europe-and-the-russian-revolution",
+      "name": "Socialism in Europe and the Russian Revolution",
+      "description": "Study and practise the ideas in Socialism in Europe and the Russian Revolution.",
+      "prerequisites": [
+        "the-french-revolution"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "india-size-and-location",
+      "name": "India: Size and Location",
+      "description": "Study and practise the ideas in India: Size and Location.",
+      "prerequisites": [
+        "socialism-in-europe-and-the-russian-revolution"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "physical-features-of-india",
+      "name": "Physical Features of India",
+      "description": "Study and practise the ideas in Physical Features of India.",
+      "prerequisites": [
+        "india-size-and-location"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "what-is-democracy-why-democracy",
+      "name": "What Is Democracy? Why Democracy?",
+      "description": "Study and practise the ideas in What Is Democracy? Why Democracy?.",
+      "prerequisites": [
+        "physical-features-of-india"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "constitutional-design",
+      "name": "Constitutional Design",
+      "description": "Study and practise the ideas in Constitutional Design.",
+      "prerequisites": [
+        "what-is-democracy-why-democracy"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "the-story-of-village-palampur",
+      "name": "The Story of Village Palampur",
+      "description": "Study and practise the ideas in The Story of Village Palampur.",
+      "prerequisites": [
+        "constitutional-design"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "people-as-resource",
+      "name": "People as Resource",
+      "description": "Study and practise the ideas in People as Resource.",
+      "prerequisites": [
+        "the-story-of-village-palampur"
+      ],
+      "sequence_number": 8
+    }
+  ]
+}

@@ -1,0 +1,964 @@
+{
+  "questions": [
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-001",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Patterns in Mathematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-002",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Patterns in Mathematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-003",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Patterns in Mathematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-004",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 2,
+      "prompt": "When applying Patterns in Mathematics, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-005",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Patterns in Mathematics. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-patterns-in-mathematics-006",
+      "topic_key": "patterns-in-mathematics",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Patterns in Mathematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns in Mathematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns in Mathematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-001",
+      "topic_key": "lines-and-angles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-002",
+      "topic_key": "lines-and-angles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-003",
+      "topic_key": "lines-and-angles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-004",
+      "topic_key": "lines-and-angles",
+      "difficulty": 2,
+      "prompt": "When applying Lines and Angles, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-005",
+      "topic_key": "lines-and-angles",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Lines and Angles. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-lines-and-angles-006",
+      "topic_key": "lines-and-angles",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-001",
+      "topic_key": "number-play",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-002",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-003",
+      "topic_key": "number-play",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-004",
+      "topic_key": "number-play",
+      "difficulty": 2,
+      "prompt": "When applying Number Play, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-005",
+      "topic_key": "number-play",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Number Play. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-number-play-006",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-001",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Data Handling and Presentation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-002",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Data Handling and Presentation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-003",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Data Handling and Presentation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-004",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 2,
+      "prompt": "When applying Data Handling and Presentation, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-005",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Data Handling and Presentation. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-data-handling-and-presentation-006",
+      "topic_key": "data-handling-and-presentation",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Data Handling and Presentation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Handling and Presentation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Handling and Presentation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-001",
+      "topic_key": "prime-time",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Prime Time?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-002",
+      "topic_key": "prime-time",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Prime Time?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-003",
+      "topic_key": "prime-time",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Prime Time?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-004",
+      "topic_key": "prime-time",
+      "difficulty": 2,
+      "prompt": "When applying Prime Time, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-005",
+      "topic_key": "prime-time",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Prime Time. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-prime-time-006",
+      "topic_key": "prime-time",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Prime Time?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Prime Time, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Prime Time uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-001",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Perimeter and Area?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-002",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Perimeter and Area?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-003",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Perimeter and Area?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-004",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 2,
+      "prompt": "When applying Perimeter and Area, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-005",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Perimeter and Area. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-perimeter-and-area-006",
+      "topic_key": "perimeter-and-area",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Perimeter and Area?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Perimeter and Area, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Perimeter and Area uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-001",
+      "topic_key": "fractions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-002",
+      "topic_key": "fractions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-003",
+      "topic_key": "fractions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-004",
+      "topic_key": "fractions",
+      "difficulty": 2,
+      "prompt": "When applying Fractions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-005",
+      "topic_key": "fractions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Fractions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-fractions-006",
+      "topic_key": "fractions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-001",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Playing with Constructions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-002",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Playing with Constructions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-003",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Playing with Constructions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-004",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 2,
+      "prompt": "When applying Playing with Constructions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-005",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Playing with Constructions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-playing-with-constructions-006",
+      "topic_key": "playing-with-constructions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Playing with Constructions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Playing with Constructions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Playing with Constructions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-001",
+      "topic_key": "symmetry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Symmetry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-002",
+      "topic_key": "symmetry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Symmetry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-003",
+      "topic_key": "symmetry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Symmetry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-004",
+      "topic_key": "symmetry",
+      "difficulty": 2,
+      "prompt": "When applying Symmetry, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-005",
+      "topic_key": "symmetry",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Symmetry. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-symmetry-006",
+      "topic_key": "symmetry",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Symmetry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Symmetry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Symmetry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-001",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Other Side of Zero?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-002",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Other Side of Zero?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-003",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Other Side of Zero?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-004",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 2,
+      "prompt": "When applying The Other Side of Zero, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-005",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Other Side of Zero. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-mathematics-the-other-side-of-zero-006",
+      "topic_key": "the-other-side-of-zero",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Other Side of Zero?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Other Side of Zero, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Other Side of Zero uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

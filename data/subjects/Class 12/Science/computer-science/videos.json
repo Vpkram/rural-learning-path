@@ -1,0 +1,220 @@
+{
+  "videos": [
+    {
+      "topic": "Computer Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Computer Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Boolean Logic",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Boolean Logic",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Number Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Number Systems",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Python Fundamentals",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Python Fundamentals",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Conditional and Iterative Statements",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Conditional and Iterative Statements",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Strings and Lists",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Strings and Lists",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Tuples and Dictionaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Tuples and Dictionaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Functions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Functions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "File Handling",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "File Handling",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Computer Networks",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Computer Networks",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Database Concepts",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Database Concepts",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "SQL",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "SQL",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

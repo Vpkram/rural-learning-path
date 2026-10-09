@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-3-telugu",
+    "name": "Telugu",
+    "class_level": "Class 3",
+    "stream": "",
+    "description": "Class 3  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "పద సంపద",
+      "description": "Study and practise the ideas in పద సంపద.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "నామవాచకం క్రియ",
+      "description": "Study and practise the ideas in నామవాచకం క్రియ.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "పఠన అవగాహన",
+      "description": "Study and practise the ideas in పఠన అవగాహన.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "పద్య భావం",
+      "description": "Study and practise the ideas in పద్య భావం.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "సంభాషణ రచన",
+      "description": "Study and practise the ideas in సంభాషణ రచన.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

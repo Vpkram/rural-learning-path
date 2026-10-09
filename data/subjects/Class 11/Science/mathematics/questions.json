@@ -1,0 +1,916 @@
+{
+  "questions": [
+    {
+      "key": "class-11-science-mathematics-sets-001",
+      "topic_key": "sets",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-sets-002",
+      "topic_key": "sets",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-sets-003",
+      "topic_key": "sets",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-relations-and-functions-001",
+      "topic_key": "relations-and-functions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Relations and Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Relations and Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Relations and Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-relations-and-functions-002",
+      "topic_key": "relations-and-functions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Relations and Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Relations and Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Relations and Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-relations-and-functions-003",
+      "topic_key": "relations-and-functions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Relations and Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Relations and Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Relations and Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-trigonometric-functions-001",
+      "topic_key": "trigonometric-functions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Trigonometric Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trigonometric Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trigonometric Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-trigonometric-functions-002",
+      "topic_key": "trigonometric-functions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Trigonometric Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trigonometric Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trigonometric Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-trigonometric-functions-003",
+      "topic_key": "trigonometric-functions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Trigonometric Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trigonometric Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trigonometric Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-complex-numbers-001",
+      "topic_key": "complex-numbers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Complex Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Complex Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Complex Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-complex-numbers-002",
+      "topic_key": "complex-numbers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Complex Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Complex Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Complex Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-complex-numbers-003",
+      "topic_key": "complex-numbers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Complex Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Complex Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Complex Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-linear-inequalities-001",
+      "topic_key": "linear-inequalities",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Linear Inequalities?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Inequalities, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Inequalities uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-linear-inequalities-002",
+      "topic_key": "linear-inequalities",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Linear Inequalities?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Inequalities, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Inequalities uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-linear-inequalities-003",
+      "topic_key": "linear-inequalities",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Linear Inequalities?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Inequalities, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Inequalities uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-permutations-and-combinations-001",
+      "topic_key": "permutations-and-combinations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Permutations and Combinations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Permutations and Combinations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Permutations and Combinations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-permutations-and-combinations-002",
+      "topic_key": "permutations-and-combinations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Permutations and Combinations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Permutations and Combinations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Permutations and Combinations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-permutations-and-combinations-003",
+      "topic_key": "permutations-and-combinations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Permutations and Combinations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Permutations and Combinations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Permutations and Combinations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-binomial-theorem-001",
+      "topic_key": "binomial-theorem",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Binomial Theorem?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Binomial Theorem, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Binomial Theorem uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-binomial-theorem-002",
+      "topic_key": "binomial-theorem",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Binomial Theorem?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Binomial Theorem, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Binomial Theorem uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-binomial-theorem-003",
+      "topic_key": "binomial-theorem",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Binomial Theorem?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Binomial Theorem, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Binomial Theorem uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-sequences-and-series-001",
+      "topic_key": "sequences-and-series",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sequences and Series?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Series, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Series uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-sequences-and-series-002",
+      "topic_key": "sequences-and-series",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sequences and Series?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Series, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Series uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-sequences-and-series-003",
+      "topic_key": "sequences-and-series",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sequences and Series?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Series, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Series uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-straight-lines-001",
+      "topic_key": "straight-lines",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Straight Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Straight Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Straight Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-straight-lines-002",
+      "topic_key": "straight-lines",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Straight Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Straight Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Straight Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-straight-lines-003",
+      "topic_key": "straight-lines",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Straight Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Straight Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Straight Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-conic-sections-001",
+      "topic_key": "conic-sections",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Conic Sections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conic Sections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conic Sections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-conic-sections-002",
+      "topic_key": "conic-sections",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Conic Sections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conic Sections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conic Sections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-conic-sections-003",
+      "topic_key": "conic-sections",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Conic Sections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conic Sections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conic Sections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-limits-and-derivatives-001",
+      "topic_key": "limits-and-derivatives",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Limits and Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Limits and Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Limits and Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-limits-and-derivatives-002",
+      "topic_key": "limits-and-derivatives",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Limits and Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Limits and Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Limits and Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-limits-and-derivatives-003",
+      "topic_key": "limits-and-derivatives",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Limits and Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Limits and Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Limits and Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-statistics-and-probability-001",
+      "topic_key": "statistics-and-probability",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Statistics and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-statistics-and-probability-002",
+      "topic_key": "statistics-and-probability",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Statistics and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-statistics-and-probability-003",
+      "topic_key": "statistics-and-probability",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Statistics and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-matrices-001",
+      "topic_key": "matrices",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Matrices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Matrices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Matrices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-matrices-002",
+      "topic_key": "matrices",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Matrices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Matrices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Matrices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-matrices-003",
+      "topic_key": "matrices",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Matrices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Matrices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Matrices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-determinants-001",
+      "topic_key": "determinants",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Determinants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Determinants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Determinants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-determinants-002",
+      "topic_key": "determinants",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Determinants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Determinants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Determinants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-determinants-003",
+      "topic_key": "determinants",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Determinants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Determinants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Determinants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-continuity-and-differentiability-001",
+      "topic_key": "continuity-and-differentiability",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Continuity and Differentiability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Continuity and Differentiability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Continuity and Differentiability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-continuity-and-differentiability-002",
+      "topic_key": "continuity-and-differentiability",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Continuity and Differentiability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Continuity and Differentiability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Continuity and Differentiability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-continuity-and-differentiability-003",
+      "topic_key": "continuity-and-differentiability",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Continuity and Differentiability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Continuity and Differentiability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Continuity and Differentiability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-applications-of-derivatives-001",
+      "topic_key": "applications-of-derivatives",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Applications of Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Applications of Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Applications of Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-applications-of-derivatives-002",
+      "topic_key": "applications-of-derivatives",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Applications of Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Applications of Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Applications of Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-applications-of-derivatives-003",
+      "topic_key": "applications-of-derivatives",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Applications of Derivatives?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Applications of Derivatives, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Applications of Derivatives uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-integrals-001",
+      "topic_key": "integrals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Integrals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Integrals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Integrals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-integrals-002",
+      "topic_key": "integrals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Integrals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Integrals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Integrals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-integrals-003",
+      "topic_key": "integrals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Integrals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Integrals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Integrals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-differential-equations-001",
+      "topic_key": "differential-equations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Differential Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Differential Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Differential Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-differential-equations-002",
+      "topic_key": "differential-equations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Differential Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Differential Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Differential Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-differential-equations-003",
+      "topic_key": "differential-equations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Differential Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Differential Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Differential Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-vectors-and-three-dimensional-geometry-001",
+      "topic_key": "vectors-and-three-dimensional-geometry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Vectors and Three-Dimensional Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Vectors and Three-Dimensional Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Vectors and Three-Dimensional Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-vectors-and-three-dimensional-geometry-002",
+      "topic_key": "vectors-and-three-dimensional-geometry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Vectors and Three-Dimensional Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Vectors and Three-Dimensional Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Vectors and Three-Dimensional Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-mathematics-vectors-and-three-dimensional-geometry-003",
+      "topic_key": "vectors-and-three-dimensional-geometry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Vectors and Three-Dimensional Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Vectors and Three-Dimensional Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Vectors and Three-Dimensional Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

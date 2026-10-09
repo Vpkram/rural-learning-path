@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "key": "class-9-science",
+    "name": "Science",
+    "class_level": "Class 9",
+    "stream": "",
+    "description": "Class 9  Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "matter-in-our-surroundings",
+      "name": "Matter in Our Surroundings",
+      "description": "Study and practise the ideas in Matter in Our Surroundings.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "is-matter-around-us-pure",
+      "name": "Is Matter Around Us Pure?",
+      "description": "Study and practise the ideas in Is Matter Around Us Pure?.",
+      "prerequisites": [
+        "matter-in-our-surroundings"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "atoms-and-molecules",
+      "name": "Atoms and Molecules",
+      "description": "Study and practise the ideas in Atoms and Molecules.",
+      "prerequisites": [
+        "is-matter-around-us-pure"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "structure-of-the-atom",
+      "name": "Structure of the Atom",
+      "description": "Study and practise the ideas in Structure of the Atom.",
+      "prerequisites": [
+        "atoms-and-molecules"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-fundamental-unit-of-life",
+      "name": "The Fundamental Unit of Life",
+      "description": "Study and practise the ideas in The Fundamental Unit of Life.",
+      "prerequisites": [
+        "structure-of-the-atom"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "tissues",
+      "name": "Tissues",
+      "description": "Study and practise the ideas in Tissues.",
+      "prerequisites": [
+        "the-fundamental-unit-of-life"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "motion",
+      "name": "Motion",
+      "description": "Study and practise the ideas in Motion.",
+      "prerequisites": [
+        "tissues"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "force-and-laws-of-motion",
+      "name": "Force and Laws of Motion",
+      "description": "Study and practise the ideas in Force and Laws of Motion.",
+      "prerequisites": [
+        "motion"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "gravitation",
+      "name": "Gravitation",
+      "description": "Study and practise the ideas in Gravitation.",
+      "prerequisites": [
+        "force-and-laws-of-motion"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "work-and-energy",
+      "name": "Work and Energy",
+      "description": "Study and practise the ideas in Work and Energy.",
+      "prerequisites": [
+        "gravitation"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "sound",
+      "name": "Sound",
+      "description": "Study and practise the ideas in Sound.",
+      "prerequisites": [
+        "work-and-energy"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "improvement-in-food-resources",
+      "name": "Improvement in Food Resources",
+      "description": "Study and practise the ideas in Improvement in Food Resources.",
+      "prerequisites": [
+        "sound"
+      ],
+      "sequence_number": 12
+    }
+  ]
+}

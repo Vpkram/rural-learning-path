@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-6-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "patterns-in-mathematics",
+      "name": "Patterns in Mathematics",
+      "description": "Study and practise the ideas in Patterns in Mathematics.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "lines-and-angles",
+      "name": "Lines and Angles",
+      "description": "Study and practise the ideas in Lines and Angles.",
+      "prerequisites": [
+        "patterns-in-mathematics"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "number-play",
+      "name": "Number Play",
+      "description": "Study and practise the ideas in Number Play.",
+      "prerequisites": [
+        "lines-and-angles"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "data-handling-and-presentation",
+      "name": "Data Handling and Presentation",
+      "description": "Study and practise the ideas in Data Handling and Presentation.",
+      "prerequisites": [
+        "number-play"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "prime-time",
+      "name": "Prime Time",
+      "description": "Study and practise the ideas in Prime Time.",
+      "prerequisites": [
+        "data-handling-and-presentation"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "perimeter-and-area",
+      "name": "Perimeter and Area",
+      "description": "Study and practise the ideas in Perimeter and Area.",
+      "prerequisites": [
+        "prime-time"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "fractions",
+      "name": "Fractions",
+      "description": "Study and practise the ideas in Fractions.",
+      "prerequisites": [
+        "perimeter-and-area"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "playing-with-constructions",
+      "name": "Playing with Constructions",
+      "description": "Study and practise the ideas in Playing with Constructions.",
+      "prerequisites": [
+        "fractions"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "symmetry",
+      "name": "Symmetry",
+      "description": "Study and practise the ideas in Symmetry.",
+      "prerequisites": [
+        "playing-with-constructions"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "the-other-side-of-zero",
+      "name": "The Other Side of Zero",
+      "description": "Study and practise the ideas in The Other Side of Zero.",
+      "prerequisites": [
+        "symmetry"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

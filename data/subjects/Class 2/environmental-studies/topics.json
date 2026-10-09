@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-2-environmental-studies",
+    "name": "Environmental Studies",
+    "class_level": "Class 2",
+    "stream": "",
+    "description": "Class 2  Environmental Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "our-neighbourhood",
+      "name": "Our Neighbourhood",
+      "description": "Study and practise the ideas in Our Neighbourhood.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "food-and-health",
+      "name": "Food and Health",
+      "description": "Study and practise the ideas in Food and Health.",
+      "prerequisites": [
+        "our-neighbourhood"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "water-and-weather",
+      "name": "Water and Weather",
+      "description": "Study and practise the ideas in Water and Weather.",
+      "prerequisites": [
+        "food-and-health"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "animals-around-us",
+      "name": "Animals Around Us",
+      "description": "Study and practise the ideas in Animals Around Us.",
+      "prerequisites": [
+        "water-and-weather"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "travel-and-communication",
+      "name": "Travel and Communication",
+      "description": "Study and practise the ideas in Travel and Communication.",
+      "prerequisites": [
+        "animals-around-us"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

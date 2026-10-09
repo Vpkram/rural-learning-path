@@ -1,0 +1,166 @@
+{
+  "videos": [
+    {
+      "topic": "Data Summaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Data Summaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Counting and Probability",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Counting and Probability",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Conditional Probability",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Conditional Probability",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Random Variables",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Random Variables",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Probability Distributions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Probability Distributions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Expectation and Variance",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Expectation and Variance",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Sampling and Estimation",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Sampling and Estimation",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Confidence Intervals",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Confidence Intervals",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Hypothesis Testing",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Hypothesis Testing",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

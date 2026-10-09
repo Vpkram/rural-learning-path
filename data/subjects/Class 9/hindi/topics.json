@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-9-hindi",
+    "name": "Hindi",
+    "class_level": "Class 9",
+    "stream": "",
+    "description": "Class 9  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "दो बैलों की कथा",
+      "description": "Study and practise the ideas in दो बैलों की कथा.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "ल्हासा की ओर",
+      "description": "Study and practise the ideas in ल्हासा की ओर.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "उपभोक्तावाद की संस्कृति",
+      "description": "Study and practise the ideas in उपभोक्तावाद की संस्कृति.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "साँवले सपनों की याद",
+      "description": "Study and practise the ideas in साँवले सपनों की याद.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "नाना साहब की पुत्री",
+      "description": "Study and practise the ideas in नाना साहब की पुत्री.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

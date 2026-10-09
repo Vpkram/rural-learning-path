@@ -1,0 +1,144 @@
+{
+  "subject": {
+    "key": "class-12-commerce-economics",
+    "name": "Economics",
+    "class_level": "Class 12",
+    "stream": "Commerce",
+    "description": "Class 12 Commerce Economics learning pack"
+  },
+  "topics": [
+    {
+      "key": "introduction-to-economics",
+      "name": "Introduction to Economics",
+      "description": "Study and practise the ideas in Introduction to Economics.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "consumer-behaviour",
+      "name": "Consumer Behaviour",
+      "description": "Study and practise the ideas in Consumer Behaviour.",
+      "prerequisites": [
+        "introduction-to-economics"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "producer-behaviour",
+      "name": "Producer Behaviour",
+      "description": "Study and practise the ideas in Producer Behaviour.",
+      "prerequisites": [
+        "consumer-behaviour"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "market-forms",
+      "name": "Market Forms",
+      "description": "Study and practise the ideas in Market Forms.",
+      "prerequisites": [
+        "producer-behaviour"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "national-income",
+      "name": "National Income",
+      "description": "Study and practise the ideas in National Income.",
+      "prerequisites": [
+        "market-forms"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "money-and-banking",
+      "name": "Money and Banking",
+      "description": "Study and practise the ideas in Money and Banking.",
+      "prerequisites": [
+        "national-income"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "income-determination",
+      "name": "Income Determination",
+      "description": "Study and practise the ideas in Income Determination.",
+      "prerequisites": [
+        "money-and-banking"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "government-budget",
+      "name": "Government Budget",
+      "description": "Study and practise the ideas in Government Budget.",
+      "prerequisites": [
+        "income-determination"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "balance-of-payments",
+      "name": "Balance of Payments",
+      "description": "Study and practise the ideas in Balance of Payments.",
+      "prerequisites": [
+        "government-budget"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "development-experience",
+      "name": "Development Experience",
+      "description": "Study and practise the ideas in Development Experience.",
+      "prerequisites": [
+        "balance-of-payments"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "indian-economy-on-the-eve-of-independence",
+      "name": "Indian Economy on the Eve of Independence",
+      "description": "Study and practise the ideas in Indian Economy on the Eve of Independence.",
+      "prerequisites": [
+        "development-experience"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "economic-reforms",
+      "name": "Economic Reforms",
+      "description": "Study and practise the ideas in Economic Reforms.",
+      "prerequisites": [
+        "indian-economy-on-the-eve-of-independence"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "human-capital",
+      "name": "Human Capital",
+      "description": "Study and practise the ideas in Human Capital.",
+      "prerequisites": [
+        "economic-reforms"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "rural-development",
+      "name": "Rural Development",
+      "description": "Study and practise the ideas in Rural Development.",
+      "prerequisites": [
+        "human-capital"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "employment-and-sustainable-development",
+      "name": "Employment and Sustainable Development",
+      "description": "Study and practise the ideas in Employment and Sustainable Development.",
+      "prerequisites": [
+        "rural-development"
+      ],
+      "sequence_number": 15
+    }
+  ]
+}

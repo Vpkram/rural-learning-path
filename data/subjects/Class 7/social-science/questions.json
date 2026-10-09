@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "key": "class-7-social-science-understanding-the-past-001",
+      "topic_key": "understanding-the-past",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Understanding the Past?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Understanding the Past, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Understanding the Past uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-understanding-the-past-002",
+      "topic_key": "understanding-the-past",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Understanding the Past?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Understanding the Past, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Understanding the Past uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-understanding-the-past-003",
+      "topic_key": "understanding-the-past",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Understanding the Past?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Understanding the Past, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Understanding the Past uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-new-beginnings-and-empires-001",
+      "topic_key": "new-beginnings-and-empires",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about New Beginnings and Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for New Beginnings and Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on New Beginnings and Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-new-beginnings-and-empires-002",
+      "topic_key": "new-beginnings-and-empires",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving New Beginnings and Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for New Beginnings and Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on New Beginnings and Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-new-beginnings-and-empires-003",
+      "topic_key": "new-beginnings-and-empires",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise New Beginnings and Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for New Beginnings and Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on New Beginnings and Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-rise-of-kingdoms-001",
+      "topic_key": "the-rise-of-kingdoms",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Rise of Kingdoms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Kingdoms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Kingdoms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-rise-of-kingdoms-002",
+      "topic_key": "the-rise-of-kingdoms",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Rise of Kingdoms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Kingdoms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Kingdoms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-rise-of-kingdoms-003",
+      "topic_key": "the-rise-of-kingdoms",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Rise of Kingdoms?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Kingdoms, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Kingdoms uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-political-formations-in-india-001",
+      "topic_key": "political-formations-in-india",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Political Formations in India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Political Formations in India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Political Formations in India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-political-formations-in-india-002",
+      "topic_key": "political-formations-in-india",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Political Formations in India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Political Formations in India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Political Formations in India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-political-formations-in-india-003",
+      "topic_key": "political-formations-in-india",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Political Formations in India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Political Formations in India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Political Formations in India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-atmosphere-001",
+      "topic_key": "the-atmosphere",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Atmosphere?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Atmosphere, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Atmosphere uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-atmosphere-002",
+      "topic_key": "the-atmosphere",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Atmosphere?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Atmosphere, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Atmosphere uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-atmosphere-003",
+      "topic_key": "the-atmosphere",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Atmosphere?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Atmosphere, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Atmosphere uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-water-001",
+      "topic_key": "water",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-water-002",
+      "topic_key": "water",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-water-003",
+      "topic_key": "water",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-tropical-and-subtropical-regions-001",
+      "topic_key": "tropical-and-subtropical-regions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Tropical and Subtropical Regions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tropical and Subtropical Regions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tropical and Subtropical Regions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-tropical-and-subtropical-regions-002",
+      "topic_key": "tropical-and-subtropical-regions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Tropical and Subtropical Regions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tropical and Subtropical Regions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tropical and Subtropical Regions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-tropical-and-subtropical-regions-003",
+      "topic_key": "tropical-and-subtropical-regions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Tropical and Subtropical Regions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tropical and Subtropical Regions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tropical and Subtropical Regions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-constitution-of-india-001",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-constitution-of-india-002",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-the-constitution-of-india-003",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-from-the-rulers-to-the-ruled-001",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-from-the-rulers-to-the-ruled-002",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-social-science-from-the-rulers-to-the-ruled-003",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

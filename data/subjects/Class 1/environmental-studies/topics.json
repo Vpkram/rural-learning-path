@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-1-environmental-studies",
+    "name": "Environmental Studies",
+    "class_level": "Class 1",
+    "stream": "",
+    "description": "Class 1  Environmental Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "my-family",
+      "name": "My Family",
+      "description": "Study and practise the ideas in My Family.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "my-body",
+      "name": "My Body",
+      "description": "Study and practise the ideas in My Body.",
+      "prerequisites": [
+        "my-family"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "food-around-us",
+      "name": "Food Around Us",
+      "description": "Study and practise the ideas in Food Around Us.",
+      "prerequisites": [
+        "my-body"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "water-around-us",
+      "name": "Water Around Us",
+      "description": "Study and practise the ideas in Water Around Us.",
+      "prerequisites": [
+        "food-around-us"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "plants-around-us",
+      "name": "Plants Around Us",
+      "description": "Study and practise the ideas in Plants Around Us.",
+      "prerequisites": [
+        "water-around-us"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

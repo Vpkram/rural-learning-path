@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-2-telugu-topic-01-001",
+      "topic_key": "topic-01",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about గుణింతాలు?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గుణింతాలు, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గుణింతాలు uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-01-002",
+      "topic_key": "topic-01",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving గుణింతాలు?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గుణింతాలు, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గుణింతాలు uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-01-003",
+      "topic_key": "topic-01",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise గుణింతాలు?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for గుణింతాలు, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on గుణింతాలు uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-02-001",
+      "topic_key": "topic-02",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about పద నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-02-002",
+      "topic_key": "topic-02",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving పద నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-02-003",
+      "topic_key": "topic-02",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise పద నిర్మాణం?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద నిర్మాణం, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద నిర్మాణం uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-03-001",
+      "topic_key": "topic-03",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about కథా అవగాహన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కథా అవగాహన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కథా అవగాహన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-03-002",
+      "topic_key": "topic-03",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving కథా అవగాహన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కథా అవగాహన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కథా అవగాహన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-03-003",
+      "topic_key": "topic-03",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise కథా అవగాహన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for కథా అవగాహన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on కథా అవగాహన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-04-001",
+      "topic_key": "topic-04",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about పద్య లయ?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద్య లయ, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద్య లయ uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-04-002",
+      "topic_key": "topic-04",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving పద్య లయ?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద్య లయ, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద్య లయ uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-04-003",
+      "topic_key": "topic-04",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise పద్య లయ?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for పద్య లయ, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on పద్య లయ uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-05-001",
+      "topic_key": "topic-05",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about చిత్ర రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for చిత్ర రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on చిత్ర రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-05-002",
+      "topic_key": "topic-05",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving చిత్ర రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for చిత్ర రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on చిత్ర రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-telugu-topic-05-003",
+      "topic_key": "topic-05",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise చిత్ర రచన?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for చిత్ర రచన, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on చిత్ర రచన uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

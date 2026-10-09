@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-python-programming",
+    "name": "Python Programming",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Python Programming learning pack"
+  },
+  "topics": [
+    {
+      "key": "python-values-and-types",
+      "name": "Python Values and Types",
+      "description": "Study and practise the ideas in Python Values and Types.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "expressions-and-operators",
+      "name": "Expressions and Operators",
+      "description": "Study and practise the ideas in Expressions and Operators.",
+      "prerequisites": [
+        "python-values-and-types"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "conditions-and-loops",
+      "name": "Conditions and Loops",
+      "description": "Study and practise the ideas in Conditions and Loops.",
+      "prerequisites": [
+        "expressions-and-operators"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "functions-and-scope",
+      "name": "Functions and Scope",
+      "description": "Study and practise the ideas in Functions and Scope.",
+      "prerequisites": [
+        "conditions-and-loops"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "sequences-and-dictionaries",
+      "name": "Sequences and Dictionaries",
+      "description": "Study and practise the ideas in Sequences and Dictionaries.",
+      "prerequisites": [
+        "functions-and-scope"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "files-and-exceptions",
+      "name": "Files and Exceptions",
+      "description": "Study and practise the ideas in Files and Exceptions.",
+      "prerequisites": [
+        "sequences-and-dictionaries"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "modules-and-packages",
+      "name": "Modules and Packages",
+      "description": "Study and practise the ideas in Modules and Packages.",
+      "prerequisites": [
+        "files-and-exceptions"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "classes-and-objects",
+      "name": "Classes and Objects",
+      "description": "Study and practise the ideas in Classes and Objects.",
+      "prerequisites": [
+        "modules-and-packages"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "testing-and-debugging",
+      "name": "Testing and Debugging",
+      "description": "Study and practise the ideas in Testing and Debugging.",
+      "prerequisites": [
+        "classes-and-objects"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "questions": [
+    {
+      "key": "class-8-social-science-natural-resources-and-their-use-001",
+      "topic_key": "natural-resources-and-their-use",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Natural Resources and their Use?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Natural Resources and their Use, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Natural Resources and their Use uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-natural-resources-and-their-use-002",
+      "topic_key": "natural-resources-and-their-use",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Natural Resources and their Use?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Natural Resources and their Use, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Natural Resources and their Use uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-natural-resources-and-their-use-003",
+      "topic_key": "natural-resources-and-their-use",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Natural Resources and their Use?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Natural Resources and their Use, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Natural Resources and their Use uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-landforms-and-life-001",
+      "topic_key": "landforms-and-life",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-landforms-and-life-002",
+      "topic_key": "landforms-and-life",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-landforms-and-life-003",
+      "topic_key": "landforms-and-life",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-rise-of-empires-001",
+      "topic_key": "the-rise-of-empires",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Rise of Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-rise-of-empires-002",
+      "topic_key": "the-rise-of-empires",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Rise of Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-rise-of-empires-003",
+      "topic_key": "the-rise-of-empires",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Rise of Empires?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Rise of Empires, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Rise of Empires uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-age-of-reorganisation-001",
+      "topic_key": "the-age-of-reorganisation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Age of Reorganisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Age of Reorganisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Age of Reorganisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-age-of-reorganisation-002",
+      "topic_key": "the-age-of-reorganisation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Age of Reorganisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Age of Reorganisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Age of Reorganisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-age-of-reorganisation-003",
+      "topic_key": "the-age-of-reorganisation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Age of Reorganisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Age of Reorganisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Age of Reorganisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-constitution-of-india-001",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-constitution-of-india-002",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-the-constitution-of-india-003",
+      "topic_key": "the-constitution-of-india",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Constitution of India?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Constitution of India, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Constitution of India uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-from-the-rulers-to-the-ruled-001",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-from-the-rulers-to-the-ruled-002",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-from-the-rulers-to-the-ruled-003",
+      "topic_key": "from-the-rulers-to-the-ruled",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise From the Rulers to the Ruled?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for From the Rulers to the Ruled, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on From the Rulers to the Ruled uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-factors-of-production-001",
+      "topic_key": "factors-of-production",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Factors of Production?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Factors of Production, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Factors of Production uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-factors-of-production-002",
+      "topic_key": "factors-of-production",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Factors of Production?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Factors of Production, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Factors of Production uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-factors-of-production-003",
+      "topic_key": "factors-of-production",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Factors of Production?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Factors of Production, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Factors of Production uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-markets-around-us-001",
+      "topic_key": "markets-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Markets Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Markets Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Markets Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-markets-around-us-002",
+      "topic_key": "markets-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Markets Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Markets Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Markets Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-social-science-markets-around-us-003",
+      "topic_key": "markets-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Markets Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Markets Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Markets Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

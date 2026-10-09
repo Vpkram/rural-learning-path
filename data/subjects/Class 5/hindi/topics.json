@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-5-hindi",
+    "name": "Hindi",
+    "class_level": "Class 5",
+    "stream": "",
+    "description": "Class 5  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "संधि और समास परिचय",
+      "description": "Study and practise the ideas in संधि और समास परिचय.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "काल और सर्वनाम",
+      "description": "Study and practise the ideas in काल और सर्वनाम.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "पाठ विश्लेषण",
+      "description": "Study and practise the ideas in पाठ विश्लेषण.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कविता रस",
+      "description": "Study and practise the ideas in कविता रस.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "रचनात्मक लेखन",
+      "description": "Study and practise the ideas in रचनात्मक लेखन.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

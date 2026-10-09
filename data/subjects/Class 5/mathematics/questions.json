@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-5-mathematics-the-fish-tale-001",
+      "topic_key": "the-fish-tale",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Fish Tale?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Fish Tale, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Fish Tale uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-the-fish-tale-002",
+      "topic_key": "the-fish-tale",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Fish Tale?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Fish Tale, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Fish Tale uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-the-fish-tale-003",
+      "topic_key": "the-fish-tale",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Fish Tale?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Fish Tale, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Fish Tale uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-shapes-and-angles-001",
+      "topic_key": "shapes-and-angles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Shapes and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-shapes-and-angles-002",
+      "topic_key": "shapes-and-angles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Shapes and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-shapes-and-angles-003",
+      "topic_key": "shapes-and-angles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Shapes and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Shapes and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Shapes and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-how-many-squares-001",
+      "topic_key": "how-many-squares",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about How Many Squares??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many Squares?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many Squares? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-how-many-squares-002",
+      "topic_key": "how-many-squares",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving How Many Squares??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many Squares?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many Squares? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-how-many-squares-003",
+      "topic_key": "how-many-squares",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise How Many Squares??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many Squares?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many Squares? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-parts-and-wholes-001",
+      "topic_key": "parts-and-wholes",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Parts and Wholes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parts and Wholes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parts and Wholes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-parts-and-wholes-002",
+      "topic_key": "parts-and-wholes",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Parts and Wholes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parts and Wholes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parts and Wholes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-parts-and-wholes-003",
+      "topic_key": "parts-and-wholes",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Parts and Wholes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parts and Wholes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parts and Wholes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-does-it-look-the-same-001",
+      "topic_key": "does-it-look-the-same",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Does it Look the Same??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Does it Look the Same?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Does it Look the Same? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-does-it-look-the-same-002",
+      "topic_key": "does-it-look-the-same",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Does it Look the Same??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Does it Look the Same?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Does it Look the Same? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-5-mathematics-does-it-look-the-same-003",
+      "topic_key": "does-it-look-the-same",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Does it Look the Same??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Does it Look the Same?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Does it Look the Same? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

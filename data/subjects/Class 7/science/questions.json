@@ -1,0 +1,1156 @@
+{
+  "questions": [
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-001",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Ever-Evolving World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-002",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Ever-Evolving World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-003",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Ever-Evolving World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-004",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 2,
+      "prompt": "When applying The Ever-Evolving World of Science, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-005",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Ever-Evolving World of Science. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-ever-evolving-world-of-science-006",
+      "topic_key": "the-ever-evolving-world-of-science",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Ever-Evolving World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Ever-Evolving World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Ever-Evolving World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-001",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Invisible Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-002",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Invisible Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-003",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Invisible Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-004",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 2,
+      "prompt": "When applying The Invisible Living World, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-005",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Invisible Living World. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-invisible-living-world-006",
+      "topic_key": "the-invisible-living-world",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Invisible Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Invisible Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Invisible Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-001",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Health: The Ultimate Treasure?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-002",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Health: The Ultimate Treasure?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-003",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Health: The Ultimate Treasure?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-004",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 2,
+      "prompt": "When applying Health: The Ultimate Treasure, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-005",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Health: The Ultimate Treasure. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-health-the-ultimate-treasure-006",
+      "topic_key": "health-the-ultimate-treasure",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Health: The Ultimate Treasure?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Health: The Ultimate Treasure, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Health: The Ultimate Treasure uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-001",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electricity: Circuits and their Components?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-002",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electricity: Circuits and their Components?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-003",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electricity: Circuits and their Components?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-004",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 2,
+      "prompt": "When applying Electricity: Circuits and their Components, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-005",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Electricity: Circuits and their Components. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-electricity-circuits-and-their-components-006",
+      "topic_key": "electricity-circuits-and-their-components",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Electricity: Circuits and their Components?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity: Circuits and their Components, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity: Circuits and their Components uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-001",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The World of Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-002",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The World of Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-003",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The World of Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-004",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 2,
+      "prompt": "When applying The World of Metals and Non-metals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-005",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The World of Metals and Non-metals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-the-world-of-metals-and-non-metals-006",
+      "topic_key": "the-world-of-metals-and-non-metals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The World of Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The World of Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The World of Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-001",
+      "topic_key": "changes-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Changes Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-002",
+      "topic_key": "changes-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Changes Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-003",
+      "topic_key": "changes-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Changes Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-004",
+      "topic_key": "changes-around-us",
+      "difficulty": 2,
+      "prompt": "When applying Changes Around Us, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-005",
+      "topic_key": "changes-around-us",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Changes Around Us. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-changes-around-us-006",
+      "topic_key": "changes-around-us",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Changes Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Changes Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Changes Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-001",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Transport of Substances in Plants and Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-002",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Transport of Substances in Plants and Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-003",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Transport of Substances in Plants and Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-004",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 2,
+      "prompt": "When applying Transport of Substances in Plants and Animals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-005",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Transport of Substances in Plants and Animals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-transport-of-substances-in-plants-and-animals-006",
+      "topic_key": "transport-of-substances-in-plants-and-animals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Transport of Substances in Plants and Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport of Substances in Plants and Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport of Substances in Plants and Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-001",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about How Nature Works in Harmony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-002",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving How Nature Works in Harmony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-003",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise How Nature Works in Harmony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-004",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 2,
+      "prompt": "When applying How Nature Works in Harmony, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-005",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing How Nature Works in Harmony. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-how-nature-works-in-harmony-006",
+      "topic_key": "how-nature-works-in-harmony",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying How Nature Works in Harmony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Nature Works in Harmony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Nature Works in Harmony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-001",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Life Processes in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-002",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Life Processes in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-003",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Life Processes in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-004",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 2,
+      "prompt": "When applying Life Processes in Animals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-005",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Life Processes in Animals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-animals-006",
+      "topic_key": "life-processes-in-animals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Life Processes in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-001",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Life Processes in Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-002",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Life Processes in Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-003",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Life Processes in Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-004",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 2,
+      "prompt": "When applying Life Processes in Plants, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-005",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Life Processes in Plants. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-life-processes-in-plants-006",
+      "topic_key": "life-processes-in-plants",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Life Processes in Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes in Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes in Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-001",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Light: Shadows and Reflections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-002",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Light: Shadows and Reflections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-003",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Light: Shadows and Reflections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-004",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 2,
+      "prompt": "When applying Light: Shadows and Reflections, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-005",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Light: Shadows and Reflections. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-light-shadows-and-reflections-006",
+      "topic_key": "light-shadows-and-reflections",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Light: Shadows and Reflections?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Shadows and Reflections, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Shadows and Reflections uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-001",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Earth, Moon, and the Sun?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-002",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Earth, Moon, and the Sun?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-003",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Earth, Moon, and the Sun?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-004",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 2,
+      "prompt": "When applying Earth, Moon, and the Sun, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-005",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Earth, Moon, and the Sun. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-science-earth-moon-and-the-sun-006",
+      "topic_key": "earth-moon-and-the-sun",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Earth, Moon, and the Sun?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Earth, Moon, and the Sun, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Earth, Moon, and the Sun uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

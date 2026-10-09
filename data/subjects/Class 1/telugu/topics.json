@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-1-telugu",
+    "name": "Telugu",
+    "class_level": "Class 1",
+    "stream": "",
+    "description": "Class 1  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "అక్షరాలు",
+      "description": "Study and practise the ideas in అక్షరాలు.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "పదాలు",
+      "description": "Study and practise the ideas in పదాలు.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "చిత్ర వివరణ",
+      "description": "Study and practise the ideas in చిత్ర వివరణ.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "చిన్న పద్యాలు",
+      "description": "Study and practise the ideas in చిన్న పద్యాలు.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "సరళ వాక్యాలు",
+      "description": "Study and practise the ideas in సరళ వాక్యాలు.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-10-telugu",
+    "name": "Telugu",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "గద్య రచన",
+      "description": "Study and practise the ideas in గద్య రచన.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "పద్య భావ విశ్లేషణ",
+      "description": "Study and practise the ideas in పద్య భావ విశ్లేషణ.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "వ్యాకరణం మరియు వాక్య నిర్మాణం",
+      "description": "Study and practise the ideas in వ్యాకరణం మరియు వాక్య నిర్మాణం.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "సృజనాత్మక రచన",
+      "description": "Study and practise the ideas in సృజనాత్మక రచన.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "సాహిత్య విమర్శ పరిచయం",
+      "description": "Study and practise the ideas in సాహిత్య విమర్శ పరిచయం.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

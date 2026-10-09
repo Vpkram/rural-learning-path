@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-1-hindi",
+    "name": "Hindi",
+    "class_level": "Class 1",
+    "stream": "",
+    "description": "Class 1  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "भाषा और ध्वनि",
+      "description": "Study and practise the ideas in भाषा और ध्वनि.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "शब्द पहचान",
+      "description": "Study and practise the ideas in शब्द पहचान.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "चित्र वर्णन",
+      "description": "Study and practise the ideas in चित्र वर्णन.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कविता पाठ",
+      "description": "Study and practise the ideas in कविता पाठ.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "सरल वाक्य",
+      "description": "Study and practise the ideas in सरल वाक्य.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

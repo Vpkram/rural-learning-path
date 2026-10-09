@@ -1,0 +1,198 @@
+{
+  "subject": {
+    "key": "class-11-arts-geography",
+    "name": "Geography",
+    "class_level": "Class 11",
+    "stream": "Arts",
+    "description": "Class 11 Arts Geography learning pack"
+  },
+  "topics": [
+    {
+      "key": "geography-as-a-discipline",
+      "name": "Geography as a Discipline",
+      "description": "Study and practise the ideas in Geography as a Discipline.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-origin-and-evolution-of-the-earth",
+      "name": "The Origin and Evolution of the Earth",
+      "description": "Study and practise the ideas in The Origin and Evolution of the Earth.",
+      "prerequisites": [
+        "geography-as-a-discipline"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "interior-of-the-earth",
+      "name": "Interior of the Earth",
+      "description": "Study and practise the ideas in Interior of the Earth.",
+      "prerequisites": [
+        "the-origin-and-evolution-of-the-earth"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "distribution-of-oceans-and-continents",
+      "name": "Distribution of Oceans and Continents",
+      "description": "Study and practise the ideas in Distribution of Oceans and Continents.",
+      "prerequisites": [
+        "interior-of-the-earth"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "geomorphic-processes",
+      "name": "Geomorphic Processes",
+      "description": "Study and practise the ideas in Geomorphic Processes.",
+      "prerequisites": [
+        "distribution-of-oceans-and-continents"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "landforms-and-their-evolution",
+      "name": "Landforms and their Evolution",
+      "description": "Study and practise the ideas in Landforms and their Evolution.",
+      "prerequisites": [
+        "geomorphic-processes"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "composition-and-structure-of-atmosphere",
+      "name": "Composition and Structure of Atmosphere",
+      "description": "Study and practise the ideas in Composition and Structure of Atmosphere.",
+      "prerequisites": [
+        "landforms-and-their-evolution"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "solar-radiation-and-heat-balance",
+      "name": "Solar Radiation and Heat Balance",
+      "description": "Study and practise the ideas in Solar Radiation and Heat Balance.",
+      "prerequisites": [
+        "composition-and-structure-of-atmosphere"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "atmospheric-circulation",
+      "name": "Atmospheric Circulation",
+      "description": "Study and practise the ideas in Atmospheric Circulation.",
+      "prerequisites": [
+        "solar-radiation-and-heat-balance"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "water-in-the-atmosphere",
+      "name": "Water in the Atmosphere",
+      "description": "Study and practise the ideas in Water in the Atmosphere.",
+      "prerequisites": [
+        "atmospheric-circulation"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "world-climate-and-climate-change",
+      "name": "World Climate and Climate Change",
+      "description": "Study and practise the ideas in World Climate and Climate Change.",
+      "prerequisites": [
+        "water-in-the-atmosphere"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "water-oceans",
+      "name": "Water (Oceans)",
+      "description": "Study and practise the ideas in Water (Oceans).",
+      "prerequisites": [
+        "world-climate-and-climate-change"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "biodiversity-and-conservation",
+      "name": "Biodiversity and Conservation",
+      "description": "Study and practise the ideas in Biodiversity and Conservation.",
+      "prerequisites": [
+        "water-oceans"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "population-distribution-density-and-growth",
+      "name": "Population: Distribution, Density and Growth",
+      "description": "Study and practise the ideas in Population: Distribution, Density and Growth.",
+      "prerequisites": [
+        "biodiversity-and-conservation"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "migration",
+      "name": "Migration",
+      "description": "Study and practise the ideas in Migration.",
+      "prerequisites": [
+        "population-distribution-density-and-growth"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "human-development",
+      "name": "Human Development",
+      "description": "Study and practise the ideas in Human Development.",
+      "prerequisites": [
+        "migration"
+      ],
+      "sequence_number": 16
+    },
+    {
+      "key": "primary-activities",
+      "name": "Primary Activities",
+      "description": "Study and practise the ideas in Primary Activities.",
+      "prerequisites": [
+        "human-development"
+      ],
+      "sequence_number": 17
+    },
+    {
+      "key": "secondary-activities",
+      "name": "Secondary Activities",
+      "description": "Study and practise the ideas in Secondary Activities.",
+      "prerequisites": [
+        "primary-activities"
+      ],
+      "sequence_number": 18
+    },
+    {
+      "key": "tertiary-and-quaternary-activities",
+      "name": "Tertiary and Quaternary Activities",
+      "description": "Study and practise the ideas in Tertiary and Quaternary Activities.",
+      "prerequisites": [
+        "secondary-activities"
+      ],
+      "sequence_number": 19
+    },
+    {
+      "key": "transport-and-communication",
+      "name": "Transport and Communication",
+      "description": "Study and practise the ideas in Transport and Communication.",
+      "prerequisites": [
+        "tertiary-and-quaternary-activities"
+      ],
+      "sequence_number": 20
+    },
+    {
+      "key": "international-trade",
+      "name": "International Trade",
+      "description": "Study and practise the ideas in International Trade.",
+      "prerequisites": [
+        "transport-and-communication"
+      ],
+      "sequence_number": 21
+    }
+  ]
+}

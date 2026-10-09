@@ -1,0 +1,94 @@
+{
+  "videos": [
+    {
+      "topic": "Database Basics",
+      "title": "Database basics video search - NPTEL",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=NPTEL+database+management+system+introduction",
+      "duration_min": 12,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Database Basics",
+      "title": "Database basics Telugu video search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=DBMS+introduction+Telugu",
+      "duration_min": 12,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Relational Model",
+      "title": "Relational model video search - NPTEL",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=NPTEL+relational+model+database",
+      "duration_min": 14,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Relational Model",
+      "title": "Relational model Telugu video search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=relational+model+DBMS+Telugu",
+      "duration_min": 14,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "SQL Basics",
+      "title": "SQL basics video search - NPTEL",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=NPTEL+SQL+basics+SELECT+WHERE",
+      "duration_min": 15,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "SQL Basics",
+      "title": "SQL basics Telugu video search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=SQL+basics+Telugu+SELECT+WHERE",
+      "duration_min": 15,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Normalization",
+      "title": "Normalization video search - NPTEL",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=NPTEL+database+normalization+1NF+2NF+3NF",
+      "duration_min": 15,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Normalization",
+      "title": "Normalization Telugu video search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=DBMS+normalization+1NF+2NF+3NF+Telugu",
+      "duration_min": 15,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Transactions",
+      "title": "Transactions video search - NPTEL",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=NPTEL+DBMS+transactions+ACID",
+      "duration_min": 14,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Transactions",
+      "title": "Transactions Telugu video search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=DBMS+transactions+ACID+Telugu",
+      "duration_min": 14,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

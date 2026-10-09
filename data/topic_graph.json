@@ -1,0 +1,40 @@
+{
+  "subject": "dbms",
+  "topics": [
+    {
+      "key": "database-basics",
+      "name": "Database Basics",
+      "prerequisites": []
+    },
+    {
+      "key": "relational-model",
+      "name": "Relational Model",
+      "prerequisites": [
+        "database-basics"
+      ]
+    },
+    {
+      "key": "sql-basics",
+      "name": "SQL Basics",
+      "prerequisites": [
+        "relational-model"
+      ]
+    },
+    {
+      "key": "normalization",
+      "name": "Normalization",
+      "prerequisites": [
+        "relational-model",
+        "sql-basics"
+      ]
+    },
+    {
+      "key": "transactions",
+      "name": "Transactions",
+      "prerequisites": [
+        "database-basics",
+        "relational-model"
+      ]
+    }
+  ]
+}

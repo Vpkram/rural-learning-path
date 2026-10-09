@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "key": "class-9-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 9",
+    "stream": "",
+    "description": "Class 9  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "number-systems",
+      "name": "Number Systems",
+      "description": "Study and practise the ideas in Number Systems.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "polynomials",
+      "name": "Polynomials",
+      "description": "Study and practise the ideas in Polynomials.",
+      "prerequisites": [
+        "number-systems"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "coordinate-geometry",
+      "name": "Coordinate Geometry",
+      "description": "Study and practise the ideas in Coordinate Geometry.",
+      "prerequisites": [
+        "polynomials"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "linear-equations-in-two-variables",
+      "name": "Linear Equations in Two Variables",
+      "description": "Study and practise the ideas in Linear Equations in Two Variables.",
+      "prerequisites": [
+        "coordinate-geometry"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "introduction-to-euclid-s-geometry",
+      "name": "Introduction to Euclid's Geometry",
+      "description": "Study and practise the ideas in Introduction to Euclid's Geometry.",
+      "prerequisites": [
+        "linear-equations-in-two-variables"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "lines-and-angles",
+      "name": "Lines and Angles",
+      "description": "Study and practise the ideas in Lines and Angles.",
+      "prerequisites": [
+        "introduction-to-euclid-s-geometry"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "triangles",
+      "name": "Triangles",
+      "description": "Study and practise the ideas in Triangles.",
+      "prerequisites": [
+        "lines-and-angles"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "quadrilaterals",
+      "name": "Quadrilaterals",
+      "description": "Study and practise the ideas in Quadrilaterals.",
+      "prerequisites": [
+        "triangles"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "circles",
+      "name": "Circles",
+      "description": "Study and practise the ideas in Circles.",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "heron-s-formula",
+      "name": "Heron's Formula",
+      "description": "Study and practise the ideas in Heron's Formula.",
+      "prerequisites": [
+        "circles"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "surface-areas-and-volumes",
+      "name": "Surface Areas and Volumes",
+      "description": "Study and practise the ideas in Surface Areas and Volumes.",
+      "prerequisites": [
+        "heron-s-formula"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "statistics",
+      "name": "Statistics",
+      "description": "Study and practise the ideas in Statistics.",
+      "prerequisites": [
+        "surface-areas-and-volumes"
+      ],
+      "sequence_number": 12
+    }
+  ]
+}

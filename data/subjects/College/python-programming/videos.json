@@ -1,0 +1,166 @@
+{
+  "videos": [
+    {
+      "topic": "Python Values and Types",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Python Values and Types",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Expressions and Operators",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Expressions and Operators",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Conditions and Loops",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Conditions and Loops",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Functions and Scope",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Functions and Scope",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Sequences and Dictionaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Sequences and Dictionaries",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Files and Exceptions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Files and Exceptions",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Modules and Packages",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Modules and Packages",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Classes and Objects",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Classes and Objects",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Testing and Debugging",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Testing and Debugging",
+      "title": null,
+      "source": null,
+      "url": null,
+      "duration_min": null,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

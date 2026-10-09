@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-6-english",
+    "name": "English",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "who-did-patrick-s-homework",
+      "name": "Who Did Patrick's Homework?",
+      "description": "Study and practise the ideas in Who Did Patrick's Homework?.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "how-the-dog-found-himself-a-new-master",
+      "name": "How the Dog Found Himself a New Master!",
+      "description": "Study and practise the ideas in How the Dog Found Himself a New Master!.",
+      "prerequisites": [
+        "who-did-patrick-s-homework"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "taro-s-reward",
+      "name": "Taro's Reward",
+      "description": "Study and practise the ideas in Taro's Reward.",
+      "prerequisites": [
+        "how-the-dog-found-himself-a-new-master"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "an-indian-american-woman-in-space",
+      "name": "An Indian-American Woman in Space",
+      "description": "Study and practise the ideas in An Indian-American Woman in Space.",
+      "prerequisites": [
+        "taro-s-reward"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "a-different-kind-of-school",
+      "name": "A Different Kind of School",
+      "description": "Study and practise the ideas in A Different Kind of School.",
+      "prerequisites": [
+        "an-indian-american-woman-in-space"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

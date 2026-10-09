@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-5-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 5",
+    "stream": "",
+    "description": "Class 5  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-fish-tale",
+      "name": "The Fish Tale",
+      "description": "Study and practise the ideas in The Fish Tale.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "shapes-and-angles",
+      "name": "Shapes and Angles",
+      "description": "Study and practise the ideas in Shapes and Angles.",
+      "prerequisites": [
+        "the-fish-tale"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "how-many-squares",
+      "name": "How Many Squares?",
+      "description": "Study and practise the ideas in How Many Squares?.",
+      "prerequisites": [
+        "shapes-and-angles"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "parts-and-wholes",
+      "name": "Parts and Wholes",
+      "description": "Study and practise the ideas in Parts and Wholes.",
+      "prerequisites": [
+        "how-many-squares"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "does-it-look-the-same",
+      "name": "Does it Look the Same?",
+      "description": "Study and practise the ideas in Does it Look the Same?.",
+      "prerequisites": [
+        "parts-and-wholes"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

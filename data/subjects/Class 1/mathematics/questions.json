@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-1-mathematics-finding-the-furry-cat-001",
+      "topic_key": "finding-the-furry-cat",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Finding the Furry Cat!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Finding the Furry Cat!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Finding the Furry Cat! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-finding-the-furry-cat-002",
+      "topic_key": "finding-the-furry-cat",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Finding the Furry Cat!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Finding the Furry Cat!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Finding the Furry Cat! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-finding-the-furry-cat-003",
+      "topic_key": "finding-the-furry-cat",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Finding the Furry Cat!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Finding the Furry Cat!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Finding the Furry Cat! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-what-is-long-001",
+      "topic_key": "what-is-long",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-what-is-long-002",
+      "topic_key": "what-is-long",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-what-is-long-003",
+      "topic_key": "what-is-long",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-mango-treat-001",
+      "topic_key": "mango-treat",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Mango Treat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mango Treat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mango Treat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-mango-treat-002",
+      "topic_key": "mango-treat",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Mango Treat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mango Treat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mango Treat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-mango-treat-003",
+      "topic_key": "mango-treat",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Mango Treat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mango Treat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mango Treat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-making-10-001",
+      "topic_key": "making-10",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Making 10?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Making 10, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Making 10 uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-making-10-002",
+      "topic_key": "making-10",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Making 10?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Making 10, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Making 10 uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-making-10-003",
+      "topic_key": "making-10",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Making 10?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Making 10, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Making 10 uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-how-many-001",
+      "topic_key": "how-many",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about How Many?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-how-many-002",
+      "topic_key": "how-many",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving How Many?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-mathematics-how-many-003",
+      "topic_key": "how-many",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise How Many?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Many, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Many uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-6-hindi-topic-01-001",
+      "topic_key": "topic-01",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about वह चिड़िया जो?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for वह चिड़िया जो, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on वह चिड़िया जो uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-01-002",
+      "topic_key": "topic-01",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving वह चिड़िया जो?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for वह चिड़िया जो, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on वह चिड़िया जो uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-01-003",
+      "topic_key": "topic-01",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise वह चिड़िया जो?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for वह चिड़िया जो, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on वह चिड़िया जो uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-02-001",
+      "topic_key": "topic-02",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about बचपन?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for बचपन, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on बचपन uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-02-002",
+      "topic_key": "topic-02",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving बचपन?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for बचपन, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on बचपन uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-02-003",
+      "topic_key": "topic-02",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise बचपन?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for बचपन, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on बचपन uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-03-001",
+      "topic_key": "topic-03",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about नादान दोस्त?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नादान दोस्त, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नादान दोस्त uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-03-002",
+      "topic_key": "topic-03",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving नादान दोस्त?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नादान दोस्त, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नादान दोस्त uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-03-003",
+      "topic_key": "topic-03",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise नादान दोस्त?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नादान दोस्त, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नादान दोस्त uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-04-001",
+      "topic_key": "topic-04",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about चाँद से थोड़ी-सी गप्पें?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for चाँद से थोड़ी-सी गप्पें, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on चाँद से थोड़ी-सी गप्पें uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-04-002",
+      "topic_key": "topic-04",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving चाँद से थोड़ी-सी गप्पें?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for चाँद से थोड़ी-सी गप्पें, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on चाँद से थोड़ी-सी गप्पें uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-04-003",
+      "topic_key": "topic-04",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise चाँद से थोड़ी-सी गप्पें?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for चाँद से थोड़ी-सी गप्पें, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on चाँद से थोड़ी-सी गप्पें uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-05-001",
+      "topic_key": "topic-05",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about साथी हाथ बढ़ाना?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for साथी हाथ बढ़ाना, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on साथी हाथ बढ़ाना uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-05-002",
+      "topic_key": "topic-05",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving साथी हाथ बढ़ाना?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for साथी हाथ बढ़ाना, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on साथी हाथ बढ़ाना uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-hindi-topic-05-003",
+      "topic_key": "topic-05",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise साथी हाथ बढ़ाना?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for साथी हाथ बढ़ाना, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on साथी हाथ बढ़ाना uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

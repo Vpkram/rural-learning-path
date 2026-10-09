@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-10-english",
+    "name": "English",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "a-letter-to-god",
+      "name": "A Letter to God",
+      "description": "Study and practise the ideas in A Letter to God.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "nelson-mandela-long-walk-to-freedom",
+      "name": "Nelson Mandela: Long Walk to Freedom",
+      "description": "Study and practise the ideas in Nelson Mandela: Long Walk to Freedom.",
+      "prerequisites": [
+        "a-letter-to-god"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "two-stories-about-flying",
+      "name": "Two Stories about Flying",
+      "description": "Study and practise the ideas in Two Stories about Flying.",
+      "prerequisites": [
+        "nelson-mandela-long-walk-to-freedom"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "from-the-diary-of-anne-frank",
+      "name": "From the Diary of Anne Frank",
+      "description": "Study and practise the ideas in From the Diary of Anne Frank.",
+      "prerequisites": [
+        "two-stories-about-flying"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-hundred-dresses",
+      "name": "The Hundred Dresses",
+      "description": "Study and practise the ideas in The Hundred Dresses.",
+      "prerequisites": [
+        "from-the-diary-of-anne-frank"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

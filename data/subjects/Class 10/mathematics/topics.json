@@ -1,0 +1,135 @@
+{
+  "subject": {
+    "key": "class-10-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "real-numbers",
+      "name": "Real Numbers",
+      "description": "Study and practise the ideas in Real Numbers.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "polynomials",
+      "name": "Polynomials",
+      "description": "Study and practise the ideas in Polynomials.",
+      "prerequisites": [
+        "real-numbers"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "pair-of-linear-equations-in-two-variables",
+      "name": "Pair of Linear Equations in Two Variables",
+      "description": "Study and practise the ideas in Pair of Linear Equations in Two Variables.",
+      "prerequisites": [
+        "polynomials"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "quadratic-equations",
+      "name": "Quadratic Equations",
+      "description": "Study and practise the ideas in Quadratic Equations.",
+      "prerequisites": [
+        "pair-of-linear-equations-in-two-variables"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "arithmetic-progressions",
+      "name": "Arithmetic Progressions",
+      "description": "Study and practise the ideas in Arithmetic Progressions.",
+      "prerequisites": [
+        "quadratic-equations"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "triangles",
+      "name": "Triangles",
+      "description": "Study and practise the ideas in Triangles.",
+      "prerequisites": [
+        "arithmetic-progressions"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "coordinate-geometry",
+      "name": "Coordinate Geometry",
+      "description": "Study and practise the ideas in Coordinate Geometry.",
+      "prerequisites": [
+        "triangles"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "introduction-to-trigonometry",
+      "name": "Introduction to Trigonometry",
+      "description": "Study and practise the ideas in Introduction to Trigonometry.",
+      "prerequisites": [
+        "coordinate-geometry"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "some-applications-of-trigonometry",
+      "name": "Some Applications of Trigonometry",
+      "description": "Study and practise the ideas in Some Applications of Trigonometry.",
+      "prerequisites": [
+        "introduction-to-trigonometry"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "circles",
+      "name": "Circles",
+      "description": "Study and practise the ideas in Circles.",
+      "prerequisites": [
+        "some-applications-of-trigonometry"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "areas-related-to-circles",
+      "name": "Areas Related to Circles",
+      "description": "Study and practise the ideas in Areas Related to Circles.",
+      "prerequisites": [
+        "circles"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "surface-areas-and-volumes",
+      "name": "Surface Areas and Volumes",
+      "description": "Study and practise the ideas in Surface Areas and Volumes.",
+      "prerequisites": [
+        "areas-related-to-circles"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "statistics",
+      "name": "Statistics",
+      "description": "Study and practise the ideas in Statistics.",
+      "prerequisites": [
+        "surface-areas-and-volumes"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "probability",
+      "name": "Probability",
+      "description": "Study and practise the ideas in Probability.",
+      "prerequisites": [
+        "statistics"
+      ],
+      "sequence_number": 14
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "subject": {
+    "key": "class-7-science",
+    "name": "Science",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-ever-evolving-world-of-science",
+      "name": "The Ever-Evolving World of Science",
+      "description": "Study and practise the ideas in The Ever-Evolving World of Science.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-invisible-living-world",
+      "name": "The Invisible Living World",
+      "description": "Study and practise the ideas in The Invisible Living World.",
+      "prerequisites": [
+        "the-ever-evolving-world-of-science"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "health-the-ultimate-treasure",
+      "name": "Health: The Ultimate Treasure",
+      "description": "Study and practise the ideas in Health: The Ultimate Treasure.",
+      "prerequisites": [
+        "the-invisible-living-world"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "electricity-circuits-and-their-components",
+      "name": "Electricity: Circuits and their Components",
+      "description": "Study and practise the ideas in Electricity: Circuits and their Components.",
+      "prerequisites": [
+        "health-the-ultimate-treasure"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-world-of-metals-and-non-metals",
+      "name": "The World of Metals and Non-metals",
+      "description": "Study and practise the ideas in The World of Metals and Non-metals.",
+      "prerequisites": [
+        "electricity-circuits-and-their-components"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "changes-around-us",
+      "name": "Changes Around Us",
+      "description": "Study and practise the ideas in Changes Around Us.",
+      "prerequisites": [
+        "the-world-of-metals-and-non-metals"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "transport-of-substances-in-plants-and-animals",
+      "name": "Transport of Substances in Plants and Animals",
+      "description": "Study and practise the ideas in Transport of Substances in Plants and Animals.",
+      "prerequisites": [
+        "changes-around-us"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "how-nature-works-in-harmony",
+      "name": "How Nature Works in Harmony",
+      "description": "Study and practise the ideas in How Nature Works in Harmony.",
+      "prerequisites": [
+        "transport-of-substances-in-plants-and-animals"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "life-processes-in-animals",
+      "name": "Life Processes in Animals",
+      "description": "Study and practise the ideas in Life Processes in Animals.",
+      "prerequisites": [
+        "how-nature-works-in-harmony"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "life-processes-in-plants",
+      "name": "Life Processes in Plants",
+      "description": "Study and practise the ideas in Life Processes in Plants.",
+      "prerequisites": [
+        "life-processes-in-animals"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "light-shadows-and-reflections",
+      "name": "Light: Shadows and Reflections",
+      "description": "Study and practise the ideas in Light: Shadows and Reflections.",
+      "prerequisites": [
+        "life-processes-in-plants"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "earth-moon-and-the-sun",
+      "name": "Earth, Moon, and the Sun",
+      "description": "Study and practise the ideas in Earth, Moon, and the Sun.",
+      "prerequisites": [
+        "light-shadows-and-reflections"
+      ],
+      "sequence_number": 12
+    }
+  ]
+}

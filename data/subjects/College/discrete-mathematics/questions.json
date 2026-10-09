@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-001",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Logic and Propositions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-002",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Logic and Propositions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-003",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Logic and Propositions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-004",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 2,
+      "prompt": "When applying Logic and Propositions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-005",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Logic and Propositions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-logic-and-propositions-006",
+      "topic_key": "logic-and-propositions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Logic and Propositions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Logic and Propositions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Logic and Propositions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-001",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Predicates and Quantifiers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-002",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Predicates and Quantifiers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-003",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Predicates and Quantifiers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-004",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 2,
+      "prompt": "When applying Predicates and Quantifiers, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-005",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Predicates and Quantifiers. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-predicates-and-quantifiers-006",
+      "topic_key": "predicates-and-quantifiers",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Predicates and Quantifiers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Predicates and Quantifiers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Predicates and Quantifiers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-001",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sets and Set Operations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-002",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sets and Set Operations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-003",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sets and Set Operations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-004",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 2,
+      "prompt": "When applying Sets and Set Operations, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-005",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Sets and Set Operations. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-sets-and-set-operations-006",
+      "topic_key": "sets-and-set-operations",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Sets and Set Operations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sets and Set Operations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sets and Set Operations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-001",
+      "topic_key": "functions-and-relations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Functions and Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-002",
+      "topic_key": "functions-and-relations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Functions and Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-003",
+      "topic_key": "functions-and-relations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Functions and Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-004",
+      "topic_key": "functions-and-relations",
+      "difficulty": 2,
+      "prompt": "When applying Functions and Relations, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-005",
+      "topic_key": "functions-and-relations",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Functions and Relations. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-functions-and-relations-006",
+      "topic_key": "functions-and-relations",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Functions and Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-001",
+      "topic_key": "proof-techniques",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Proof Techniques?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-002",
+      "topic_key": "proof-techniques",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Proof Techniques?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-003",
+      "topic_key": "proof-techniques",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Proof Techniques?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-004",
+      "topic_key": "proof-techniques",
+      "difficulty": 2,
+      "prompt": "When applying Proof Techniques, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-005",
+      "topic_key": "proof-techniques",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Proof Techniques. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-proof-techniques-006",
+      "topic_key": "proof-techniques",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Proof Techniques?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proof Techniques, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proof Techniques uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-001",
+      "topic_key": "counting-principles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Counting Principles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-002",
+      "topic_key": "counting-principles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Counting Principles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-003",
+      "topic_key": "counting-principles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Counting Principles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-004",
+      "topic_key": "counting-principles",
+      "difficulty": 2,
+      "prompt": "When applying Counting Principles, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-005",
+      "topic_key": "counting-principles",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Counting Principles. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-counting-principles-006",
+      "topic_key": "counting-principles",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Counting Principles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting Principles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting Principles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-001",
+      "topic_key": "recurrence-relations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Recurrence Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-002",
+      "topic_key": "recurrence-relations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Recurrence Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-003",
+      "topic_key": "recurrence-relations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Recurrence Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-004",
+      "topic_key": "recurrence-relations",
+      "difficulty": 2,
+      "prompt": "When applying Recurrence Relations, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-005",
+      "topic_key": "recurrence-relations",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Recurrence Relations. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-recurrence-relations-006",
+      "topic_key": "recurrence-relations",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Recurrence Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recurrence Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recurrence Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-001",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Graphs and Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-002",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Graphs and Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-003",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Graphs and Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-004",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 2,
+      "prompt": "When applying Graphs and Trees, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-005",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Graphs and Trees. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-graphs-and-trees-006",
+      "topic_key": "graphs-and-trees",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Graphs and Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-001",
+      "topic_key": "boolean-algebra",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Boolean Algebra?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-002",
+      "topic_key": "boolean-algebra",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Boolean Algebra?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-003",
+      "topic_key": "boolean-algebra",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Boolean Algebra?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-004",
+      "topic_key": "boolean-algebra",
+      "difficulty": 2,
+      "prompt": "When applying Boolean Algebra, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-005",
+      "topic_key": "boolean-algebra",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Boolean Algebra. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-discrete-mathematics-boolean-algebra-006",
+      "topic_key": "boolean-algebra",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Boolean Algebra?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Algebra, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Algebra uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

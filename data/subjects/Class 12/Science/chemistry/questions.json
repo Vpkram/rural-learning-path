@@ -1,0 +1,772 @@
+{
+  "questions": [
+    {
+      "key": "class-12-science-chemistry-some-basic-concepts-of-chemistry-001",
+      "topic_key": "some-basic-concepts-of-chemistry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Some Basic Concepts of Chemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Some Basic Concepts of Chemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Some Basic Concepts of Chemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-some-basic-concepts-of-chemistry-002",
+      "topic_key": "some-basic-concepts-of-chemistry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Some Basic Concepts of Chemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Some Basic Concepts of Chemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Some Basic Concepts of Chemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-some-basic-concepts-of-chemistry-003",
+      "topic_key": "some-basic-concepts-of-chemistry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Some Basic Concepts of Chemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Some Basic Concepts of Chemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Some Basic Concepts of Chemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-structure-of-atom-001",
+      "topic_key": "structure-of-atom",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Structure of Atom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structure of Atom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structure of Atom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-structure-of-atom-002",
+      "topic_key": "structure-of-atom",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Structure of Atom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structure of Atom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structure of Atom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-structure-of-atom-003",
+      "topic_key": "structure-of-atom",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Structure of Atom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structure of Atom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structure of Atom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-classification-of-elements-001",
+      "topic_key": "classification-of-elements",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Classification of Elements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification of Elements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification of Elements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-classification-of-elements-002",
+      "topic_key": "classification-of-elements",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Classification of Elements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification of Elements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification of Elements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-classification-of-elements-003",
+      "topic_key": "classification-of-elements",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Classification of Elements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification of Elements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification of Elements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-bonding-001",
+      "topic_key": "chemical-bonding",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Chemical Bonding?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Bonding, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Bonding uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-bonding-002",
+      "topic_key": "chemical-bonding",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Chemical Bonding?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Bonding, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Bonding uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-bonding-003",
+      "topic_key": "chemical-bonding",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Chemical Bonding?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Bonding, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Bonding uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-states-of-matter-001",
+      "topic_key": "states-of-matter",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about States of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for States of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on States of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-states-of-matter-002",
+      "topic_key": "states-of-matter",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving States of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for States of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on States of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-states-of-matter-003",
+      "topic_key": "states-of-matter",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise States of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for States of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on States of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-thermodynamics-001",
+      "topic_key": "thermodynamics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-thermodynamics-002",
+      "topic_key": "thermodynamics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-thermodynamics-003",
+      "topic_key": "thermodynamics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-equilibrium-001",
+      "topic_key": "equilibrium",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Equilibrium?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Equilibrium, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Equilibrium uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-equilibrium-002",
+      "topic_key": "equilibrium",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Equilibrium?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Equilibrium, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Equilibrium uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-equilibrium-003",
+      "topic_key": "equilibrium",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Equilibrium?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Equilibrium, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Equilibrium uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-redox-reactions-001",
+      "topic_key": "redox-reactions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Redox Reactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Redox Reactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Redox Reactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-redox-reactions-002",
+      "topic_key": "redox-reactions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Redox Reactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Redox Reactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Redox Reactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-redox-reactions-003",
+      "topic_key": "redox-reactions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Redox Reactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Redox Reactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Redox Reactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-organic-chemistry-basics-001",
+      "topic_key": "organic-chemistry-basics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Organic Chemistry Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organic Chemistry Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organic Chemistry Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-organic-chemistry-basics-002",
+      "topic_key": "organic-chemistry-basics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Organic Chemistry Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organic Chemistry Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organic Chemistry Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-organic-chemistry-basics-003",
+      "topic_key": "organic-chemistry-basics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Organic Chemistry Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organic Chemistry Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organic Chemistry Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-hydrocarbons-001",
+      "topic_key": "hydrocarbons",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Hydrocarbons?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hydrocarbons, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hydrocarbons uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-hydrocarbons-002",
+      "topic_key": "hydrocarbons",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Hydrocarbons?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hydrocarbons, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hydrocarbons uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-hydrocarbons-003",
+      "topic_key": "hydrocarbons",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Hydrocarbons?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hydrocarbons, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hydrocarbons uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-solutions-001",
+      "topic_key": "solutions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Solutions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Solutions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Solutions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-solutions-002",
+      "topic_key": "solutions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Solutions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Solutions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Solutions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-solutions-003",
+      "topic_key": "solutions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Solutions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Solutions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Solutions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-electrochemistry-001",
+      "topic_key": "electrochemistry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electrochemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrochemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrochemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-electrochemistry-002",
+      "topic_key": "electrochemistry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electrochemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrochemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrochemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-electrochemistry-003",
+      "topic_key": "electrochemistry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electrochemistry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrochemistry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrochemistry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-kinetics-001",
+      "topic_key": "chemical-kinetics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Chemical Kinetics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Kinetics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Kinetics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-kinetics-002",
+      "topic_key": "chemical-kinetics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Chemical Kinetics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Kinetics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Kinetics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-chemical-kinetics-003",
+      "topic_key": "chemical-kinetics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Chemical Kinetics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Kinetics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Kinetics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-coordination-compounds-001",
+      "topic_key": "coordination-compounds",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Coordination Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordination Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordination Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-coordination-compounds-002",
+      "topic_key": "coordination-compounds",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Coordination Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordination Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordination Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-coordination-compounds-003",
+      "topic_key": "coordination-compounds",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Coordination Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordination Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordination Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-aldehydes-ketones-and-carboxylic-acids-001",
+      "topic_key": "aldehydes-ketones-and-carboxylic-acids",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Aldehydes, Ketones and Carboxylic Acids?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Aldehydes, Ketones and Carboxylic Acids, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Aldehydes, Ketones and Carboxylic Acids uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-aldehydes-ketones-and-carboxylic-acids-002",
+      "topic_key": "aldehydes-ketones-and-carboxylic-acids",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Aldehydes, Ketones and Carboxylic Acids?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Aldehydes, Ketones and Carboxylic Acids, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Aldehydes, Ketones and Carboxylic Acids uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-aldehydes-ketones-and-carboxylic-acids-003",
+      "topic_key": "aldehydes-ketones-and-carboxylic-acids",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Aldehydes, Ketones and Carboxylic Acids?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Aldehydes, Ketones and Carboxylic Acids, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Aldehydes, Ketones and Carboxylic Acids uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-biomolecules-001",
+      "topic_key": "biomolecules",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-biomolecules-002",
+      "topic_key": "biomolecules",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-chemistry-biomolecules-003",
+      "topic_key": "biomolecules",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

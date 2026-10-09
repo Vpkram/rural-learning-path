@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-3-environmental-studies",
+    "name": "Environmental Studies",
+    "class_level": "Class 3",
+    "stream": "",
+    "description": "Class 3  Environmental Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "poonam-s-day-out",
+      "name": "Poonam's Day out",
+      "description": "Study and practise the ideas in Poonam's Day out.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-plant-fairy",
+      "name": "The Plant Fairy",
+      "description": "Study and practise the ideas in The Plant Fairy.",
+      "prerequisites": [
+        "poonam-s-day-out"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "water-o-water",
+      "name": "Water O' Water!",
+      "description": "Study and practise the ideas in Water O' Water!.",
+      "prerequisites": [
+        "the-plant-fairy"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "our-first-school",
+      "name": "Our First School",
+      "description": "Study and practise the ideas in Our First School.",
+      "prerequisites": [
+        "water-o-water"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "families-can-be-different",
+      "name": "Families can be Different",
+      "description": "Study and practise the ideas in Families can be Different.",
+      "prerequisites": [
+        "our-first-school"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

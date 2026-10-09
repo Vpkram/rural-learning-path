@@ -1,0 +1,772 @@
+{
+  "questions": [
+    {
+      "key": "class-12-science-biology-the-living-world-001",
+      "topic_key": "the-living-world",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-the-living-world-002",
+      "topic_key": "the-living-world",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-the-living-world-003",
+      "topic_key": "the-living-world",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biological-classification-001",
+      "topic_key": "biological-classification",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Biological Classification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biological Classification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biological Classification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biological-classification-002",
+      "topic_key": "biological-classification",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Biological Classification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biological Classification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biological Classification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biological-classification-003",
+      "topic_key": "biological-classification",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Biological Classification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biological Classification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biological Classification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-plant-kingdom-001",
+      "topic_key": "plant-kingdom",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Plant Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plant Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plant Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-plant-kingdom-002",
+      "topic_key": "plant-kingdom",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Plant Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plant Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plant Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-plant-kingdom-003",
+      "topic_key": "plant-kingdom",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Plant Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plant Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plant Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-animal-kingdom-001",
+      "topic_key": "animal-kingdom",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Animal Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animal Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animal Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-animal-kingdom-002",
+      "topic_key": "animal-kingdom",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Animal Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animal Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animal Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-animal-kingdom-003",
+      "topic_key": "animal-kingdom",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Animal Kingdom?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animal Kingdom, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animal Kingdom uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-morphology-of-flowering-plants-001",
+      "topic_key": "morphology-of-flowering-plants",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Morphology of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Morphology of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Morphology of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-morphology-of-flowering-plants-002",
+      "topic_key": "morphology-of-flowering-plants",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Morphology of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Morphology of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Morphology of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-morphology-of-flowering-plants-003",
+      "topic_key": "morphology-of-flowering-plants",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Morphology of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Morphology of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Morphology of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-anatomy-of-flowering-plants-001",
+      "topic_key": "anatomy-of-flowering-plants",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Anatomy of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anatomy of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anatomy of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-anatomy-of-flowering-plants-002",
+      "topic_key": "anatomy-of-flowering-plants",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Anatomy of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anatomy of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anatomy of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-anatomy-of-flowering-plants-003",
+      "topic_key": "anatomy-of-flowering-plants",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Anatomy of Flowering Plants?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anatomy of Flowering Plants, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anatomy of Flowering Plants uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-structural-organisation-in-animals-001",
+      "topic_key": "structural-organisation-in-animals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Structural Organisation in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structural Organisation in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structural Organisation in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-structural-organisation-in-animals-002",
+      "topic_key": "structural-organisation-in-animals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Structural Organisation in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structural Organisation in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structural Organisation in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-structural-organisation-in-animals-003",
+      "topic_key": "structural-organisation-in-animals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Structural Organisation in Animals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Structural Organisation in Animals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Structural Organisation in Animals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-the-unit-of-life-001",
+      "topic_key": "cell-the-unit-of-life",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Cell: The Unit of Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell: The Unit of Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell: The Unit of Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-the-unit-of-life-002",
+      "topic_key": "cell-the-unit-of-life",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Cell: The Unit of Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell: The Unit of Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell: The Unit of Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-the-unit-of-life-003",
+      "topic_key": "cell-the-unit-of-life",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Cell: The Unit of Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell: The Unit of Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell: The Unit of Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biomolecules-001",
+      "topic_key": "biomolecules",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biomolecules-002",
+      "topic_key": "biomolecules",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biomolecules-003",
+      "topic_key": "biomolecules",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Biomolecules?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biomolecules, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biomolecules uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-cycle-and-cell-division-001",
+      "topic_key": "cell-cycle-and-cell-division",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Cell Cycle and Cell Division?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell Cycle and Cell Division, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell Cycle and Cell Division uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-cycle-and-cell-division-002",
+      "topic_key": "cell-cycle-and-cell-division",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Cell Cycle and Cell Division?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell Cycle and Cell Division, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell Cycle and Cell Division uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-cell-cycle-and-cell-division-003",
+      "topic_key": "cell-cycle-and-cell-division",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Cell Cycle and Cell Division?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cell Cycle and Cell Division, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cell Cycle and Cell Division uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-human-physiology-001",
+      "topic_key": "human-physiology",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Human Physiology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Physiology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Physiology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-human-physiology-002",
+      "topic_key": "human-physiology",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Human Physiology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Physiology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Physiology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-human-physiology-003",
+      "topic_key": "human-physiology",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Human Physiology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Human Physiology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Human Physiology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-reproduction-001",
+      "topic_key": "reproduction",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Reproduction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Reproduction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Reproduction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-reproduction-002",
+      "topic_key": "reproduction",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Reproduction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Reproduction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Reproduction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-reproduction-003",
+      "topic_key": "reproduction",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Reproduction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Reproduction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Reproduction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-genetics-and-evolution-001",
+      "topic_key": "genetics-and-evolution",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Genetics and Evolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Genetics and Evolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Genetics and Evolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-genetics-and-evolution-002",
+      "topic_key": "genetics-and-evolution",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Genetics and Evolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Genetics and Evolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Genetics and Evolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-genetics-and-evolution-003",
+      "topic_key": "genetics-and-evolution",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Genetics and Evolution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Genetics and Evolution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Genetics and Evolution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biology-and-human-welfare-001",
+      "topic_key": "biology-and-human-welfare",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Biology and Human Welfare?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biology and Human Welfare, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biology and Human Welfare uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biology-and-human-welfare-002",
+      "topic_key": "biology-and-human-welfare",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Biology and Human Welfare?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biology and Human Welfare, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biology and Human Welfare uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biology-and-human-welfare-003",
+      "topic_key": "biology-and-human-welfare",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Biology and Human Welfare?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biology and Human Welfare, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biology and Human Welfare uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biotechnology-001",
+      "topic_key": "biotechnology",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Biotechnology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biotechnology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biotechnology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biotechnology-002",
+      "topic_key": "biotechnology",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Biotechnology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biotechnology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biotechnology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-biotechnology-003",
+      "topic_key": "biotechnology",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Biotechnology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Biotechnology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Biotechnology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-ecology-001",
+      "topic_key": "ecology",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Ecology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ecology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ecology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-ecology-002",
+      "topic_key": "ecology",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Ecology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ecology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ecology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-biology-ecology-003",
+      "topic_key": "ecology",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Ecology?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ecology, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ecology uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

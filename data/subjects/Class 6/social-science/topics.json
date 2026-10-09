@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "class-6-social-science",
+    "name": "Social Science",
+    "class_level": "Class 6",
+    "stream": "",
+    "description": "Class 6  Social Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "locating-places-on-the-earth",
+      "name": "Locating Places on the Earth",
+      "description": "Study and practise the ideas in Locating Places on the Earth.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "oceans-and-continents",
+      "name": "Oceans and Continents",
+      "description": "Study and practise the ideas in Oceans and Continents.",
+      "prerequisites": [
+        "locating-places-on-the-earth"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "landforms-and-life",
+      "name": "Landforms and Life",
+      "description": "Study and practise the ideas in Landforms and Life.",
+      "prerequisites": [
+        "oceans-and-continents"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "timeline-and-sources-of-history",
+      "name": "Timeline and Sources of History",
+      "description": "Study and practise the ideas in Timeline and Sources of History.",
+      "prerequisites": [
+        "landforms-and-life"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "india-that-is-bharat",
+      "name": "India That Is Bharat",
+      "description": "Study and practise the ideas in India That Is Bharat.",
+      "prerequisites": [
+        "timeline-and-sources-of-history"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "the-beginnings-of-indian-civilisation",
+      "name": "The Beginnings of Indian Civilisation",
+      "description": "Study and practise the ideas in The Beginnings of Indian Civilisation.",
+      "prerequisites": [
+        "india-that-is-bharat"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "family-and-community",
+      "name": "Family and Community",
+      "description": "Study and practise the ideas in Family and Community.",
+      "prerequisites": [
+        "the-beginnings-of-indian-civilisation"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "grassroots-democracy",
+      "name": "Grassroots Democracy",
+      "description": "Study and practise the ideas in Grassroots Democracy.",
+      "prerequisites": [
+        "family-and-community"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "culture-and-knowledge-traditions",
+      "name": "Culture and Knowledge Traditions",
+      "description": "Study and practise the ideas in Culture and Knowledge Traditions.",
+      "prerequisites": [
+        "grassroots-democracy"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

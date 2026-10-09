@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-computer-networks-network-models-and-protocols-001",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Network Models and Protocols?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-models-and-protocols-002",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Network Models and Protocols?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-models-and-protocols-003",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Network Models and Protocols?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-models-and-protocols-004",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 2,
+      "prompt": "When applying Network Models and Protocols, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-models-and-protocols-005",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Network Models and Protocols. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-models-and-protocols-006",
+      "topic_key": "network-models-and-protocols",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Network Models and Protocols?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Models and Protocols, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Models and Protocols uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-001",
+      "topic_key": "physical-layer",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Physical Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-002",
+      "topic_key": "physical-layer",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Physical Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-003",
+      "topic_key": "physical-layer",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Physical Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-004",
+      "topic_key": "physical-layer",
+      "difficulty": 2,
+      "prompt": "When applying Physical Layer, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-005",
+      "topic_key": "physical-layer",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Physical Layer. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-physical-layer-006",
+      "topic_key": "physical-layer",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Physical Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-001",
+      "topic_key": "data-link-layer",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Data Link Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-002",
+      "topic_key": "data-link-layer",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Data Link Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-003",
+      "topic_key": "data-link-layer",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Data Link Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-004",
+      "topic_key": "data-link-layer",
+      "difficulty": 2,
+      "prompt": "When applying Data Link Layer, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-005",
+      "topic_key": "data-link-layer",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Data Link Layer. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-data-link-layer-006",
+      "topic_key": "data-link-layer",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Data Link Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Link Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Link Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-001",
+      "topic_key": "medium-access-control",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Medium Access Control?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-002",
+      "topic_key": "medium-access-control",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Medium Access Control?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-003",
+      "topic_key": "medium-access-control",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Medium Access Control?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-004",
+      "topic_key": "medium-access-control",
+      "difficulty": 2,
+      "prompt": "When applying Medium Access Control, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-005",
+      "topic_key": "medium-access-control",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Medium Access Control. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-medium-access-control-006",
+      "topic_key": "medium-access-control",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Medium Access Control?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Medium Access Control, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Medium Access Control uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-001",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Network Layer and IP?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-002",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Network Layer and IP?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-003",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Network Layer and IP?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-004",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 2,
+      "prompt": "When applying Network Layer and IP, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-005",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Network Layer and IP. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-layer-and-ip-006",
+      "topic_key": "network-layer-and-ip",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Network Layer and IP?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Layer and IP, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Layer and IP uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-001",
+      "topic_key": "routing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Routing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-002",
+      "topic_key": "routing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Routing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-003",
+      "topic_key": "routing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Routing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-004",
+      "topic_key": "routing",
+      "difficulty": 2,
+      "prompt": "When applying Routing, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-005",
+      "topic_key": "routing",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Routing. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-routing-006",
+      "topic_key": "routing",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Routing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Routing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Routing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-001",
+      "topic_key": "transport-layer",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Transport Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-002",
+      "topic_key": "transport-layer",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Transport Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-003",
+      "topic_key": "transport-layer",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Transport Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-004",
+      "topic_key": "transport-layer",
+      "difficulty": 2,
+      "prompt": "When applying Transport Layer, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-005",
+      "topic_key": "transport-layer",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Transport Layer. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-transport-layer-006",
+      "topic_key": "transport-layer",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Transport Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Transport Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Transport Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-001",
+      "topic_key": "application-layer",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Application Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-002",
+      "topic_key": "application-layer",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Application Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-003",
+      "topic_key": "application-layer",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Application Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-004",
+      "topic_key": "application-layer",
+      "difficulty": 2,
+      "prompt": "When applying Application Layer, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-005",
+      "topic_key": "application-layer",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Application Layer. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-application-layer-006",
+      "topic_key": "application-layer",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Application Layer?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Application Layer, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Application Layer uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-001",
+      "topic_key": "network-security-basics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Network Security Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-002",
+      "topic_key": "network-security-basics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Network Security Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-003",
+      "topic_key": "network-security-basics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Network Security Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-004",
+      "topic_key": "network-security-basics",
+      "difficulty": 2,
+      "prompt": "When applying Network Security Basics, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-005",
+      "topic_key": "network-security-basics",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Network Security Basics. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-computer-networks-network-security-basics-006",
+      "topic_key": "network-security-basics",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Network Security Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Network Security Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Network Security Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

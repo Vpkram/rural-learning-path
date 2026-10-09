@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-7-telugu",
+    "name": "Telugu",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "కథా పఠనం",
+      "description": "Study and practise the ideas in కథా పఠనం.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "కవితా భావం",
+      "description": "Study and practise the ideas in కవితా భావం.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "పాత్రల విశ్లేషణ",
+      "description": "Study and practise the ideas in పాత్రల విశ్లేషణ.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "పద నిర్మాణం",
+      "description": "Study and practise the ideas in పద నిర్మాణం.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "వ్యాకరణ వినియోగం",
+      "description": "Study and practise the ideas in వ్యాకరణ వినియోగం.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

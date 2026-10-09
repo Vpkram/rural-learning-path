@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-2-hindi",
+    "name": "Hindi",
+    "class_level": "Class 2",
+    "stream": "",
+    "description": "Class 2  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "मात्राएँ",
+      "description": "Study and practise the ideas in मात्राएँ.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "शब्द और वाक्य",
+      "description": "Study and practise the ideas in शब्द और वाक्य.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "कहानी समझना",
+      "description": "Study and practise the ideas in कहानी समझना.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कविता और लय",
+      "description": "Study and practise the ideas in कविता और लय.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "चित्र से लेखन",
+      "description": "Study and practise the ideas in चित्र से लेखन.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

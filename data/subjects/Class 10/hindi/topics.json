@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-10-hindi",
+    "name": "Hindi",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "सूरदास के पद",
+      "description": "Study and practise the ideas in सूरदास के पद.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "राम-लक्ष्मण-परशुराम संवाद",
+      "description": "Study and practise the ideas in राम-लक्ष्मण-परशुराम संवाद.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "आत्मकथ्य",
+      "description": "Study and practise the ideas in आत्मकथ्य.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "उत्साह और अट नहीं रही",
+      "description": "Study and practise the ideas in उत्साह और अट नहीं रही.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "नेताजी का चश्मा",
+      "description": "Study and practise the ideas in नेताजी का चश्मा.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-4-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 4",
+    "stream": "",
+    "description": "Class 4  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "building-with-bricks",
+      "name": "Building with Bricks",
+      "description": "Study and practise the ideas in Building with Bricks.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "long-and-short",
+      "name": "Long and Short",
+      "description": "Study and practise the ideas in Long and Short.",
+      "prerequisites": [
+        "building-with-bricks"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "a-trip-to-bhopal",
+      "name": "A Trip to Bhopal",
+      "description": "Study and practise the ideas in A Trip to Bhopal.",
+      "prerequisites": [
+        "long-and-short"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "tick-tick-tick",
+      "name": "Tick-Tick-Tick",
+      "description": "Study and practise the ideas in Tick-Tick-Tick.",
+      "prerequisites": [
+        "a-trip-to-bhopal"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-way-the-world-looks",
+      "name": "The Way the World Looks",
+      "description": "Study and practise the ideas in The Way the World Looks.",
+      "prerequisites": [
+        "tick-tick-tick"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

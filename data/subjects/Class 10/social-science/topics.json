@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-10-social-science",
+    "name": "Social Science",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  Social Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-rise-of-nationalism-in-europe",
+      "name": "The Rise of Nationalism in Europe",
+      "description": "Study and practise the ideas in The Rise of Nationalism in Europe.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "nationalism-in-india",
+      "name": "Nationalism in India",
+      "description": "Study and practise the ideas in Nationalism in India.",
+      "prerequisites": [
+        "the-rise-of-nationalism-in-europe"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-making-of-a-global-world",
+      "name": "The Making of a Global World",
+      "description": "Study and practise the ideas in The Making of a Global World.",
+      "prerequisites": [
+        "nationalism-in-india"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "resources-and-development",
+      "name": "Resources and Development",
+      "description": "Study and practise the ideas in Resources and Development.",
+      "prerequisites": [
+        "the-making-of-a-global-world"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "forest-and-wildlife-resources",
+      "name": "Forest and Wildlife Resources",
+      "description": "Study and practise the ideas in Forest and Wildlife Resources.",
+      "prerequisites": [
+        "resources-and-development"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "water-resources",
+      "name": "Water Resources",
+      "description": "Study and practise the ideas in Water Resources.",
+      "prerequisites": [
+        "forest-and-wildlife-resources"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "power-sharing",
+      "name": "Power Sharing",
+      "description": "Study and practise the ideas in Power Sharing.",
+      "prerequisites": [
+        "water-resources"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "federalism",
+      "name": "Federalism",
+      "description": "Study and practise the ideas in Federalism.",
+      "prerequisites": [
+        "power-sharing"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "development",
+      "name": "Development",
+      "description": "Study and practise the ideas in Development.",
+      "prerequisites": [
+        "federalism"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "sectors-of-the-indian-economy",
+      "name": "Sectors of the Indian Economy",
+      "description": "Study and practise the ideas in Sectors of the Indian Economy.",
+      "prerequisites": [
+        "development"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

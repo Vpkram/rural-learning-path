@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-12-commerce-accountancy",
+    "name": "Accountancy",
+    "class_level": "Class 12",
+    "stream": "Commerce",
+    "description": "Class 12 Commerce Accountancy learning pack"
+  },
+  "topics": [
+    {
+      "key": "introduction-to-accounting",
+      "name": "Introduction to Accounting",
+      "description": "Study and practise the ideas in Introduction to Accounting.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "theory-base-of-accounting",
+      "name": "Theory Base of Accounting",
+      "description": "Study and practise the ideas in Theory Base of Accounting.",
+      "prerequisites": [
+        "introduction-to-accounting"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "recording-of-transactions",
+      "name": "Recording of Transactions",
+      "description": "Study and practise the ideas in Recording of Transactions.",
+      "prerequisites": [
+        "theory-base-of-accounting"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "bank-reconciliation",
+      "name": "Bank Reconciliation",
+      "description": "Study and practise the ideas in Bank Reconciliation.",
+      "prerequisites": [
+        "recording-of-transactions"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "trial-balance-and-rectification",
+      "name": "Trial Balance and Rectification",
+      "description": "Study and practise the ideas in Trial Balance and Rectification.",
+      "prerequisites": [
+        "bank-reconciliation"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "depreciation-and-provisions",
+      "name": "Depreciation and Provisions",
+      "description": "Study and practise the ideas in Depreciation and Provisions.",
+      "prerequisites": [
+        "trial-balance-and-rectification"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "financial-statements",
+      "name": "Financial Statements",
+      "description": "Study and practise the ideas in Financial Statements.",
+      "prerequisites": [
+        "depreciation-and-provisions"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "accounting-for-partnership",
+      "name": "Accounting for Partnership",
+      "description": "Study and practise the ideas in Accounting for Partnership.",
+      "prerequisites": [
+        "financial-statements"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "accounting-for-companies",
+      "name": "Accounting for Companies",
+      "description": "Study and practise the ideas in Accounting for Companies.",
+      "prerequisites": [
+        "accounting-for-partnership"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "cash-flow-statement",
+      "name": "Cash Flow Statement",
+      "description": "Study and practise the ideas in Cash Flow Statement.",
+      "prerequisites": [
+        "accounting-for-companies"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

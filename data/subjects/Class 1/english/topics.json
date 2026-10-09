@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-1-english",
+    "name": "English",
+    "class_level": "Class 1",
+    "stream": "",
+    "description": "Class 1  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "two-little-hands",
+      "name": "Two Little Hands",
+      "description": "Study and practise the ideas in Two Little Hands.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "greetings",
+      "name": "Greetings",
+      "description": "Study and practise the ideas in Greetings.",
+      "prerequisites": [
+        "two-little-hands"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "picture-reading",
+      "name": "Picture Reading",
+      "description": "Study and practise the ideas in Picture Reading.",
+      "prerequisites": [
+        "greetings"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-cap-seller-and-the-monkeys",
+      "name": "The Cap-seller and the Monkeys",
+      "description": "Study and practise the ideas in The Cap-seller and the Monkeys.",
+      "prerequisites": [
+        "picture-reading"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "a-visit-to-the-market",
+      "name": "A Visit to the Market",
+      "description": "Study and practise the ideas in A Visit to the Market.",
+      "prerequisites": [
+        "the-cap-seller-and-the-monkeys"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

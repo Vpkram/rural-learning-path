@@ -1,0 +1,153 @@
+{
+  "subject": {
+    "key": "class-12-science-biology",
+    "name": "Biology",
+    "class_level": "Class 12",
+    "stream": "Science",
+    "description": "Class 12 Science Biology learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-living-world",
+      "name": "The Living World",
+      "description": "Study and practise the ideas in The Living World.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "biological-classification",
+      "name": "Biological Classification",
+      "description": "Study and practise the ideas in Biological Classification.",
+      "prerequisites": [
+        "the-living-world"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "plant-kingdom",
+      "name": "Plant Kingdom",
+      "description": "Study and practise the ideas in Plant Kingdom.",
+      "prerequisites": [
+        "biological-classification"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "animal-kingdom",
+      "name": "Animal Kingdom",
+      "description": "Study and practise the ideas in Animal Kingdom.",
+      "prerequisites": [
+        "plant-kingdom"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "morphology-of-flowering-plants",
+      "name": "Morphology of Flowering Plants",
+      "description": "Study and practise the ideas in Morphology of Flowering Plants.",
+      "prerequisites": [
+        "animal-kingdom"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "anatomy-of-flowering-plants",
+      "name": "Anatomy of Flowering Plants",
+      "description": "Study and practise the ideas in Anatomy of Flowering Plants.",
+      "prerequisites": [
+        "morphology-of-flowering-plants"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "structural-organisation-in-animals",
+      "name": "Structural Organisation in Animals",
+      "description": "Study and practise the ideas in Structural Organisation in Animals.",
+      "prerequisites": [
+        "anatomy-of-flowering-plants"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "cell-the-unit-of-life",
+      "name": "Cell: The Unit of Life",
+      "description": "Study and practise the ideas in Cell: The Unit of Life.",
+      "prerequisites": [
+        "structural-organisation-in-animals"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "biomolecules",
+      "name": "Biomolecules",
+      "description": "Study and practise the ideas in Biomolecules.",
+      "prerequisites": [
+        "cell-the-unit-of-life"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "cell-cycle-and-cell-division",
+      "name": "Cell Cycle and Cell Division",
+      "description": "Study and practise the ideas in Cell Cycle and Cell Division.",
+      "prerequisites": [
+        "biomolecules"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "human-physiology",
+      "name": "Human Physiology",
+      "description": "Study and practise the ideas in Human Physiology.",
+      "prerequisites": [
+        "cell-cycle-and-cell-division"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "reproduction",
+      "name": "Reproduction",
+      "description": "Study and practise the ideas in Reproduction.",
+      "prerequisites": [
+        "human-physiology"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "genetics-and-evolution",
+      "name": "Genetics and Evolution",
+      "description": "Study and practise the ideas in Genetics and Evolution.",
+      "prerequisites": [
+        "reproduction"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "biology-and-human-welfare",
+      "name": "Biology and Human Welfare",
+      "description": "Study and practise the ideas in Biology and Human Welfare.",
+      "prerequisites": [
+        "genetics-and-evolution"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "biotechnology",
+      "name": "Biotechnology",
+      "description": "Study and practise the ideas in Biotechnology.",
+      "prerequisites": [
+        "biology-and-human-welfare"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "ecology",
+      "name": "Ecology",
+      "description": "Study and practise the ideas in Ecology.",
+      "prerequisites": [
+        "biotechnology"
+      ],
+      "sequence_number": 16
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-3-hindi",
+    "name": "Hindi",
+    "class_level": "Class 3",
+    "stream": "",
+    "description": "Class 3  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "शब्द भंडार",
+      "description": "Study and practise the ideas in शब्द भंडार.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "संज्ञा और क्रिया",
+      "description": "Study and practise the ideas in संज्ञा और क्रिया.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "अनुच्छेद पठन",
+      "description": "Study and practise the ideas in अनुच्छेद पठन.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कविता बोध",
+      "description": "Study and practise the ideas in कविता बोध.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "संवाद लेखन",
+      "description": "Study and practise the ideas in संवाद लेखन.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

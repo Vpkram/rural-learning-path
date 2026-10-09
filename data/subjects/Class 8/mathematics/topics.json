@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-8-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 8",
+    "stream": "",
+    "description": "Class 8  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "a-square-and-a-cube",
+      "name": "A Square and A Cube",
+      "description": "Study and practise the ideas in A Square and A Cube.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "power-play",
+      "name": "Power Play",
+      "description": "Study and practise the ideas in Power Play.",
+      "prerequisites": [
+        "a-square-and-a-cube"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "a-story-of-numbers",
+      "name": "A Story of Numbers",
+      "description": "Study and practise the ideas in A Story of Numbers.",
+      "prerequisites": [
+        "power-play"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "quadrilaterals",
+      "name": "Quadrilaterals",
+      "description": "Study and practise the ideas in Quadrilaterals.",
+      "prerequisites": [
+        "a-story-of-numbers"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "number-play",
+      "name": "Number Play",
+      "description": "Study and practise the ideas in Number Play.",
+      "prerequisites": [
+        "quadrilaterals"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "we-distribute-yet-things-multiply",
+      "name": "We Distribute, Yet Things Multiply",
+      "description": "Study and practise the ideas in We Distribute, Yet Things Multiply.",
+      "prerequisites": [
+        "number-play"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "proportional-reasoning",
+      "name": "Proportional Reasoning",
+      "description": "Study and practise the ideas in Proportional Reasoning.",
+      "prerequisites": [
+        "we-distribute-yet-things-multiply"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "fractions-in-disguise",
+      "name": "Fractions in Disguise",
+      "description": "Study and practise the ideas in Fractions in Disguise.",
+      "prerequisites": [
+        "proportional-reasoning"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "the-data-game",
+      "name": "The Data Game",
+      "description": "Study and practise the ideas in The Data Game.",
+      "prerequisites": [
+        "fractions-in-disguise"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "exploring-some-geometric-themes",
+      "name": "Exploring Some Geometric Themes",
+      "description": "Study and practise the ideas in Exploring Some Geometric Themes.",
+      "prerequisites": [
+        "the-data-game"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

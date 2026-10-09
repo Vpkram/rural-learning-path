@@ -1,0 +1,1060 @@
+{
+  "questions": [
+    {
+      "key": "class-12-arts-political-science-constitution-why-and-how-001",
+      "topic_key": "constitution-why-and-how",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Constitution: Why and How??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution: Why and How?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution: Why and How? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-constitution-why-and-how-002",
+      "topic_key": "constitution-why-and-how",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Constitution: Why and How??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution: Why and How?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution: Why and How? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-constitution-why-and-how-003",
+      "topic_key": "constitution-why-and-how",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Constitution: Why and How??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution: Why and How?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution: Why and How? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-rights-in-the-indian-constitution-001",
+      "topic_key": "rights-in-the-indian-constitution",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Rights in the Indian Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rights in the Indian Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rights in the Indian Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-rights-in-the-indian-constitution-002",
+      "topic_key": "rights-in-the-indian-constitution",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Rights in the Indian Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rights in the Indian Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rights in the Indian Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-rights-in-the-indian-constitution-003",
+      "topic_key": "rights-in-the-indian-constitution",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Rights in the Indian Constitution?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Rights in the Indian Constitution, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Rights in the Indian Constitution uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-election-and-representation-001",
+      "topic_key": "election-and-representation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Election and Representation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Election and Representation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Election and Representation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-election-and-representation-002",
+      "topic_key": "election-and-representation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Election and Representation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Election and Representation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Election and Representation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-election-and-representation-003",
+      "topic_key": "election-and-representation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Election and Representation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Election and Representation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Election and Representation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-executive-001",
+      "topic_key": "executive",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Executive?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Executive, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Executive uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-executive-002",
+      "topic_key": "executive",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Executive?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Executive, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Executive uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-executive-003",
+      "topic_key": "executive",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Executive?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Executive, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Executive uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-legislature-001",
+      "topic_key": "legislature",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Legislature?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Legislature, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Legislature uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-legislature-002",
+      "topic_key": "legislature",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Legislature?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Legislature, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Legislature uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-legislature-003",
+      "topic_key": "legislature",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Legislature?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Legislature, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Legislature uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-judiciary-001",
+      "topic_key": "judiciary",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Judiciary?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Judiciary, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Judiciary uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-judiciary-002",
+      "topic_key": "judiciary",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Judiciary?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Judiciary, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Judiciary uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-judiciary-003",
+      "topic_key": "judiciary",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Judiciary?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Judiciary, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Judiciary uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-federalism-001",
+      "topic_key": "federalism",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Federalism?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Federalism, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Federalism uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-federalism-002",
+      "topic_key": "federalism",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Federalism?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Federalism, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Federalism uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-federalism-003",
+      "topic_key": "federalism",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Federalism?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Federalism, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Federalism uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-local-governments-001",
+      "topic_key": "local-governments",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Local Governments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Local Governments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Local Governments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-local-governments-002",
+      "topic_key": "local-governments",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Local Governments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Local Governments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Local Governments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-local-governments-003",
+      "topic_key": "local-governments",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Local Governments?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Local Governments, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Local Governments uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-constitution-as-a-living-document-001",
+      "topic_key": "constitution-as-a-living-document",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Constitution as a Living Document?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution as a Living Document, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution as a Living Document uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-constitution-as-a-living-document-002",
+      "topic_key": "constitution-as-a-living-document",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Constitution as a Living Document?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution as a Living Document, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution as a Living Document uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-constitution-as-a-living-document-003",
+      "topic_key": "constitution-as-a-living-document",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Constitution as a Living Document?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Constitution as a Living Document, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Constitution as a Living Document uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-cold-war-era-001",
+      "topic_key": "the-cold-war-era",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Cold War Era?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cold War Era, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cold War Era uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-cold-war-era-002",
+      "topic_key": "the-cold-war-era",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Cold War Era?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cold War Era, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cold War Era uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-cold-war-era-003",
+      "topic_key": "the-cold-war-era",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Cold War Era?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cold War Era, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cold War Era uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-end-of-bipolarity-001",
+      "topic_key": "the-end-of-bipolarity",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The End of Bipolarity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The End of Bipolarity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The End of Bipolarity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-end-of-bipolarity-002",
+      "topic_key": "the-end-of-bipolarity",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The End of Bipolarity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The End of Bipolarity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The End of Bipolarity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-the-end-of-bipolarity-003",
+      "topic_key": "the-end-of-bipolarity",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The End of Bipolarity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The End of Bipolarity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The End of Bipolarity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-us-hegemony-001",
+      "topic_key": "us-hegemony",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about US Hegemony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for US Hegemony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on US Hegemony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-us-hegemony-002",
+      "topic_key": "us-hegemony",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving US Hegemony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for US Hegemony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on US Hegemony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-us-hegemony-003",
+      "topic_key": "us-hegemony",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise US Hegemony?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for US Hegemony, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on US Hegemony uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-international-organisations-001",
+      "topic_key": "international-organisations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about International Organisations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for International Organisations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on International Organisations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-international-organisations-002",
+      "topic_key": "international-organisations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving International Organisations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for International Organisations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on International Organisations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-international-organisations-003",
+      "topic_key": "international-organisations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise International Organisations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for International Organisations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on International Organisations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-security-in-the-contemporary-world-001",
+      "topic_key": "security-in-the-contemporary-world",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Security in the Contemporary World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Security in the Contemporary World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Security in the Contemporary World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-security-in-the-contemporary-world-002",
+      "topic_key": "security-in-the-contemporary-world",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Security in the Contemporary World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Security in the Contemporary World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Security in the Contemporary World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-security-in-the-contemporary-world-003",
+      "topic_key": "security-in-the-contemporary-world",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Security in the Contemporary World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Security in the Contemporary World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Security in the Contemporary World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-environment-and-natural-resources-001",
+      "topic_key": "environment-and-natural-resources",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Environment and Natural Resources?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Environment and Natural Resources, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Environment and Natural Resources uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-environment-and-natural-resources-002",
+      "topic_key": "environment-and-natural-resources",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Environment and Natural Resources?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Environment and Natural Resources, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Environment and Natural Resources uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-environment-and-natural-resources-003",
+      "topic_key": "environment-and-natural-resources",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Environment and Natural Resources?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Environment and Natural Resources, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Environment and Natural Resources uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-globalisation-001",
+      "topic_key": "globalisation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Globalisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Globalisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Globalisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-globalisation-002",
+      "topic_key": "globalisation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Globalisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Globalisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Globalisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-globalisation-003",
+      "topic_key": "globalisation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Globalisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Globalisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Globalisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-challenges-of-nation-building-001",
+      "topic_key": "challenges-of-nation-building",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Challenges of Nation Building?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Challenges of Nation Building, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Challenges of Nation Building uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-challenges-of-nation-building-002",
+      "topic_key": "challenges-of-nation-building",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Challenges of Nation Building?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Challenges of Nation Building, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Challenges of Nation Building uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-challenges-of-nation-building-003",
+      "topic_key": "challenges-of-nation-building",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Challenges of Nation Building?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Challenges of Nation Building, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Challenges of Nation Building uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-era-of-one-party-dominance-001",
+      "topic_key": "era-of-one-party-dominance",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Era of One-Party Dominance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Era of One-Party Dominance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Era of One-Party Dominance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-era-of-one-party-dominance-002",
+      "topic_key": "era-of-one-party-dominance",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Era of One-Party Dominance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Era of One-Party Dominance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Era of One-Party Dominance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-era-of-one-party-dominance-003",
+      "topic_key": "era-of-one-party-dominance",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Era of One-Party Dominance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Era of One-Party Dominance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Era of One-Party Dominance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-politics-of-planned-development-001",
+      "topic_key": "politics-of-planned-development",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Politics of Planned Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Politics of Planned Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Politics of Planned Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-politics-of-planned-development-002",
+      "topic_key": "politics-of-planned-development",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Politics of Planned Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Politics of Planned Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Politics of Planned Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-politics-of-planned-development-003",
+      "topic_key": "politics-of-planned-development",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Politics of Planned Development?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Politics of Planned Development, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Politics of Planned Development uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-india-s-external-relations-001",
+      "topic_key": "india-s-external-relations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about India's External Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India's External Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India's External Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-india-s-external-relations-002",
+      "topic_key": "india-s-external-relations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving India's External Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India's External Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India's External Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-india-s-external-relations-003",
+      "topic_key": "india-s-external-relations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise India's External Relations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India's External Relations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India's External Relations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-democratic-resurgence-001",
+      "topic_key": "democratic-resurgence",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Democratic Resurgence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Democratic Resurgence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Democratic Resurgence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-democratic-resurgence-002",
+      "topic_key": "democratic-resurgence",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Democratic Resurgence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Democratic Resurgence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Democratic Resurgence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-democratic-resurgence-003",
+      "topic_key": "democratic-resurgence",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Democratic Resurgence?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Democratic Resurgence, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Democratic Resurgence uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-regional-aspirations-001",
+      "topic_key": "regional-aspirations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Regional Aspirations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regional Aspirations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regional Aspirations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-regional-aspirations-002",
+      "topic_key": "regional-aspirations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Regional Aspirations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regional Aspirations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regional Aspirations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-arts-political-science-regional-aspirations-003",
+      "topic_key": "regional-aspirations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Regional Aspirations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regional Aspirations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regional Aspirations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

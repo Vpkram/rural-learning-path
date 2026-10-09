@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-10-hindi-topic-01-001",
+      "topic_key": "topic-01",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about सूरदास के पद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for सूरदास के पद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on सूरदास के पद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-01-002",
+      "topic_key": "topic-01",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving सूरदास के पद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for सूरदास के पद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on सूरदास के पद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-01-003",
+      "topic_key": "topic-01",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise सूरदास के पद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for सूरदास के पद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on सूरदास के पद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-02-001",
+      "topic_key": "topic-02",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about राम-लक्ष्मण-परशुराम संवाद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for राम-लक्ष्मण-परशुराम संवाद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on राम-लक्ष्मण-परशुराम संवाद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-02-002",
+      "topic_key": "topic-02",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving राम-लक्ष्मण-परशुराम संवाद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for राम-लक्ष्मण-परशुराम संवाद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on राम-लक्ष्मण-परशुराम संवाद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-02-003",
+      "topic_key": "topic-02",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise राम-लक्ष्मण-परशुराम संवाद?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for राम-लक्ष्मण-परशुराम संवाद, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on राम-लक्ष्मण-परशुराम संवाद uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-03-001",
+      "topic_key": "topic-03",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about आत्मकथ्य?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for आत्मकथ्य, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on आत्मकथ्य uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-03-002",
+      "topic_key": "topic-03",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving आत्मकथ्य?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for आत्मकथ्य, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on आत्मकथ्य uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-03-003",
+      "topic_key": "topic-03",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise आत्मकथ्य?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for आत्मकथ्य, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on आत्मकथ्य uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-04-001",
+      "topic_key": "topic-04",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about उत्साह और अट नहीं रही?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for उत्साह और अट नहीं रही, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on उत्साह और अट नहीं रही uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-04-002",
+      "topic_key": "topic-04",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving उत्साह और अट नहीं रही?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for उत्साह और अट नहीं रही, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on उत्साह और अट नहीं रही uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-04-003",
+      "topic_key": "topic-04",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise उत्साह और अट नहीं रही?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for उत्साह और अट नहीं रही, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on उत्साह और अट नहीं रही uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-05-001",
+      "topic_key": "topic-05",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about नेताजी का चश्मा?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नेताजी का चश्मा, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नेताजी का चश्मा uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-05-002",
+      "topic_key": "topic-05",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving नेताजी का चश्मा?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नेताजी का चश्मा, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नेताजी का चश्मा uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-hindi-topic-05-003",
+      "topic_key": "topic-05",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise नेताजी का चश्मा?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for नेताजी का चश्मा, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on नेताजी का चश्मा uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

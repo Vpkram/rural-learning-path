@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-machine-learning-learning-problems-and-data-001",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Learning Problems and Data?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-learning-problems-and-data-002",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Learning Problems and Data?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-learning-problems-and-data-003",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Learning Problems and Data?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-learning-problems-and-data-004",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 2,
+      "prompt": "When applying Learning Problems and Data, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-learning-problems-and-data-005",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Learning Problems and Data. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-learning-problems-and-data-006",
+      "topic_key": "learning-problems-and-data",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Learning Problems and Data?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Learning Problems and Data, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Learning Problems and Data uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-001",
+      "topic_key": "data-preparation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Data Preparation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-002",
+      "topic_key": "data-preparation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Data Preparation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-003",
+      "topic_key": "data-preparation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Data Preparation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-004",
+      "topic_key": "data-preparation",
+      "difficulty": 2,
+      "prompt": "When applying Data Preparation, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-005",
+      "topic_key": "data-preparation",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Data Preparation. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-data-preparation-006",
+      "topic_key": "data-preparation",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Data Preparation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Preparation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Preparation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-001",
+      "topic_key": "linear-regression",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Linear Regression?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-002",
+      "topic_key": "linear-regression",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Linear Regression?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-003",
+      "topic_key": "linear-regression",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Linear Regression?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-004",
+      "topic_key": "linear-regression",
+      "difficulty": 2,
+      "prompt": "When applying Linear Regression, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-005",
+      "topic_key": "linear-regression",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Linear Regression. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-linear-regression-006",
+      "topic_key": "linear-regression",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Linear Regression?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Regression, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Regression uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-001",
+      "topic_key": "classification-models",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Classification Models?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-002",
+      "topic_key": "classification-models",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Classification Models?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-003",
+      "topic_key": "classification-models",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Classification Models?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-004",
+      "topic_key": "classification-models",
+      "difficulty": 2,
+      "prompt": "When applying Classification Models, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-005",
+      "topic_key": "classification-models",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Classification Models. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-classification-models-006",
+      "topic_key": "classification-models",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Classification Models?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classification Models, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classification Models uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-001",
+      "topic_key": "decision-trees",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Decision Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-002",
+      "topic_key": "decision-trees",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Decision Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-003",
+      "topic_key": "decision-trees",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Decision Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-004",
+      "topic_key": "decision-trees",
+      "difficulty": 2,
+      "prompt": "When applying Decision Trees, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-005",
+      "topic_key": "decision-trees",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Decision Trees. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-decision-trees-006",
+      "topic_key": "decision-trees",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Decision Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Decision Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Decision Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-001",
+      "topic_key": "model-evaluation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Model Evaluation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-002",
+      "topic_key": "model-evaluation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Model Evaluation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-003",
+      "topic_key": "model-evaluation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Model Evaluation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-004",
+      "topic_key": "model-evaluation",
+      "difficulty": 2,
+      "prompt": "When applying Model Evaluation, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-005",
+      "topic_key": "model-evaluation",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Model Evaluation. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-model-evaluation-006",
+      "topic_key": "model-evaluation",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Model Evaluation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Model Evaluation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Model Evaluation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-001",
+      "topic_key": "clustering",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Clustering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-002",
+      "topic_key": "clustering",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Clustering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-003",
+      "topic_key": "clustering",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Clustering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-004",
+      "topic_key": "clustering",
+      "difficulty": 2,
+      "prompt": "When applying Clustering, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-005",
+      "topic_key": "clustering",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Clustering. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-clustering-006",
+      "topic_key": "clustering",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Clustering?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Clustering, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Clustering uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-001",
+      "topic_key": "neural-network-basics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Neural Network Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-002",
+      "topic_key": "neural-network-basics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Neural Network Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-003",
+      "topic_key": "neural-network-basics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Neural Network Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-004",
+      "topic_key": "neural-network-basics",
+      "difficulty": 2,
+      "prompt": "When applying Neural Network Basics, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-005",
+      "topic_key": "neural-network-basics",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Neural Network Basics. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-neural-network-basics-006",
+      "topic_key": "neural-network-basics",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Neural Network Basics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neural Network Basics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neural Network Basics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-001",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Regularization and Generalization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-002",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Regularization and Generalization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-003",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Regularization and Generalization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-004",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 2,
+      "prompt": "When applying Regularization and Generalization, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-005",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Regularization and Generalization. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-machine-learning-regularization-and-generalization-006",
+      "topic_key": "regularization-and-generalization",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Regularization and Generalization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Regularization and Generalization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Regularization and Generalization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

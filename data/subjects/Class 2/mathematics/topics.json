@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-2-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 2",
+    "stream": "",
+    "description": "Class 2  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "what-is-long",
+      "name": "What Is Long?",
+      "description": "Study and practise the ideas in What Is Long?.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "counting-in-groups",
+      "name": "Counting in Groups",
+      "description": "Study and practise the ideas in Counting in Groups.",
+      "prerequisites": [
+        "what-is-long"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "how-much-can-you-carry",
+      "name": "How Much Can You Carry?",
+      "description": "Study and practise the ideas in How Much Can You Carry?.",
+      "prerequisites": [
+        "counting-in-groups"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "counting-in-tens",
+      "name": "Counting in Tens",
+      "description": "Study and practise the ideas in Counting in Tens.",
+      "prerequisites": [
+        "how-much-can-you-carry"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "patterns",
+      "name": "Patterns",
+      "description": "Study and practise the ideas in Patterns.",
+      "prerequisites": [
+        "counting-in-tens"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

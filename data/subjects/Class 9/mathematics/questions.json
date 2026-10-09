@@ -1,0 +1,1156 @@
+{
+  "questions": [
+    {
+      "key": "class-9-mathematics-number-systems-001",
+      "topic_key": "number-systems",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-number-systems-002",
+      "topic_key": "number-systems",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-number-systems-003",
+      "topic_key": "number-systems",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-number-systems-004",
+      "topic_key": "number-systems",
+      "difficulty": 2,
+      "prompt": "When applying Number Systems, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-number-systems-005",
+      "topic_key": "number-systems",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Number Systems. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-number-systems-006",
+      "topic_key": "number-systems",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-001",
+      "topic_key": "polynomials",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Polynomials?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-002",
+      "topic_key": "polynomials",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Polynomials?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-003",
+      "topic_key": "polynomials",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Polynomials?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-004",
+      "topic_key": "polynomials",
+      "difficulty": 2,
+      "prompt": "When applying Polynomials, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-005",
+      "topic_key": "polynomials",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Polynomials. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-polynomials-006",
+      "topic_key": "polynomials",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Polynomials?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Polynomials, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Polynomials uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-001",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Coordinate Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-002",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Coordinate Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-003",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Coordinate Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-004",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 2,
+      "prompt": "When applying Coordinate Geometry, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-005",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Coordinate Geometry. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-coordinate-geometry-006",
+      "topic_key": "coordinate-geometry",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Coordinate Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Coordinate Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Coordinate Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-001",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Linear Equations in Two Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-002",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Linear Equations in Two Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-003",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Linear Equations in Two Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-004",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 2,
+      "prompt": "When applying Linear Equations in Two Variables, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-005",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Linear Equations in Two Variables. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-linear-equations-in-two-variables-006",
+      "topic_key": "linear-equations-in-two-variables",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Linear Equations in Two Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linear Equations in Two Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linear Equations in Two Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-001",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Introduction to Euclid's Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-002",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Introduction to Euclid's Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-003",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Introduction to Euclid's Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-004",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 2,
+      "prompt": "When applying Introduction to Euclid's Geometry, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-005",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Introduction to Euclid's Geometry. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-introduction-to-euclid-s-geometry-006",
+      "topic_key": "introduction-to-euclid-s-geometry",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Introduction to Euclid's Geometry?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Euclid's Geometry, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Euclid's Geometry uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-001",
+      "topic_key": "lines-and-angles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-002",
+      "topic_key": "lines-and-angles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-003",
+      "topic_key": "lines-and-angles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-004",
+      "topic_key": "lines-and-angles",
+      "difficulty": 2,
+      "prompt": "When applying Lines and Angles, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-005",
+      "topic_key": "lines-and-angles",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Lines and Angles. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-lines-and-angles-006",
+      "topic_key": "lines-and-angles",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Lines and Angles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Lines and Angles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Lines and Angles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-001",
+      "topic_key": "triangles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Triangles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-002",
+      "topic_key": "triangles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Triangles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-003",
+      "topic_key": "triangles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Triangles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-004",
+      "topic_key": "triangles",
+      "difficulty": 2,
+      "prompt": "When applying Triangles, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-005",
+      "topic_key": "triangles",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Triangles. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-triangles-006",
+      "topic_key": "triangles",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Triangles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Triangles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Triangles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-001",
+      "topic_key": "quadrilaterals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-002",
+      "topic_key": "quadrilaterals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-003",
+      "topic_key": "quadrilaterals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-004",
+      "topic_key": "quadrilaterals",
+      "difficulty": 2,
+      "prompt": "When applying Quadrilaterals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-005",
+      "topic_key": "quadrilaterals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Quadrilaterals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-quadrilaterals-006",
+      "topic_key": "quadrilaterals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-001",
+      "topic_key": "circles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Circles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-002",
+      "topic_key": "circles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Circles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-003",
+      "topic_key": "circles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Circles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-004",
+      "topic_key": "circles",
+      "difficulty": 2,
+      "prompt": "When applying Circles, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-005",
+      "topic_key": "circles",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Circles. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-circles-006",
+      "topic_key": "circles",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Circles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Circles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Circles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-001",
+      "topic_key": "heron-s-formula",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Heron's Formula?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-002",
+      "topic_key": "heron-s-formula",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Heron's Formula?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-003",
+      "topic_key": "heron-s-formula",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Heron's Formula?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-004",
+      "topic_key": "heron-s-formula",
+      "difficulty": 2,
+      "prompt": "When applying Heron's Formula, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-005",
+      "topic_key": "heron-s-formula",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Heron's Formula. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-heron-s-formula-006",
+      "topic_key": "heron-s-formula",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Heron's Formula?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heron's Formula, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heron's Formula uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-001",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Surface Areas and Volumes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-002",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Surface Areas and Volumes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-003",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Surface Areas and Volumes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-004",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 2,
+      "prompt": "When applying Surface Areas and Volumes, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-005",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Surface Areas and Volumes. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-surface-areas-and-volumes-006",
+      "topic_key": "surface-areas-and-volumes",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Surface Areas and Volumes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Surface Areas and Volumes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Surface Areas and Volumes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-001",
+      "topic_key": "statistics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Statistics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-002",
+      "topic_key": "statistics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Statistics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-003",
+      "topic_key": "statistics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Statistics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-004",
+      "topic_key": "statistics",
+      "difficulty": 2,
+      "prompt": "When applying Statistics, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-005",
+      "topic_key": "statistics",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Statistics. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-9-mathematics-statistics-006",
+      "topic_key": "statistics",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Statistics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Statistics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Statistics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

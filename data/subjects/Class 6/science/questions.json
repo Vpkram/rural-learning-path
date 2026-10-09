@@ -1,0 +1,1156 @@
+{
+  "questions": [
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-001",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Wonderful World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-002",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Wonderful World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-003",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Wonderful World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-004",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 2,
+      "prompt": "When applying The Wonderful World of Science, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-005",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Wonderful World of Science. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-the-wonderful-world-of-science-006",
+      "topic_key": "the-wonderful-world-of-science",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Wonderful World of Science?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Wonderful World of Science, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Wonderful World of Science uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-001",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Diversity in the Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-002",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Diversity in the Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-003",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Diversity in the Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-004",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 2,
+      "prompt": "When applying Diversity in the Living World, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-005",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Diversity in the Living World. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-diversity-in-the-living-world-006",
+      "topic_key": "diversity-in-the-living-world",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Diversity in the Living World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Diversity in the Living World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Diversity in the Living World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-001",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Mindful Eating: A Path to a Healthy Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-002",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Mindful Eating: A Path to a Healthy Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-003",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Mindful Eating: A Path to a Healthy Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-004",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 2,
+      "prompt": "When applying Mindful Eating: A Path to a Healthy Body, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-005",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Mindful Eating: A Path to a Healthy Body. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-mindful-eating-a-path-to-a-healthy-body-006",
+      "topic_key": "mindful-eating-a-path-to-a-healthy-body",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Mindful Eating: A Path to a Healthy Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Mindful Eating: A Path to a Healthy Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Mindful Eating: A Path to a Healthy Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-001",
+      "topic_key": "exploring-magnets",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Exploring Magnets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-002",
+      "topic_key": "exploring-magnets",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Exploring Magnets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-003",
+      "topic_key": "exploring-magnets",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Exploring Magnets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-004",
+      "topic_key": "exploring-magnets",
+      "difficulty": 2,
+      "prompt": "When applying Exploring Magnets, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-005",
+      "topic_key": "exploring-magnets",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Exploring Magnets. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-exploring-magnets-006",
+      "topic_key": "exploring-magnets",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Exploring Magnets?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Magnets, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Magnets uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-001",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Measurement of Length and Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-002",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Measurement of Length and Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-003",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Measurement of Length and Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-004",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 2,
+      "prompt": "When applying Measurement of Length and Motion, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-005",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Measurement of Length and Motion. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-measurement-of-length-and-motion-006",
+      "topic_key": "measurement-of-length-and-motion",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Measurement of Length and Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Measurement of Length and Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Measurement of Length and Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-001",
+      "topic_key": "materials-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Materials Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-002",
+      "topic_key": "materials-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Materials Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-003",
+      "topic_key": "materials-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Materials Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-004",
+      "topic_key": "materials-around-us",
+      "difficulty": 2,
+      "prompt": "When applying Materials Around Us, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-005",
+      "topic_key": "materials-around-us",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Materials Around Us. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-materials-around-us-006",
+      "topic_key": "materials-around-us",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Materials Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Materials Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Materials Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-001",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Temperature and its Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-002",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Temperature and its Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-003",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Temperature and its Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-004",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 2,
+      "prompt": "When applying Temperature and its Measurement, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-005",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Temperature and its Measurement. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-temperature-and-its-measurement-006",
+      "topic_key": "temperature-and-its-measurement",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Temperature and its Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Temperature and its Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Temperature and its Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-001",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Journey through States of Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-002",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Journey through States of Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-003",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Journey through States of Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-004",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 2,
+      "prompt": "When applying A Journey through States of Water, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-005",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing A Journey through States of Water. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-a-journey-through-states-of-water-006",
+      "topic_key": "a-journey-through-states-of-water",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying A Journey through States of Water?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Journey through States of Water, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Journey through States of Water uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-001",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Methods of Separation in Everyday Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-002",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Methods of Separation in Everyday Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-003",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Methods of Separation in Everyday Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-004",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 2,
+      "prompt": "When applying Methods of Separation in Everyday Life, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-005",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Methods of Separation in Everyday Life. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-methods-of-separation-in-everyday-life-006",
+      "topic_key": "methods-of-separation-in-everyday-life",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Methods of Separation in Everyday Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Methods of Separation in Everyday Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Methods of Separation in Everyday Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-001",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Living Creatures: Exploring their Characteristics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-002",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Living Creatures: Exploring their Characteristics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-003",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Living Creatures: Exploring their Characteristics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-004",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 2,
+      "prompt": "When applying Living Creatures: Exploring their Characteristics, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-005",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Living Creatures: Exploring their Characteristics. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-living-creatures-exploring-their-characteristics-006",
+      "topic_key": "living-creatures-exploring-their-characteristics",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Living Creatures: Exploring their Characteristics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Living Creatures: Exploring their Characteristics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Living Creatures: Exploring their Characteristics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-001",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Nature's Treasures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-002",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Nature's Treasures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-003",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Nature's Treasures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-004",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 2,
+      "prompt": "When applying Nature's Treasures, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-005",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Nature's Treasures. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-nature-s-treasures-006",
+      "topic_key": "nature-s-treasures",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Nature's Treasures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature's Treasures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature's Treasures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-001",
+      "topic_key": "beyond-earth",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Beyond Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-002",
+      "topic_key": "beyond-earth",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Beyond Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-003",
+      "topic_key": "beyond-earth",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Beyond Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-004",
+      "topic_key": "beyond-earth",
+      "difficulty": 2,
+      "prompt": "When applying Beyond Earth, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-005",
+      "topic_key": "beyond-earth",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Beyond Earth. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-science-beyond-earth-006",
+      "topic_key": "beyond-earth",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Beyond Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Beyond Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Beyond Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

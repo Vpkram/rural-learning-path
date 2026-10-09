@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-5-english",
+    "name": "English",
+    "class_level": "Class 5",
+    "stream": "",
+    "description": "Class 5  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "ice-cream-man",
+      "name": "Ice-cream Man",
+      "description": "Study and practise the ideas in Ice-cream Man.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "wonderful-waste",
+      "name": "Wonderful Waste!",
+      "description": "Study and practise the ideas in Wonderful Waste!.",
+      "prerequisites": [
+        "ice-cream-man"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "teamwork",
+      "name": "Teamwork",
+      "description": "Study and practise the ideas in Teamwork.",
+      "prerequisites": [
+        "wonderful-waste"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "flying-together",
+      "name": "Flying Together",
+      "description": "Study and practise the ideas in Flying Together.",
+      "prerequisites": [
+        "teamwork"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "my-shadow",
+      "name": "My Shadow",
+      "description": "Study and practise the ideas in My Shadow.",
+      "prerequisites": [
+        "flying-together"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

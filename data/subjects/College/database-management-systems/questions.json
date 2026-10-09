@@ -1,0 +1,684 @@
+{
+  "questions": [
+    {
+      "key": "dbms-001",
+      "topic_key": "database-basics",
+      "difficulty": 1,
+      "prompt": "What is the main purpose of a Database Management System (DBMS)?",
+      "options": {
+        "A": "To organize, store, and retrieve data",
+        "B": "To design computer hardware",
+        "C": "To create internet connections",
+        "D": "To replace every operating system"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A DBMS provides tools to store, organize, update, and retrieve data reliably.",
+        "te": "DBMS అనేది డేటాను నమ్మకంగా నిల్వ చేయడానికి, క్రమబద్ధం చేయడానికి, మార్చడానికి మరియు తిరిగి పొందడానికి ఉపయోగపడుతుంది."
+      }
+    },
+    {
+      "key": "dbms-002",
+      "topic_key": "database-basics",
+      "difficulty": 2,
+      "prompt": "In a student database, which item is an example of a record?",
+      "options": {
+        "A": "The complete row containing one student's details",
+        "B": "The rule that every student must have an ID",
+        "C": "The database software",
+        "D": "The name of a table column"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A record is one row of related values, such as one student's ID, name, and class.",
+        "te": "ఒక విద్యార్థి ఐడి, పేరు, తరగతి వంటి సంబంధిత విలువలతో ఉన్న ఒక వరుసను రికార్డు అంటారు."
+      }
+    },
+    {
+      "key": "dbms-003",
+      "topic_key": "database-basics",
+      "difficulty": 3,
+      "prompt": "Why is a DBMS generally safer than keeping separate copies of the same data in many files?",
+      "options": {
+        "A": "It can control access and reduce inconsistent duplicate data",
+        "B": "It guarantees that computers never fail",
+        "C": "It removes the need to back up data",
+        "D": "It makes every user an administrator"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Central rules and access controls help reduce conflicting copies and limit who can change data.",
+        "te": "కేంద్ర నియమాలు మరియు అనుమతులు విరుద్ధమైన కాపీలను తగ్గించి, డేటాను ఎవరు మార్చగలరో నియంత్రిస్తాయి."
+      }
+    },
+    {
+      "key": "dbms-004",
+      "topic_key": "relational-model",
+      "difficulty": 1,
+      "prompt": "In a relational database table, what does one row usually represent?",
+      "options": {
+        "A": "One record or entity instance",
+        "B": "A complete database server",
+        "C": "A relationship diagram",
+        "D": "A SQL command"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A row stores the values for one record, such as one customer or one course.",
+        "te": "ఒక వరుస ఒక రికార్డు విలువలను నిల్వ చేస్తుంది; ఉదాహరణకు ఒక కస్టమర్ లేదా ఒక కోర్సు."
+      }
+    },
+    {
+      "key": "dbms-005",
+      "topic_key": "relational-model",
+      "difficulty": 2,
+      "prompt": "What is the main job of a primary key?",
+      "options": {
+        "A": "Uniquely identify each row in a table",
+        "B": "Sort every table alphabetically",
+        "C": "Encrypt all values automatically",
+        "D": "Store a copy of the whole database"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A primary key has a unique value for each row so that a row can be identified unambiguously.",
+        "te": "ప్రతి వరుసకు ప్రత్యేక విలువ ఉండటం వల్ల ప్రైమరీ కీ ఆ వరుసను స్పష్టంగా గుర్తిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-006",
+      "topic_key": "relational-model",
+      "difficulty": 3,
+      "prompt": "A row in Orders has CustomerID that matches a row in Customers. CustomerID in Orders is acting as what?",
+      "options": {
+        "A": "A foreign key",
+        "B": "A database view",
+        "C": "A candidate record",
+        "D": "A transaction log"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A foreign key refers to a key in another table and represents a link between the rows.",
+        "te": "ఫారిన్ కీ మరో పట్టికలోని కీని సూచించి, రెండు వరుసల మధ్య సంబంధాన్ని చూపుతుంది."
+      }
+    },
+    {
+      "key": "dbms-007",
+      "topic_key": "sql-basics",
+      "difficulty": 1,
+      "prompt": "Which SQL command is commonly used to read rows from a table?",
+      "options": {
+        "A": "SELECT",
+        "B": "PAINT",
+        "C": "CONNECT",
+        "D": "FORMAT"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "SELECT retrieves chosen columns and rows from one or more tables.",
+        "te": "SELECT కమాండ్ ఒకటి లేదా అంతకంటే ఎక్కువ పట్టికల నుంచి ఎంచుకున్న నిలువు వరుసలు, వరుసలను తెస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-008",
+      "topic_key": "sql-basics",
+      "difficulty": 2,
+      "prompt": "Which clause filters rows before they are returned by a SELECT query?",
+      "options": {
+        "A": "WHERE",
+        "B": "ORDER BY",
+        "C": "VALUES",
+        "D": "CREATE"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "WHERE keeps only rows that satisfy the specified condition.",
+        "te": "WHERE ఇచ్చిన షరతును సరిపోల్చే వరుసలను మాత్రమే ఎంచుకుంటుంది."
+      }
+    },
+    {
+      "key": "dbms-009",
+      "topic_key": "sql-basics",
+      "difficulty": 3,
+      "prompt": "What does this query return? SELECT name FROM Student WHERE marks >= 50;",
+      "options": {
+        "A": "Names of students whose marks are at least 50",
+        "B": "All columns for every student",
+        "C": "Only students with marks below 50",
+        "D": "A new table named Student"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "SELECT name chooses the name column, and WHERE marks >= 50 filters to students scoring 50 or more.",
+        "te": "SELECT name పేరు నిలువు వరుసను ఎంచుకుంటుంది; WHERE marks >= 50 అనేది 50 లేదా అంతకంటే ఎక్కువ మార్కులు పొందిన విద్యార్థులను తీసుకుంటుంది."
+      }
+    },
+    {
+      "key": "dbms-010",
+      "topic_key": "normalization",
+      "difficulty": 1,
+      "prompt": "What is a key goal of database normalization?",
+      "options": {
+        "A": "Reduce unnecessary data duplication",
+        "B": "Make every table contain the same number of rows",
+        "C": "Remove all keys from tables",
+        "D": "Store all data in one very wide row"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Normalization organizes data into related tables to reduce redundancy and update problems.",
+        "te": "నార్మలైజేషన్ డేటాను సంబంధిత పట్టికల్లో క్రమబద్ధం చేసి పునరావృతిని, మార్పుల సమస్యలను తగ్గిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-011",
+      "topic_key": "normalization",
+      "difficulty": 2,
+      "prompt": "A table stores a customer's phone number on every order row. What problem can occur if the number changes?",
+      "options": {
+        "A": "Some order rows may keep the old number, causing inconsistent data",
+        "B": "The primary key automatically changes",
+        "C": "The database turns into a spreadsheet",
+        "D": "The orders are automatically deleted"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Repeated values can become inconsistent if every copy is not updated; normalization reduces this risk.",
+        "te": "పునరావృత విలువల ప్రతి కాపీని మార్చకపోతే డేటా అసంగతంగా మారవచ్చు; నార్మలైజేషన్ ఈ ప్రమాదాన్ని తగ్గిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-012",
+      "topic_key": "normalization",
+      "difficulty": 3,
+      "prompt": "A relation is in First Normal Form (1NF) when each field contains what?",
+      "options": {
+        "A": "A single atomic value rather than a repeating list",
+        "B": "A complete copy of another table",
+        "C": "Only numbers",
+        "D": "A unique table name"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "In 1NF each cell contains one value from its domain, not a list of multiple values.",
+        "te": "1NFలో ప్రతి సెల్‌లో అనేక విలువల జాబితా కాకుండా ఒకే విలువ ఉంటుంది."
+      }
+    },
+    {
+      "key": "dbms-013",
+      "topic_key": "transactions",
+      "difficulty": 1,
+      "prompt": "Which ACID property means a transaction happens completely or has no effect?",
+      "options": {
+        "A": "Atomicity",
+        "B": "Availability",
+        "C": "Authentication",
+        "D": "Aggregation"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Atomicity treats a transaction as one unit: all its operations succeed or they are rolled back.",
+        "te": "అటామిసిటీ ఒక ట్రాన్సాక్షన్‌ను ఒక యూనిట్‌గా చూస్తుంది: అన్ని చర్యలు విజయవంతం కావాలి లేదా వెనక్కి తీసుకోవాలి."
+      }
+    },
+    {
+      "key": "dbms-014",
+      "topic_key": "transactions",
+      "difficulty": 2,
+      "prompt": "In the ACID properties, what does Consistency require?",
+      "options": {
+        "A": "A transaction preserves database rules and valid states",
+        "B": "Every query runs at the same speed",
+        "C": "Users never share the database",
+        "D": "Every table has the same columns"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Consistency means a successful transaction moves the database from one valid state to another.",
+        "te": "కన్సిస్టెన్సీ ప్రకారం విజయవంతమైన ట్రాన్సాక్షన్ డేటాబేస్‌ను ఒక చెల్లుబాటు అయ్యే స్థితి నుంచి మరొక స్థితికి తీసుకెళ్తుంది."
+      }
+    },
+    {
+      "key": "dbms-015",
+      "topic_key": "transactions",
+      "difficulty": 3,
+      "prompt": "A bank transfer subtracts money from one account but crashes before adding it to the other. Which transaction feature should prevent this partial result?",
+      "options": {
+        "A": "Atomicity",
+        "B": "Sorting",
+        "C": "Normalization",
+        "D": "Projection"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Atomicity ensures the debit and credit are committed together or neither change remains.",
+        "te": "అటామిసిటీ డెబిట్, క్రెడిట్ రెండూ కలిసే అమలవ్వాలని లేదా రెండింటి మార్పులూ రద్దవ్వాలని నిర్ధారిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-016",
+      "topic_key": "database-basics",
+      "difficulty": 1,
+      "prompt": "A school stores student names and roll numbers in a database. Which item is an example of data?",
+      "options": {
+        "A": "A student's roll number",
+        "B": "The database application",
+        "C": "The computer keyboard",
+        "D": "A network cable"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A roll number is a stored fact about a student, so it is data.",
+        "te": "విద్యార్థి రోల్ నంబర్ అతని లేదా ఆమె గురించి నిల్వ చేసిన సమాచారం; కాబట్టి అది డేటా."
+      }
+    },
+    {
+      "key": "dbms-017",
+      "topic_key": "database-basics",
+      "difficulty": 2,
+      "prompt": "Why might a shop use a DBMS for its stock records instead of separate notebooks?",
+      "options": {
+        "A": "It can search and update stock records more consistently",
+        "B": "It guarantees that no product will ever sell out",
+        "C": "It removes the need to enter product details",
+        "D": "It automatically decides every product price"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A DBMS helps a shop find and update shared records consistently; it does not make business decisions for the shop.",
+        "te": "DBMS దుకాణానికి ఒకే రికార్డులను సులభంగా వెతికి క్రమబద్ధంగా మార్చడంలో సహాయపడుతుంది; ధరలను స్వయంగా నిర్ణయించదు."
+      }
+    },
+    {
+      "key": "dbms-018",
+      "topic_key": "database-basics",
+      "difficulty": 3,
+      "prompt": "A DBMS rule prevents an order from referring to a customer that does not exist. What is the main benefit?",
+      "options": {
+        "A": "It helps maintain valid and consistent data",
+        "B": "It makes every query private",
+        "C": "It compresses every table",
+        "D": "It creates new customers automatically"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Rules such as referential integrity help prevent records from pointing to missing related records.",
+        "te": "రిఫరెన్షియల్ ఇంటిగ్రిటీ వంటి నియమాలు లేని సంబంధిత రికార్డులను సూచించకుండా అడ్డుకుని డేటా సరైనదిగా ఉంచుతాయి."
+      }
+    },
+    {
+      "key": "dbms-019",
+      "topic_key": "database-basics",
+      "difficulty": 4,
+      "prompt": "A school wants only authorized staff to change marks. Which DBMS feature best supports this?",
+      "options": {
+        "A": "Access control and permissions",
+        "B": "A larger monitor",
+        "C": "Sorting marks alphabetically",
+        "D": "Adding more blank rows"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "DBMS permissions can restrict who is allowed to read or change particular data.",
+        "te": "DBMS అనుమతులు నిర్దిష్ట డేటాను ఎవరు చూడవచ్చు లేదా మార్చవచ్చు అనేది పరిమితం చేస్తాయి."
+      }
+    },
+    {
+      "key": "dbms-020",
+      "topic_key": "database-basics",
+      "difficulty": 5,
+      "prompt": "A team needs to recover its database after a disk failure. Which DBMS practice is most directly useful?",
+      "options": {
+        "A": "Keeping and testing database backups",
+        "B": "Renaming every column weekly",
+        "C": "Removing all access permissions",
+        "D": "Sorting the rows before each query"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A current, tested backup provides a copy that can be restored after data loss or hardware failure.",
+        "te": "తాజాగా తీసి పరీక్షించిన బ్యాకప్ డేటా పోయినప్పుడు లేదా డిస్క్ పాడైనప్పుడు తిరిగి పొందడానికి ఉపయోగపడుతుంది."
+      }
+    },
+    {
+      "key": "dbms-021",
+      "topic_key": "relational-model",
+      "difficulty": 1,
+      "prompt": "In a table of bus routes, what does a column usually represent?",
+      "options": {
+        "A": "One attribute, such as route name",
+        "B": "The entire database",
+        "C": "One user's password",
+        "D": "A backup file"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A column stores one kind of attribute for the table's records, such as route name or start time.",
+        "te": "కాలమ్ పట్టికలోని రికార్డుల కోసం ఒక రకమైన లక్షణాన్ని నిల్వ చేస్తుంది; ఉదాహరణకు మార్గం పేరు లేదా ప్రారంభ సమయం."
+      }
+    },
+    {
+      "key": "dbms-022",
+      "topic_key": "relational-model",
+      "difficulty": 2,
+      "prompt": "Which statement about a primary key is correct?",
+      "options": {
+        "A": "Its value must uniquely identify a row",
+        "B": "It must always contain a person's name",
+        "C": "It can be duplicated in every row",
+        "D": "It is always the last column"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The purpose of a primary key is to distinguish each row; it need not be a person's name or a particular column position.",
+        "te": "ప్రతి వరుసను ప్రత్యేకంగా గుర్తించడం ప్రైమరీ కీ పని; అది తప్పనిసరిగా పేరు కావాల్సిన అవసరం లేదు."
+      }
+    },
+    {
+      "key": "dbms-023",
+      "topic_key": "relational-model",
+      "difficulty": 3,
+      "prompt": "A table has StudentID and Email, and both are unique. Which statement is true?",
+      "options": {
+        "A": "Either may be a candidate key if it uniquely identifies rows",
+        "B": "Neither can be used to identify a row",
+        "C": "Both columns must contain the same value",
+        "D": "Email must be a foreign key"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A candidate key is a minimal attribute set that uniquely identifies a row; a table can have more than one.",
+        "te": "ప్రతి వరుసను ప్రత్యేకంగా గుర్తించే కనిష్ఠ లక్షణ సముదాయాన్ని క్యాండిడేట్ కీ అంటారు; ఒక పట్టికలో ఒకటి కంటే ఎక్కువ ఉండవచ్చు."
+      }
+    },
+    {
+      "key": "dbms-024",
+      "topic_key": "relational-model",
+      "difficulty": 4,
+      "prompt": "An Enrollment table uses (StudentID, CourseID) together to identify each row. What kind of key is this?",
+      "options": {
+        "A": "A composite primary key",
+        "B": "A single-column foreign key",
+        "C": "A duplicate record",
+        "D": "A database view"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A composite key uses multiple columns together to uniquely identify a row.",
+        "te": "రెండు లేదా అంతకంటే ఎక్కువ కాలమ్‌లను కలిపి ఒక వరుసను ప్రత్యేకంగా గుర్తిస్తే దాన్ని కాంపోజిట్ కీ అంటారు."
+      }
+    },
+    {
+      "key": "dbms-025",
+      "topic_key": "relational-model",
+      "difficulty": 5,
+      "prompt": "A foreign key in Child references a primary key in Parent. Which constraint is being supported?",
+      "options": {
+        "A": "Referential integrity",
+        "B": "Alphabetical ordering",
+        "C": "Atomicity",
+        "D": "Column projection"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Referential integrity ensures that a foreign-key value refers to an existing referenced row, subject to the database rules.",
+        "te": "డేటాబేస్ నియమాల ప్రకారం ఫారిన్ కీ విలువ ఉన్న సంబంధిత వరుసను సూచిస్తున్నదని రిఫరెన్షియల్ ఇంటిగ్రిటీ నిర్ధారిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-026",
+      "topic_key": "sql-basics",
+      "difficulty": 1,
+      "prompt": "Which SQL keyword names the table from which rows are selected?",
+      "options": {
+        "A": "FROM",
+        "B": "WHERE",
+        "C": "GROUP",
+        "D": "LIMIT"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "FROM identifies the table or tables used by a SELECT query.",
+        "te": "SELECT ప్రశ్నలో ఉపయోగించే పట్టిక లేదా పట్టికలను FROM సూచిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-027",
+      "topic_key": "sql-basics",
+      "difficulty": 2,
+      "prompt": "What does ORDER BY fare ASC do in a query?",
+      "options": {
+        "A": "Sorts the result by fare from lowest to highest",
+        "B": "Deletes rows with a low fare",
+        "C": "Changes every fare to ascending",
+        "D": "Groups all rows into one"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "ASC requests ascending order, so numeric fares are shown from smaller to larger.",
+        "te": "ASC ఆరోహణ క్రమాన్ని కోరుతుంది; సంఖ్యలైన చార్జీలు తక్కువ నుంచి ఎక్కువగా కనిపిస్తాయి."
+      }
+    },
+    {
+      "key": "dbms-028",
+      "topic_key": "sql-basics",
+      "difficulty": 3,
+      "prompt": "Which query counts all rows in a table named Orders?",
+      "options": {
+        "A": "SELECT COUNT(*) FROM Orders;",
+        "B": "SELECT TOTAL Orders;",
+        "C": "COUNT Orders FROM *;",
+        "D": "SELECT ROWS(Orders);"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "COUNT(*) returns the number of rows in the selected table.",
+        "te": "COUNT(*) ఎంచుకున్న పట్టికలోని వరుసల సంఖ్యను ఇస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-029",
+      "topic_key": "sql-basics",
+      "difficulty": 4,
+      "prompt": "Which clause filters groups after GROUP BY, for example to keep only groups with COUNT(*) greater than 2?",
+      "options": {
+        "A": "HAVING",
+        "B": "WHERE",
+        "C": "FROM",
+        "D": "VALUES"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "HAVING filters grouped results, often using aggregate values such as COUNT or SUM.",
+        "te": "COUNT లేదా SUM వంటి మొత్తం విలువలను ఉపయోగించి GROUP BY చేసిన ఫలిత సమూహాలను HAVING వడపోస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-030",
+      "topic_key": "sql-basics",
+      "difficulty": 5,
+      "prompt": "A query should list each department once even if many employees belong to it. Which keyword removes duplicate department values?",
+      "options": {
+        "A": "DISTINCT",
+        "B": "UNIQUE ROWS",
+        "C": "HAVING",
+        "D": "CASCADE"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "SELECT DISTINCT returns only one copy of each distinct selected value.",
+        "te": "SELECT DISTINCT ఎంచుకున్న ప్రతి భిన్నమైన విలువను ఒక్కసారి మాత్రమే చూపిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-031",
+      "topic_key": "normalization",
+      "difficulty": 1,
+      "prompt": "A student has several phone numbers. Why is storing them as one comma-separated value in a single cell often a poor relational design?",
+      "options": {
+        "A": "The cell contains multiple values instead of one atomic value",
+        "B": "The table has too few rows",
+        "C": "The primary key becomes a number",
+        "D": "The database cannot store text"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A repeating list in one cell makes searching and validating individual phone numbers harder and does not meet the usual 1NF atomic-value rule.",
+        "te": "ఒక సెల్‌లో జాబితా ఉంచితే ప్రతి ఫోన్ నంబర్‌ను వెతకడం, ధృవీకరించడం కష్టం; సాధారణ 1NF నియమం ప్రకారం ప్రతి సెల్‌లో ఒకే విలువ ఉండాలి."
+      }
+    },
+    {
+      "key": "dbms-032",
+      "topic_key": "normalization",
+      "difficulty": 2,
+      "prompt": "What is an update anomaly?",
+      "options": {
+        "A": "The same fact is stored in several places and some copies are not updated",
+        "B": "A query sorts rows in the wrong order",
+        "C": "A user forgets a password",
+        "D": "A backup is stored on another disk"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "When repeated facts are changed in only some rows, the database can contain conflicting values; this is an update anomaly.",
+        "te": "పునరావృత సమాచారం ఉన్న కొన్ని వరుసలనే మార్చితే విరుద్ధమైన విలువలు ఏర్పడవచ్చు; దీనిని అప్‌డేట్ అనామలీ అంటారు."
+      }
+    },
+    {
+      "key": "dbms-033",
+      "topic_key": "normalization",
+      "difficulty": 3,
+      "prompt": "A table is in 2NF when it is in 1NF and every non-key attribute depends on what?",
+      "options": {
+        "A": "The whole candidate key, not just part of a composite key",
+        "B": "The first row only",
+        "C": "A different table's description",
+        "D": "The order of the columns"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Second Normal Form removes partial dependency: a non-key attribute must depend on the whole candidate key.",
+        "te": "రెండో నార్మల్ ఫారం పాక్షిక ఆధారాన్ని తొలగిస్తుంది: కీ కాని లక్షణం మొత్తం క్యాండిడేట్ కీపై ఆధారపడాలి."
+      }
+    },
+    {
+      "key": "dbms-034",
+      "topic_key": "normalization",
+      "difficulty": 4,
+      "prompt": "A table is in 3NF when it is in 2NF and non-key attributes do not depend transitively on what?",
+      "options": {
+        "A": "A candidate key",
+        "B": "A table's title",
+        "C": "A database backup",
+        "D": "The order of insertion"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Third Normal Form removes transitive dependencies of non-key attributes on candidate keys.",
+        "te": "మూడో నార్మల్ ఫారం కీ కాని లక్షణాలు క్యాండిడేట్ కీపై పరోక్షంగా ఆధారపడే పరిస్థితిని తొలగిస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-035",
+      "topic_key": "normalization",
+      "difficulty": 5,
+      "prompt": "A relation has overlapping candidate keys and every determinant is a superkey. Which normal form does this condition describe?",
+      "options": {
+        "A": "BCNF",
+        "B": "1NF",
+        "C": "2NF",
+        "D": "4NF"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Boyce-Codd Normal Form requires every determinant in a non-trivial functional dependency to be a superkey.",
+        "te": "బాయ్స్-కాడ్ నార్మల్ ఫారం ప్రకారం ప్రతి తుచ్ఛం కాని ఫంక్షనల్ డిపెండెన్సీలో డిటర్మినెంట్ ఒక సూపర్‌కీ అయి ఉండాలి."
+      }
+    },
+    {
+      "key": "dbms-036",
+      "topic_key": "transactions",
+      "difficulty": 1,
+      "prompt": "In ACID, which property says committed data should survive a system failure?",
+      "options": {
+        "A": "Durability",
+        "B": "Isolation",
+        "C": "Atomicity",
+        "D": "Consistency"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Durability means that once a transaction commits, its changes persist even if the system later fails.",
+        "te": "డ్యూరబిలిటీ ప్రకారం ట్రాన్సాక్షన్ కమిట్ అయిన తర్వాత సిస్టమ్ విఫలమైనా దాని మార్పులు నిలిచి ఉండాలి."
+      }
+    },
+    {
+      "key": "dbms-037",
+      "topic_key": "transactions",
+      "difficulty": 2,
+      "prompt": "What does Isolation aim to provide when two transactions run at the same time?",
+      "options": {
+        "A": "Each transaction behaves as if it were safely separated from the others",
+        "B": "Every transaction uses a different database server",
+        "C": "All transactions are automatically cancelled",
+        "D": "Every query returns identical rows"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Isolation limits unwanted interference between concurrent transactions, according to the chosen isolation level.",
+        "te": "ఎంచుకున్న ఐసోలేషన్ స్థాయి ప్రకారం ఒకేసారి నడిచే ట్రాన్సాక్షన్‌లు ఒకదానికొకటి అనవసరంగా ప్రభావితం కాకుండా ఐసోలేషన్ సహాయపడుతుంది."
+      }
+    },
+    {
+      "key": "dbms-038",
+      "topic_key": "transactions",
+      "difficulty": 3,
+      "prompt": "A transaction finishes successfully. Which command commonly makes its changes permanent?",
+      "options": {
+        "A": "COMMIT",
+        "B": "ROLLBACK",
+        "C": "SELECT",
+        "D": "ORDER BY"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "COMMIT confirms a transaction so its changes are saved as committed work.",
+        "te": "COMMIT ట్రాన్సాక్షన్‌ను నిర్ధారించి, దాని మార్పులను శాశ్వతంగా సేవ్ చేస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-039",
+      "topic_key": "transactions",
+      "difficulty": 4,
+      "prompt": "A transaction detects an error before committing and should undo its uncommitted changes. Which command is appropriate?",
+      "options": {
+        "A": "ROLLBACK",
+        "B": "COMMIT",
+        "C": "GROUP BY",
+        "D": "GRANT"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "ROLLBACK discards changes made by the current uncommitted transaction.",
+        "te": "ROLLBACK ప్రస్తుత కమిట్ కాని ట్రాన్సాక్షన్‌లో చేసిన మార్పులను రద్దు చేస్తుంది."
+      }
+    },
+    {
+      "key": "dbms-040",
+      "topic_key": "transactions",
+      "difficulty": 5,
+      "prompt": "Two concurrent transactions update the same account balance and one update is lost. Which ACID property is most directly concerned with preventing such interference?",
+      "options": {
+        "A": "Isolation",
+        "B": "Durability",
+        "C": "Normalization",
+        "D": "Projection"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Isolation controls how concurrent transactions interact, helping prevent anomalies such as lost updates.",
+        "te": "ఒకేసారి నడిచే ట్రాన్సాక్షన్‌లు ఎలా పరస్పరం ప్రభావితం అవుతాయో ఐసోలేషన్ నియంత్రించి, లాస్ట్ అప్‌డేట్ వంటి సమస్యలను తగ్గిస్తుంది."
+      }
+    }
+  ]
+}

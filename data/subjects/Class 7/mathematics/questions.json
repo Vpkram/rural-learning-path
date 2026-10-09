@@ -1,0 +1,964 @@
+{
+  "questions": [
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-001",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Large Numbers Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-002",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Large Numbers Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-003",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Large Numbers Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-004",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 2,
+      "prompt": "When applying Large Numbers Around Us, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-005",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Large Numbers Around Us. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-large-numbers-around-us-006",
+      "topic_key": "large-numbers-around-us",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Large Numbers Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Large Numbers Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Large Numbers Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-001",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Arithmetic Expressions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-002",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Arithmetic Expressions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-003",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Arithmetic Expressions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-004",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 2,
+      "prompt": "When applying Arithmetic Expressions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-005",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Arithmetic Expressions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-arithmetic-expressions-006",
+      "topic_key": "arithmetic-expressions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Arithmetic Expressions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arithmetic Expressions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arithmetic Expressions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-001",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Peek Beyond the Point?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-002",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Peek Beyond the Point?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-003",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Peek Beyond the Point?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-004",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 2,
+      "prompt": "When applying A Peek Beyond the Point, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-005",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing A Peek Beyond the Point. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-peek-beyond-the-point-006",
+      "topic_key": "a-peek-beyond-the-point",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying A Peek Beyond the Point?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Peek Beyond the Point, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Peek Beyond the Point uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-001",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Expressions Using Letter-Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-002",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Expressions Using Letter-Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-003",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Expressions Using Letter-Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-004",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 2,
+      "prompt": "When applying Expressions Using Letter-Numbers, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-005",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Expressions Using Letter-Numbers. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-expressions-using-letter-numbers-006",
+      "topic_key": "expressions-using-letter-numbers",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Expressions Using Letter-Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions Using Letter-Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions Using Letter-Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-001",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Parallel and Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-002",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Parallel and Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-003",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Parallel and Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-004",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 2,
+      "prompt": "When applying Parallel and Intersecting Lines, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-005",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Parallel and Intersecting Lines. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-parallel-and-intersecting-lines-006",
+      "topic_key": "parallel-and-intersecting-lines",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Parallel and Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Parallel and Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Parallel and Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-001",
+      "topic_key": "number-play",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-002",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-003",
+      "topic_key": "number-play",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-004",
+      "topic_key": "number-play",
+      "difficulty": 2,
+      "prompt": "When applying Number Play, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-005",
+      "topic_key": "number-play",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Number Play. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-number-play-006",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-001",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Tale of Three Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-002",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Tale of Three Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-003",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Tale of Three Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-004",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 2,
+      "prompt": "When applying A Tale of Three Intersecting Lines, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-005",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing A Tale of Three Intersecting Lines. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-a-tale-of-three-intersecting-lines-006",
+      "topic_key": "a-tale-of-three-intersecting-lines",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying A Tale of Three Intersecting Lines?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Tale of Three Intersecting Lines, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Tale of Three Intersecting Lines uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-001",
+      "topic_key": "working-with-fractions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Working with Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-002",
+      "topic_key": "working-with-fractions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Working with Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-003",
+      "topic_key": "working-with-fractions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Working with Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-004",
+      "topic_key": "working-with-fractions",
+      "difficulty": 2,
+      "prompt": "When applying Working with Fractions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-005",
+      "topic_key": "working-with-fractions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Working with Fractions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-working-with-fractions-006",
+      "topic_key": "working-with-fractions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Working with Fractions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Working with Fractions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Working with Fractions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-001",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Ratio and Proportion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-002",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Ratio and Proportion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-003",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Ratio and Proportion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-004",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 2,
+      "prompt": "When applying Ratio and Proportion, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-005",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Ratio and Proportion. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-ratio-and-proportion-006",
+      "topic_key": "ratio-and-proportion",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Ratio and Proportion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ratio and Proportion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ratio and Proportion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-001",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Algebraic Thinking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-002",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Algebraic Thinking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-003",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Algebraic Thinking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-004",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 2,
+      "prompt": "When applying Algebraic Thinking, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-005",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Algebraic Thinking. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-7-mathematics-algebraic-thinking-006",
+      "topic_key": "algebraic-thinking",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Algebraic Thinking?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algebraic Thinking, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algebraic Thinking uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

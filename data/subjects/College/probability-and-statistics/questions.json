@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-probability-and-statistics-data-summaries-001",
+      "topic_key": "data-summaries",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Data Summaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-data-summaries-002",
+      "topic_key": "data-summaries",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Data Summaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-data-summaries-003",
+      "topic_key": "data-summaries",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Data Summaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-data-summaries-004",
+      "topic_key": "data-summaries",
+      "difficulty": 2,
+      "prompt": "When applying Data Summaries, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-data-summaries-005",
+      "topic_key": "data-summaries",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Data Summaries. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-data-summaries-006",
+      "topic_key": "data-summaries",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Data Summaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Data Summaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Data Summaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-001",
+      "topic_key": "counting-and-probability",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Counting and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-002",
+      "topic_key": "counting-and-probability",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Counting and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-003",
+      "topic_key": "counting-and-probability",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Counting and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-004",
+      "topic_key": "counting-and-probability",
+      "difficulty": 2,
+      "prompt": "When applying Counting and Probability, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-005",
+      "topic_key": "counting-and-probability",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Counting and Probability. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-counting-and-probability-006",
+      "topic_key": "counting-and-probability",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Counting and Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting and Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting and Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-001",
+      "topic_key": "conditional-probability",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Conditional Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-002",
+      "topic_key": "conditional-probability",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Conditional Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-003",
+      "topic_key": "conditional-probability",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Conditional Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-004",
+      "topic_key": "conditional-probability",
+      "difficulty": 2,
+      "prompt": "When applying Conditional Probability, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-005",
+      "topic_key": "conditional-probability",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Conditional Probability. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-conditional-probability-006",
+      "topic_key": "conditional-probability",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Conditional Probability?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional Probability, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional Probability uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-001",
+      "topic_key": "random-variables",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Random Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-002",
+      "topic_key": "random-variables",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Random Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-003",
+      "topic_key": "random-variables",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Random Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-004",
+      "topic_key": "random-variables",
+      "difficulty": 2,
+      "prompt": "When applying Random Variables, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-005",
+      "topic_key": "random-variables",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Random Variables. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-random-variables-006",
+      "topic_key": "random-variables",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Random Variables?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Random Variables, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Random Variables uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-001",
+      "topic_key": "probability-distributions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Probability Distributions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-002",
+      "topic_key": "probability-distributions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Probability Distributions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-003",
+      "topic_key": "probability-distributions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Probability Distributions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-004",
+      "topic_key": "probability-distributions",
+      "difficulty": 2,
+      "prompt": "When applying Probability Distributions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-005",
+      "topic_key": "probability-distributions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Probability Distributions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-probability-distributions-006",
+      "topic_key": "probability-distributions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Probability Distributions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Probability Distributions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Probability Distributions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-001",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Expectation and Variance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-002",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Expectation and Variance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-003",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Expectation and Variance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-004",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 2,
+      "prompt": "When applying Expectation and Variance, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-005",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Expectation and Variance. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-expectation-and-variance-006",
+      "topic_key": "expectation-and-variance",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Expectation and Variance?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expectation and Variance, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expectation and Variance uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-001",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sampling and Estimation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-002",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sampling and Estimation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-003",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sampling and Estimation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-004",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 2,
+      "prompt": "When applying Sampling and Estimation, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-005",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Sampling and Estimation. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-sampling-and-estimation-006",
+      "topic_key": "sampling-and-estimation",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Sampling and Estimation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sampling and Estimation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sampling and Estimation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-001",
+      "topic_key": "confidence-intervals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Confidence Intervals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-002",
+      "topic_key": "confidence-intervals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Confidence Intervals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-003",
+      "topic_key": "confidence-intervals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Confidence Intervals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-004",
+      "topic_key": "confidence-intervals",
+      "difficulty": 2,
+      "prompt": "When applying Confidence Intervals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-005",
+      "topic_key": "confidence-intervals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Confidence Intervals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-confidence-intervals-006",
+      "topic_key": "confidence-intervals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Confidence Intervals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Confidence Intervals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Confidence Intervals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-001",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Hypothesis Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-002",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Hypothesis Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-003",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Hypothesis Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-004",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 2,
+      "prompt": "When applying Hypothesis Testing, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-005",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Hypothesis Testing. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-probability-and-statistics-hypothesis-testing-006",
+      "topic_key": "hypothesis-testing",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Hypothesis Testing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hypothesis Testing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hypothesis Testing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

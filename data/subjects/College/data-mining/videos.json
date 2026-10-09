@@ -1,0 +1,112 @@
+{
+  "videos": [
+    {
+      "topic": "Data Preprocessing",
+      "title": "Data preprocessing lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+mining+data+preprocessing",
+      "duration_min": 12,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Data Preprocessing",
+      "title": "Data preprocessing Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+preprocessing+Telugu",
+      "duration_min": 12,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Association Rules",
+      "title": "Association rules lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+mining+association+rules+support+confidence",
+      "duration_min": 14,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Association Rules",
+      "title": "Association rules Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=association+rules+data+mining+Telugu",
+      "duration_min": 14,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Classification",
+      "title": "Classification lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+mining+classification+basics",
+      "duration_min": 14,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Classification",
+      "title": "Classification Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+mining+classification+Telugu",
+      "duration_min": 14,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Clustering",
+      "title": "Clustering lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+mining+clustering+basics",
+      "duration_min": 14,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Clustering",
+      "title": "Clustering Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=clustering+data+mining+Telugu",
+      "duration_min": 14,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Evaluation Metrics",
+      "title": "Evaluation metrics lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=classification+precision+recall+confusion+matrix",
+      "duration_min": 15,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Evaluation Metrics",
+      "title": "Evaluation metrics Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=precision+recall+Telugu+machine+learning",
+      "duration_min": 15,
+      "language": "te",
+      "verified": false
+    },
+    {
+      "topic": "Data Visualization",
+      "title": "Data visualization lesson search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+visualization+charts+basics",
+      "duration_min": 12,
+      "language": "en",
+      "verified": false
+    },
+    {
+      "topic": "Data Visualization",
+      "title": "Data visualization Telugu search",
+      "source": "Legacy CSV (unverified)",
+      "url": "https://www.youtube.com/results?search_query=data+visualization+Telugu",
+      "duration_min": 12,
+      "language": "te",
+      "verified": false
+    }
+  ]
+}

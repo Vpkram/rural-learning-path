@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-3-english-colours-001",
+      "topic_key": "colours",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Colours?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colours, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colours uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-colours-002",
+      "topic_key": "colours",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Colours?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colours, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colours uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-colours-003",
+      "topic_key": "colours",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Colours?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Colours, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Colours uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-badal-and-moti-001",
+      "topic_key": "badal-and-moti",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Badal and Moti?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Badal and Moti, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Badal and Moti uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-badal-and-moti-002",
+      "topic_key": "badal-and-moti",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Badal and Moti?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Badal and Moti, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Badal and Moti uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-badal-and-moti-003",
+      "topic_key": "badal-and-moti",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Badal and Moti?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Badal and Moti, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Badal and Moti uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-best-friends-001",
+      "topic_key": "best-friends",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Best Friends?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Best Friends, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Best Friends uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-best-friends-002",
+      "topic_key": "best-friends",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Best Friends?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Best Friends, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Best Friends uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-best-friends-003",
+      "topic_key": "best-friends",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Best Friends?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Best Friends, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Best Friends uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-out-in-the-garden-001",
+      "topic_key": "out-in-the-garden",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Out in the Garden?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Out in the Garden, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Out in the Garden uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-out-in-the-garden-002",
+      "topic_key": "out-in-the-garden",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Out in the Garden?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Out in the Garden, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Out in the Garden uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-out-in-the-garden-003",
+      "topic_key": "out-in-the-garden",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Out in the Garden?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Out in the Garden, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Out in the Garden uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-talking-toys-001",
+      "topic_key": "talking-toys",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Talking Toys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Talking Toys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Talking Toys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-talking-toys-002",
+      "topic_key": "talking-toys",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Talking Toys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Talking Toys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Talking Toys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-english-talking-toys-003",
+      "topic_key": "talking-toys",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Talking Toys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Talking Toys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Talking Toys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

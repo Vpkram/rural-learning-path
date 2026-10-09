@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-1-english-two-little-hands-001",
+      "topic_key": "two-little-hands",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Two Little Hands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Two Little Hands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Two Little Hands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-two-little-hands-002",
+      "topic_key": "two-little-hands",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Two Little Hands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Two Little Hands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Two Little Hands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-two-little-hands-003",
+      "topic_key": "two-little-hands",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Two Little Hands?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Two Little Hands, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Two Little Hands uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-greetings-001",
+      "topic_key": "greetings",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Greetings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Greetings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Greetings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-greetings-002",
+      "topic_key": "greetings",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Greetings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Greetings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Greetings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-greetings-003",
+      "topic_key": "greetings",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Greetings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Greetings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Greetings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-picture-reading-001",
+      "topic_key": "picture-reading",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-picture-reading-002",
+      "topic_key": "picture-reading",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-picture-reading-003",
+      "topic_key": "picture-reading",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Picture Reading?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Picture Reading, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Picture Reading uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-the-cap-seller-and-the-monkeys-001",
+      "topic_key": "the-cap-seller-and-the-monkeys",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Cap-seller and the Monkeys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cap-seller and the Monkeys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cap-seller and the Monkeys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-the-cap-seller-and-the-monkeys-002",
+      "topic_key": "the-cap-seller-and-the-monkeys",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Cap-seller and the Monkeys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cap-seller and the Monkeys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cap-seller and the Monkeys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-the-cap-seller-and-the-monkeys-003",
+      "topic_key": "the-cap-seller-and-the-monkeys",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Cap-seller and the Monkeys?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Cap-seller and the Monkeys, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Cap-seller and the Monkeys uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-a-visit-to-the-market-001",
+      "topic_key": "a-visit-to-the-market",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Visit to the Market?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Visit to the Market, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Visit to the Market uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-a-visit-to-the-market-002",
+      "topic_key": "a-visit-to-the-market",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Visit to the Market?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Visit to the Market, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Visit to the Market uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-english-a-visit-to-the-market-003",
+      "topic_key": "a-visit-to-the-market",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Visit to the Market?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Visit to the Market, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Visit to the Market uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

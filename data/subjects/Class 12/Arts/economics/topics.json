@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-12-arts-economics",
+    "name": "Economics",
+    "class_level": "Class 12",
+    "stream": "Arts",
+    "description": "Class 12 Arts Economics learning pack"
+  },
+  "topics": [
+    {
+      "key": "introduction-to-economics",
+      "name": "Introduction to Economics",
+      "description": "Study and practise the ideas in Introduction to Economics.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "consumer-behaviour",
+      "name": "Consumer Behaviour",
+      "description": "Study and practise the ideas in Consumer Behaviour.",
+      "prerequisites": [
+        "introduction-to-economics"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "producer-behaviour",
+      "name": "Producer Behaviour",
+      "description": "Study and practise the ideas in Producer Behaviour.",
+      "prerequisites": [
+        "consumer-behaviour"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "market-forms",
+      "name": "Market Forms",
+      "description": "Study and practise the ideas in Market Forms.",
+      "prerequisites": [
+        "producer-behaviour"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "national-income",
+      "name": "National Income",
+      "description": "Study and practise the ideas in National Income.",
+      "prerequisites": [
+        "market-forms"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "money-and-banking",
+      "name": "Money and Banking",
+      "description": "Study and practise the ideas in Money and Banking.",
+      "prerequisites": [
+        "national-income"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "government-budget",
+      "name": "Government Budget",
+      "description": "Study and practise the ideas in Government Budget.",
+      "prerequisites": [
+        "money-and-banking"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "balance-of-payments",
+      "name": "Balance of Payments",
+      "description": "Study and practise the ideas in Balance of Payments.",
+      "prerequisites": [
+        "government-budget"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "development-experience",
+      "name": "Development Experience",
+      "description": "Study and practise the ideas in Development Experience.",
+      "prerequisites": [
+        "balance-of-payments"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "economic-reforms",
+      "name": "Economic Reforms",
+      "description": "Study and practise the ideas in Economic Reforms.",
+      "prerequisites": [
+        "development-experience"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

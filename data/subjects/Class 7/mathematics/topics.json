@@ -1,0 +1,99 @@
+{
+  "subject": {
+    "key": "class-7-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "large-numbers-around-us",
+      "name": "Large Numbers Around Us",
+      "description": "Study and practise the ideas in Large Numbers Around Us.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "arithmetic-expressions",
+      "name": "Arithmetic Expressions",
+      "description": "Study and practise the ideas in Arithmetic Expressions.",
+      "prerequisites": [
+        "large-numbers-around-us"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "a-peek-beyond-the-point",
+      "name": "A Peek Beyond the Point",
+      "description": "Study and practise the ideas in A Peek Beyond the Point.",
+      "prerequisites": [
+        "arithmetic-expressions"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "expressions-using-letter-numbers",
+      "name": "Expressions Using Letter-Numbers",
+      "description": "Study and practise the ideas in Expressions Using Letter-Numbers.",
+      "prerequisites": [
+        "a-peek-beyond-the-point"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "parallel-and-intersecting-lines",
+      "name": "Parallel and Intersecting Lines",
+      "description": "Study and practise the ideas in Parallel and Intersecting Lines.",
+      "prerequisites": [
+        "expressions-using-letter-numbers"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "number-play",
+      "name": "Number Play",
+      "description": "Study and practise the ideas in Number Play.",
+      "prerequisites": [
+        "parallel-and-intersecting-lines"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "a-tale-of-three-intersecting-lines",
+      "name": "A Tale of Three Intersecting Lines",
+      "description": "Study and practise the ideas in A Tale of Three Intersecting Lines.",
+      "prerequisites": [
+        "number-play"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "working-with-fractions",
+      "name": "Working with Fractions",
+      "description": "Study and practise the ideas in Working with Fractions.",
+      "prerequisites": [
+        "a-tale-of-three-intersecting-lines"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "ratio-and-proportion",
+      "name": "Ratio and Proportion",
+      "description": "Study and practise the ideas in Ratio and Proportion.",
+      "prerequisites": [
+        "working-with-fractions"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "algebraic-thinking",
+      "name": "Algebraic Thinking",
+      "description": "Study and practise the ideas in Algebraic Thinking.",
+      "prerequisites": [
+        "ratio-and-proportion"
+      ],
+      "sequence_number": 10
+    }
+  ]
+}

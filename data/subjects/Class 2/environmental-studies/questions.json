@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-2-environmental-studies-our-neighbourhood-001",
+      "topic_key": "our-neighbourhood",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Our Neighbourhood?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Neighbourhood, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Neighbourhood uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-our-neighbourhood-002",
+      "topic_key": "our-neighbourhood",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Our Neighbourhood?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Neighbourhood, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Neighbourhood uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-our-neighbourhood-003",
+      "topic_key": "our-neighbourhood",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Our Neighbourhood?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Neighbourhood, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Neighbourhood uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-food-and-health-001",
+      "topic_key": "food-and-health",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Food and Health?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food and Health, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food and Health uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-food-and-health-002",
+      "topic_key": "food-and-health",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Food and Health?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food and Health, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food and Health uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-food-and-health-003",
+      "topic_key": "food-and-health",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Food and Health?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food and Health, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food and Health uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-water-and-weather-001",
+      "topic_key": "water-and-weather",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Water and Weather?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water and Weather, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water and Weather uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-water-and-weather-002",
+      "topic_key": "water-and-weather",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Water and Weather?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water and Weather, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water and Weather uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-water-and-weather-003",
+      "topic_key": "water-and-weather",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Water and Weather?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water and Weather, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water and Weather uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-animals-around-us-001",
+      "topic_key": "animals-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Animals Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animals Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animals Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-animals-around-us-002",
+      "topic_key": "animals-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Animals Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animals Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animals Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-animals-around-us-003",
+      "topic_key": "animals-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Animals Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Animals Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Animals Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-travel-and-communication-001",
+      "topic_key": "travel-and-communication",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Travel and Communication?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Travel and Communication, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Travel and Communication uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-travel-and-communication-002",
+      "topic_key": "travel-and-communication",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Travel and Communication?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Travel and Communication, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Travel and Communication uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-environmental-studies-travel-and-communication-003",
+      "topic_key": "travel-and-communication",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Travel and Communication?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Travel and Communication, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Travel and Communication uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

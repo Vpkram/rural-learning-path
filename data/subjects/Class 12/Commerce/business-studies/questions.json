@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "key": "class-12-commerce-business-studies-nature-and-purpose-of-business-001",
+      "topic_key": "nature-and-purpose-of-business",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Nature and Purpose of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature and Purpose of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature and Purpose of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-nature-and-purpose-of-business-002",
+      "topic_key": "nature-and-purpose-of-business",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Nature and Purpose of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature and Purpose of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature and Purpose of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-nature-and-purpose-of-business-003",
+      "topic_key": "nature-and-purpose-of-business",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Nature and Purpose of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Nature and Purpose of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Nature and Purpose of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-forms-of-business-organisation-001",
+      "topic_key": "forms-of-business-organisation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Forms of Business Organisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Forms of Business Organisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Forms of Business Organisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-forms-of-business-organisation-002",
+      "topic_key": "forms-of-business-organisation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Forms of Business Organisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Forms of Business Organisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Forms of Business Organisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-forms-of-business-organisation-003",
+      "topic_key": "forms-of-business-organisation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Forms of Business Organisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Forms of Business Organisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Forms of Business Organisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-public-private-and-global-enterprises-001",
+      "topic_key": "public-private-and-global-enterprises",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Public, Private and Global Enterprises?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Public, Private and Global Enterprises, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Public, Private and Global Enterprises uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-public-private-and-global-enterprises-002",
+      "topic_key": "public-private-and-global-enterprises",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Public, Private and Global Enterprises?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Public, Private and Global Enterprises, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Public, Private and Global Enterprises uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-public-private-and-global-enterprises-003",
+      "topic_key": "public-private-and-global-enterprises",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Public, Private and Global Enterprises?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Public, Private and Global Enterprises, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Public, Private and Global Enterprises uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-services-001",
+      "topic_key": "business-services",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Business Services?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Services, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Services uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-services-002",
+      "topic_key": "business-services",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Business Services?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Services, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Services uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-services-003",
+      "topic_key": "business-services",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Business Services?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Services, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Services uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-emerging-modes-of-business-001",
+      "topic_key": "emerging-modes-of-business",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Emerging Modes of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Emerging Modes of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Emerging Modes of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-emerging-modes-of-business-002",
+      "topic_key": "emerging-modes-of-business",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Emerging Modes of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Emerging Modes of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Emerging Modes of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-emerging-modes-of-business-003",
+      "topic_key": "emerging-modes-of-business",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Emerging Modes of Business?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Emerging Modes of Business, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Emerging Modes of Business uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-social-responsibility-001",
+      "topic_key": "social-responsibility",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Social Responsibility?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Social Responsibility, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Social Responsibility uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-social-responsibility-002",
+      "topic_key": "social-responsibility",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Social Responsibility?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Social Responsibility, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Social Responsibility uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-social-responsibility-003",
+      "topic_key": "social-responsibility",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Social Responsibility?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Social Responsibility, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Social Responsibility uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-principles-of-management-001",
+      "topic_key": "principles-of-management",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Principles of Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Principles of Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Principles of Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-principles-of-management-002",
+      "topic_key": "principles-of-management",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Principles of Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Principles of Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Principles of Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-principles-of-management-003",
+      "topic_key": "principles-of-management",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Principles of Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Principles of Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Principles of Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-environment-001",
+      "topic_key": "business-environment",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Business Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-environment-002",
+      "topic_key": "business-environment",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Business Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-business-environment-003",
+      "topic_key": "business-environment",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Business Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Business Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Business Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-planning-001",
+      "topic_key": "planning",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-planning-002",
+      "topic_key": "planning",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-planning-003",
+      "topic_key": "planning",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Planning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Planning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Planning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-organising-001",
+      "topic_key": "organising",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Organising?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organising, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organising uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-organising-002",
+      "topic_key": "organising",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Organising?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organising, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organising uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-organising-003",
+      "topic_key": "organising",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Organising?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Organising, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Organising uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-staffing-001",
+      "topic_key": "staffing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Staffing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Staffing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Staffing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-staffing-002",
+      "topic_key": "staffing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Staffing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Staffing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Staffing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-staffing-003",
+      "topic_key": "staffing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Staffing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Staffing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Staffing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-directing-001",
+      "topic_key": "directing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Directing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Directing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Directing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-directing-002",
+      "topic_key": "directing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Directing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Directing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Directing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-directing-003",
+      "topic_key": "directing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Directing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Directing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Directing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-controlling-001",
+      "topic_key": "controlling",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Controlling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Controlling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Controlling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-controlling-002",
+      "topic_key": "controlling",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Controlling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Controlling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Controlling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-controlling-003",
+      "topic_key": "controlling",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Controlling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Controlling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Controlling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-financial-management-001",
+      "topic_key": "financial-management",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Financial Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-financial-management-002",
+      "topic_key": "financial-management",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Financial Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-financial-management-003",
+      "topic_key": "financial-management",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Financial Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-marketing-management-001",
+      "topic_key": "marketing-management",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Marketing Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Marketing Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Marketing Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-marketing-management-002",
+      "topic_key": "marketing-management",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Marketing Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Marketing Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Marketing Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-business-studies-marketing-management-003",
+      "topic_key": "marketing-management",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Marketing Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Marketing Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Marketing Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

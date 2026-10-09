@@ -1,0 +1,436 @@
+{
+  "questions": [
+    {
+      "key": "class-6-social-science-locating-places-on-the-earth-001",
+      "topic_key": "locating-places-on-the-earth",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Locating Places on the Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Locating Places on the Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Locating Places on the Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-locating-places-on-the-earth-002",
+      "topic_key": "locating-places-on-the-earth",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Locating Places on the Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Locating Places on the Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Locating Places on the Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-locating-places-on-the-earth-003",
+      "topic_key": "locating-places-on-the-earth",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Locating Places on the Earth?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Locating Places on the Earth, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Locating Places on the Earth uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-oceans-and-continents-001",
+      "topic_key": "oceans-and-continents",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Oceans and Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oceans and Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oceans and Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-oceans-and-continents-002",
+      "topic_key": "oceans-and-continents",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Oceans and Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oceans and Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oceans and Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-oceans-and-continents-003",
+      "topic_key": "oceans-and-continents",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Oceans and Continents?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oceans and Continents, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oceans and Continents uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-landforms-and-life-001",
+      "topic_key": "landforms-and-life",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-landforms-and-life-002",
+      "topic_key": "landforms-and-life",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-landforms-and-life-003",
+      "topic_key": "landforms-and-life",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Landforms and Life?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Landforms and Life, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Landforms and Life uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-timeline-and-sources-of-history-001",
+      "topic_key": "timeline-and-sources-of-history",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Timeline and Sources of History?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Timeline and Sources of History, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Timeline and Sources of History uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-timeline-and-sources-of-history-002",
+      "topic_key": "timeline-and-sources-of-history",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Timeline and Sources of History?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Timeline and Sources of History, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Timeline and Sources of History uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-timeline-and-sources-of-history-003",
+      "topic_key": "timeline-and-sources-of-history",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Timeline and Sources of History?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Timeline and Sources of History, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Timeline and Sources of History uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-india-that-is-bharat-001",
+      "topic_key": "india-that-is-bharat",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about India That Is Bharat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India That Is Bharat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India That Is Bharat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-india-that-is-bharat-002",
+      "topic_key": "india-that-is-bharat",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving India That Is Bharat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India That Is Bharat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India That Is Bharat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-india-that-is-bharat-003",
+      "topic_key": "india-that-is-bharat",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise India That Is Bharat?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for India That Is Bharat, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on India That Is Bharat uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-the-beginnings-of-indian-civilisation-001",
+      "topic_key": "the-beginnings-of-indian-civilisation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Beginnings of Indian Civilisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Beginnings of Indian Civilisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Beginnings of Indian Civilisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-the-beginnings-of-indian-civilisation-002",
+      "topic_key": "the-beginnings-of-indian-civilisation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Beginnings of Indian Civilisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Beginnings of Indian Civilisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Beginnings of Indian Civilisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-the-beginnings-of-indian-civilisation-003",
+      "topic_key": "the-beginnings-of-indian-civilisation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Beginnings of Indian Civilisation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Beginnings of Indian Civilisation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Beginnings of Indian Civilisation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-family-and-community-001",
+      "topic_key": "family-and-community",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Family and Community?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Family and Community, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Family and Community uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-family-and-community-002",
+      "topic_key": "family-and-community",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Family and Community?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Family and Community, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Family and Community uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-family-and-community-003",
+      "topic_key": "family-and-community",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Family and Community?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Family and Community, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Family and Community uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-grassroots-democracy-001",
+      "topic_key": "grassroots-democracy",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Grassroots Democracy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Grassroots Democracy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Grassroots Democracy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-grassroots-democracy-002",
+      "topic_key": "grassroots-democracy",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Grassroots Democracy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Grassroots Democracy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Grassroots Democracy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-grassroots-democracy-003",
+      "topic_key": "grassroots-democracy",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Grassroots Democracy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Grassroots Democracy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Grassroots Democracy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-culture-and-knowledge-traditions-001",
+      "topic_key": "culture-and-knowledge-traditions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Culture and Knowledge Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Culture and Knowledge Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Culture and Knowledge Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-culture-and-knowledge-traditions-002",
+      "topic_key": "culture-and-knowledge-traditions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Culture and Knowledge Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Culture and Knowledge Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Culture and Knowledge Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-6-social-science-culture-and-knowledge-traditions-003",
+      "topic_key": "culture-and-knowledge-traditions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Culture and Knowledge Traditions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Culture and Knowledge Traditions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Culture and Knowledge Traditions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

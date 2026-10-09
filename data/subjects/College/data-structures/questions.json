@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-data-structures-algorithm-analysis-001",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Algorithm Analysis?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-algorithm-analysis-002",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Algorithm Analysis?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-algorithm-analysis-003",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Algorithm Analysis?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-algorithm-analysis-004",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 2,
+      "prompt": "When applying Algorithm Analysis, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-algorithm-analysis-005",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Algorithm Analysis. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-algorithm-analysis-006",
+      "topic_key": "algorithm-analysis",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Algorithm Analysis?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Algorithm Analysis, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Algorithm Analysis uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-001",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Arrays and Strings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-002",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Arrays and Strings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-003",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Arrays and Strings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-004",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 2,
+      "prompt": "When applying Arrays and Strings, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-005",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Arrays and Strings. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-arrays-and-strings-006",
+      "topic_key": "arrays-and-strings",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Arrays and Strings?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Arrays and Strings, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Arrays and Strings uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-001",
+      "topic_key": "linked-lists",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Linked Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-002",
+      "topic_key": "linked-lists",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Linked Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-003",
+      "topic_key": "linked-lists",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Linked Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-004",
+      "topic_key": "linked-lists",
+      "difficulty": 2,
+      "prompt": "When applying Linked Lists, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-005",
+      "topic_key": "linked-lists",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Linked Lists. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-linked-lists-006",
+      "topic_key": "linked-lists",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Linked Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Linked Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Linked Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-001",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Stacks and Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-002",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Stacks and Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-003",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Stacks and Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-004",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 2,
+      "prompt": "When applying Stacks and Queues, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-005",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Stacks and Queues. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-stacks-and-queues-006",
+      "topic_key": "stacks-and-queues",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Stacks and Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Stacks and Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Stacks and Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-001",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Trees and Binary Search Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-002",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Trees and Binary Search Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-003",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Trees and Binary Search Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-004",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 2,
+      "prompt": "When applying Trees and Binary Search Trees, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-005",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Trees and Binary Search Trees. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-trees-and-binary-search-trees-006",
+      "topic_key": "trees-and-binary-search-trees",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Trees and Binary Search Trees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trees and Binary Search Trees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trees and Binary Search Trees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-001",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Heaps and Priority Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-002",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Heaps and Priority Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-003",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Heaps and Priority Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-004",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 2,
+      "prompt": "When applying Heaps and Priority Queues, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-005",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Heaps and Priority Queues. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-heaps-and-priority-queues-006",
+      "topic_key": "heaps-and-priority-queues",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Heaps and Priority Queues?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heaps and Priority Queues, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heaps and Priority Queues uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-001",
+      "topic_key": "hashing",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Hashing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-002",
+      "topic_key": "hashing",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Hashing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-003",
+      "topic_key": "hashing",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Hashing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-004",
+      "topic_key": "hashing",
+      "difficulty": 2,
+      "prompt": "When applying Hashing, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-005",
+      "topic_key": "hashing",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Hashing. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-hashing-006",
+      "topic_key": "hashing",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Hashing?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Hashing, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Hashing uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-001",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Graphs and Traversal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-002",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Graphs and Traversal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-003",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Graphs and Traversal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-004",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 2,
+      "prompt": "When applying Graphs and Traversal, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-005",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Graphs and Traversal. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-graphs-and-traversal-006",
+      "topic_key": "graphs-and-traversal",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Graphs and Traversal?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Graphs and Traversal, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Graphs and Traversal uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-001",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sorting and Searching?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-002",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sorting and Searching?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-003",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sorting and Searching?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-004",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 2,
+      "prompt": "When applying Sorting and Searching, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-005",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Sorting and Searching. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-data-structures-sorting-and-searching-006",
+      "topic_key": "sorting-and-searching",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Sorting and Searching?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sorting and Searching, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sorting and Searching uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

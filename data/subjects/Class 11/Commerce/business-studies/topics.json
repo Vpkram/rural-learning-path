@@ -1,0 +1,144 @@
+{
+  "subject": {
+    "key": "class-11-commerce-business-studies",
+    "name": "Business Studies",
+    "class_level": "Class 11",
+    "stream": "Commerce",
+    "description": "Class 11 Commerce Business Studies learning pack"
+  },
+  "topics": [
+    {
+      "key": "nature-and-purpose-of-business",
+      "name": "Nature and Purpose of Business",
+      "description": "Study and practise the ideas in Nature and Purpose of Business.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "forms-of-business-organisation",
+      "name": "Forms of Business Organisation",
+      "description": "Study and practise the ideas in Forms of Business Organisation.",
+      "prerequisites": [
+        "nature-and-purpose-of-business"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "public-private-and-global-enterprises",
+      "name": "Public, Private and Global Enterprises",
+      "description": "Study and practise the ideas in Public, Private and Global Enterprises.",
+      "prerequisites": [
+        "forms-of-business-organisation"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "business-services",
+      "name": "Business Services",
+      "description": "Study and practise the ideas in Business Services.",
+      "prerequisites": [
+        "public-private-and-global-enterprises"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "emerging-modes-of-business",
+      "name": "Emerging Modes of Business",
+      "description": "Study and practise the ideas in Emerging Modes of Business.",
+      "prerequisites": [
+        "business-services"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "social-responsibility",
+      "name": "Social Responsibility",
+      "description": "Study and practise the ideas in Social Responsibility.",
+      "prerequisites": [
+        "emerging-modes-of-business"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "principles-of-management",
+      "name": "Principles of Management",
+      "description": "Study and practise the ideas in Principles of Management.",
+      "prerequisites": [
+        "social-responsibility"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "business-environment",
+      "name": "Business Environment",
+      "description": "Study and practise the ideas in Business Environment.",
+      "prerequisites": [
+        "principles-of-management"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "planning",
+      "name": "Planning",
+      "description": "Study and practise the ideas in Planning.",
+      "prerequisites": [
+        "business-environment"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "organising",
+      "name": "Organising",
+      "description": "Study and practise the ideas in Organising.",
+      "prerequisites": [
+        "planning"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "staffing",
+      "name": "Staffing",
+      "description": "Study and practise the ideas in Staffing.",
+      "prerequisites": [
+        "organising"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "directing",
+      "name": "Directing",
+      "description": "Study and practise the ideas in Directing.",
+      "prerequisites": [
+        "staffing"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "controlling",
+      "name": "Controlling",
+      "description": "Study and practise the ideas in Controlling.",
+      "prerequisites": [
+        "directing"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "financial-management",
+      "name": "Financial Management",
+      "description": "Study and practise the ideas in Financial Management.",
+      "prerequisites": [
+        "controlling"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "marketing-management",
+      "name": "Marketing Management",
+      "description": "Study and practise the ideas in Marketing Management.",
+      "prerequisites": [
+        "financial-management"
+      ],
+      "sequence_number": 15
+    }
+  ]
+}

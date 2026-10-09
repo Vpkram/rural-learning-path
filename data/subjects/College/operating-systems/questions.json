@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-operating-systems-operating-system-structures-001",
+      "topic_key": "operating-system-structures",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Operating System Structures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-operating-system-structures-002",
+      "topic_key": "operating-system-structures",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Operating System Structures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-operating-system-structures-003",
+      "topic_key": "operating-system-structures",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Operating System Structures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-operating-system-structures-004",
+      "topic_key": "operating-system-structures",
+      "difficulty": 2,
+      "prompt": "When applying Operating System Structures, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-operating-system-structures-005",
+      "topic_key": "operating-system-structures",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Operating System Structures. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-operating-system-structures-006",
+      "topic_key": "operating-system-structures",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Operating System Structures?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Operating System Structures, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Operating System Structures uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-001",
+      "topic_key": "processes-and-threads",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Processes and Threads?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-002",
+      "topic_key": "processes-and-threads",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Processes and Threads?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-003",
+      "topic_key": "processes-and-threads",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Processes and Threads?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-004",
+      "topic_key": "processes-and-threads",
+      "difficulty": 2,
+      "prompt": "When applying Processes and Threads, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-005",
+      "topic_key": "processes-and-threads",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Processes and Threads. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-processes-and-threads-006",
+      "topic_key": "processes-and-threads",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Processes and Threads?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Processes and Threads, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Processes and Threads uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-001",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about CPU Scheduling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-002",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving CPU Scheduling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-003",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise CPU Scheduling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-004",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 2,
+      "prompt": "When applying CPU Scheduling, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-005",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing CPU Scheduling. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-cpu-scheduling-006",
+      "topic_key": "cpu-scheduling",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying CPU Scheduling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for CPU Scheduling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on CPU Scheduling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-001",
+      "topic_key": "process-synchronization",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Process Synchronization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-002",
+      "topic_key": "process-synchronization",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Process Synchronization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-003",
+      "topic_key": "process-synchronization",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Process Synchronization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-004",
+      "topic_key": "process-synchronization",
+      "difficulty": 2,
+      "prompt": "When applying Process Synchronization, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-005",
+      "topic_key": "process-synchronization",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Process Synchronization. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-process-synchronization-006",
+      "topic_key": "process-synchronization",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Process Synchronization?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Process Synchronization, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Process Synchronization uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-001",
+      "topic_key": "deadlocks",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Deadlocks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-002",
+      "topic_key": "deadlocks",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Deadlocks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-003",
+      "topic_key": "deadlocks",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Deadlocks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-004",
+      "topic_key": "deadlocks",
+      "difficulty": 2,
+      "prompt": "When applying Deadlocks, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-005",
+      "topic_key": "deadlocks",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Deadlocks. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-deadlocks-006",
+      "topic_key": "deadlocks",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Deadlocks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Deadlocks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Deadlocks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-001",
+      "topic_key": "memory-management",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Memory Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-002",
+      "topic_key": "memory-management",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Memory Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-003",
+      "topic_key": "memory-management",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Memory Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-004",
+      "topic_key": "memory-management",
+      "difficulty": 2,
+      "prompt": "When applying Memory Management, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-005",
+      "topic_key": "memory-management",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Memory Management. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-memory-management-006",
+      "topic_key": "memory-management",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Memory Management?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Memory Management, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Memory Management uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-001",
+      "topic_key": "virtual-memory",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Virtual Memory?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-002",
+      "topic_key": "virtual-memory",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Virtual Memory?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-003",
+      "topic_key": "virtual-memory",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Virtual Memory?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-004",
+      "topic_key": "virtual-memory",
+      "difficulty": 2,
+      "prompt": "When applying Virtual Memory, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-005",
+      "topic_key": "virtual-memory",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Virtual Memory. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-virtual-memory-006",
+      "topic_key": "virtual-memory",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Virtual Memory?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Virtual Memory, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Virtual Memory uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-001",
+      "topic_key": "file-systems",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about File Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-002",
+      "topic_key": "file-systems",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving File Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-003",
+      "topic_key": "file-systems",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise File Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-004",
+      "topic_key": "file-systems",
+      "difficulty": 2,
+      "prompt": "When applying File Systems, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-005",
+      "topic_key": "file-systems",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing File Systems. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-file-systems-006",
+      "topic_key": "file-systems",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying File Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-001",
+      "topic_key": "i-o-systems",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about I/O Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-002",
+      "topic_key": "i-o-systems",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving I/O Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-003",
+      "topic_key": "i-o-systems",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise I/O Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-004",
+      "topic_key": "i-o-systems",
+      "difficulty": 2,
+      "prompt": "When applying I/O Systems, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-005",
+      "topic_key": "i-o-systems",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing I/O Systems. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-operating-systems-i-o-systems-006",
+      "topic_key": "i-o-systems",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying I/O Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for I/O Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on I/O Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

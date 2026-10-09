@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-computer-networks",
+    "name": "Computer Networks",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Computer Networks learning pack"
+  },
+  "topics": [
+    {
+      "key": "network-models-and-protocols",
+      "name": "Network Models and Protocols",
+      "description": "Study and practise the ideas in Network Models and Protocols.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "physical-layer",
+      "name": "Physical Layer",
+      "description": "Study and practise the ideas in Physical Layer.",
+      "prerequisites": [
+        "network-models-and-protocols"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "data-link-layer",
+      "name": "Data Link Layer",
+      "description": "Study and practise the ideas in Data Link Layer.",
+      "prerequisites": [
+        "physical-layer"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "medium-access-control",
+      "name": "Medium Access Control",
+      "description": "Study and practise the ideas in Medium Access Control.",
+      "prerequisites": [
+        "data-link-layer"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "network-layer-and-ip",
+      "name": "Network Layer and IP",
+      "description": "Study and practise the ideas in Network Layer and IP.",
+      "prerequisites": [
+        "medium-access-control"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "routing",
+      "name": "Routing",
+      "description": "Study and practise the ideas in Routing.",
+      "prerequisites": [
+        "network-layer-and-ip"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "transport-layer",
+      "name": "Transport Layer",
+      "description": "Study and practise the ideas in Transport Layer.",
+      "prerequisites": [
+        "routing"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "application-layer",
+      "name": "Application Layer",
+      "description": "Study and practise the ideas in Application Layer.",
+      "prerequisites": [
+        "transport-layer"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "network-security-basics",
+      "name": "Network Security Basics",
+      "description": "Study and practise the ideas in Network Security Basics.",
+      "prerequisites": [
+        "application-layer"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

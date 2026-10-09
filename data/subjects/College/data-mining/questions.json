@@ -1,0 +1,616 @@
+{
+  "questions": [
+    {
+      "key": "dm-001",
+      "topic_key": "data-preprocessing",
+      "difficulty": 1,
+      "prompt": "What should be done with a missing age value before analysis?",
+      "options": {
+        "A": "Handle it using a documented rule",
+        "B": "Treat it as a confirmed zero",
+        "C": "Duplicate the row",
+        "D": "Rename the column"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A documented imputation or removal rule handles missing data transparently.",
+        "te": "లేని విలువను స్పష్టమైన నియమంతో భర్తీ చేయాలి లేదా తొలగించాలి."
+      }
+    },
+    {
+      "key": "dm-002",
+      "topic_key": "data-preprocessing",
+      "difficulty": 2,
+      "prompt": "Why remove duplicate customer records?",
+      "options": {
+        "A": "To avoid counting the same case more than once",
+        "B": "To increase missing values",
+        "C": "To change the target label",
+        "D": "To sort categories"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Duplicates can bias counts and learned patterns.",
+        "te": "డూప్లికేట్ రికార్డులు లెక్కలు మరియు నేర్చుకున్న నమూనాలను పక్షపాతంగా మార్చవచ్చు."
+      }
+    },
+    {
+      "key": "dm-003",
+      "topic_key": "data-preprocessing",
+      "difficulty": 3,
+      "prompt": "A measurement is 1000 times larger only because it is stored in millimetres. What can help distance-based methods?",
+      "options": {
+        "A": "Scale the features consistently",
+        "B": "Delete every row",
+        "C": "Copy the target column",
+        "D": "Shuffle labels"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Scaling reduces the effect of different units on distance calculations.",
+        "te": "స్కేలింగ్ వేర్వేరు యూనిట్లు దూర లెక్కలపై చూపే ప్రభావాన్ని తగ్గిస్తుంది."
+      }
+    },
+    {
+      "key": "dm-004",
+      "topic_key": "data-preprocessing",
+      "difficulty": 4,
+      "prompt": "Why fit a data scaler on training data only?",
+      "options": {
+        "A": "To prevent information leakage from evaluation data",
+        "B": "To guarantee every prediction is correct",
+        "C": "To create more labels",
+        "D": "To remove the need for testing"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Using evaluation data to fit preprocessing leaks information into training.",
+        "te": "మూల్యాంకన డేటాతో స్కేలర్‌ను నేర్పితే సమాచారం శిక్షణలోకి లీక్ అవుతుంది."
+      }
+    },
+    {
+      "key": "dm-005",
+      "topic_key": "data-preprocessing",
+      "difficulty": 5,
+      "prompt": "A column mixes dates in two formats. What is the best first action?",
+      "options": {
+        "A": "Normalize valid values and flag unparseable rows",
+        "B": "Sort the raw strings and assume correctness",
+        "C": "Replace all dates with today's date",
+        "D": "Drop the target variable"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Standardization plus explicit error handling preserves usable dates and reveals bad records.",
+        "te": "ఫార్మాట్లను ఏకరీతిగా చేసి చదవలేని వరుసలను గుర్తించడం సరైన చర్య."
+      }
+    },
+    {
+      "key": "dm-006",
+      "topic_key": "data-preprocessing",
+      "difficulty": 3,
+      "prompt": "What is data cleaning mainly intended to improve?",
+      "options": {
+        "A": "Data quality and consistency",
+        "B": "Screen brightness",
+        "C": "File compression only",
+        "D": "The number of class labels"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Cleaning corrects or manages errors and inconsistencies in source data.",
+        "te": "డేటా క్లీనింగ్ మూల డేటాలోని తప్పులు, అసమానతలను సరిచేస్తుంది."
+      }
+    },
+    {
+      "key": "dm-007",
+      "topic_key": "association-rules",
+      "difficulty": 1,
+      "prompt": "A shop finds that bread and milk are often bought together. This is an example of what?",
+      "options": {
+        "A": "Association pattern",
+        "B": "Linear equation",
+        "C": "Image segmentation",
+        "D": "Data encryption"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Association mining finds items that co-occur in transactions.",
+        "te": "లావాదేవీల్లో కలిసి కనిపించే వస్తువులను అసోసియేషన్ మైనింగ్ గుర్తిస్తుంది."
+      }
+    },
+    {
+      "key": "dm-008",
+      "topic_key": "association-rules",
+      "difficulty": 2,
+      "prompt": "Support of an itemset measures what?",
+      "options": {
+        "A": "Fraction of transactions containing it",
+        "B": "Number of columns in a chart",
+        "C": "Prediction error only",
+        "D": "Size of the database file"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Support is the proportion of all transactions that contain the itemset.",
+        "te": "సపోర్ట్ అంటే ఆ వస్తు సమూహం ఉన్న మొత్తం లావాదేవీల నిష్పత్తి."
+      }
+    },
+    {
+      "key": "dm-009",
+      "topic_key": "association-rules",
+      "difficulty": 3,
+      "prompt": "Confidence of rule X → Y is calculated as which ratio?",
+      "options": {
+        "A": "Support(X and Y) / Support(X)",
+        "B": "Support(X) / number of columns",
+        "C": "Support(Y) + support(X)",
+        "D": "Number of rows / number of labels"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Confidence estimates how often Y appears among transactions containing X.",
+        "te": "X ఉన్న లావాదేవీలలో Y ఎంత తరచుగా ఉందో కాన్ఫిడెన్స్ కొలుస్తుంది."
+      }
+    },
+    {
+      "key": "dm-010",
+      "topic_key": "association-rules",
+      "difficulty": 4,
+      "prompt": "If support(X)=0.5 and support(X and Y)=0.2, what is confidence(X → Y)?",
+      "options": {
+        "A": "0.4",
+        "B": "0.7",
+        "C": "2.5",
+        "D": "0.1"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Confidence is 0.2 divided by 0.5, which equals 0.4.",
+        "te": "కాన్ఫిడెన్స్ 0.2 ను 0.5 తో భాగిస్తే 0.4 వస్తుంది."
+      }
+    },
+    {
+      "key": "dm-011",
+      "topic_key": "association-rules",
+      "difficulty": 5,
+      "prompt": "Why can a high-confidence rule still be misleading?",
+      "options": {
+        "A": "The consequent may already be very common",
+        "B": "Confidence always measures causation",
+        "C": "Support cannot be calculated",
+        "D": "Rules contain no items"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A common consequent can make confidence high even when the rule adds little; compare with baseline or lift.",
+        "te": "పరిణామ అంశం సాధారణంగా ఉంటే నియమం ప్రత్యేక సమాచారం ఇవ్వకపోయినా కాన్ఫిడెన్స్ ఎక్కువగా ఉండవచ్చు."
+      }
+    },
+    {
+      "key": "dm-012",
+      "topic_key": "association-rules",
+      "difficulty": 3,
+      "prompt": "A rule with zero support can be useful for observed transactions?",
+      "options": {
+        "A": "No, it never occurs in the data",
+        "B": "Yes, it is always causal",
+        "C": "Yes, it has perfect recall",
+        "D": "Only after deleting data"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Zero support means no observed transaction contains the itemset.",
+        "te": "సున్నా సపోర్ట్ అంటే గమనించిన లావాదేవీల్లో ఆ సమూహం లేదు."
+      }
+    },
+    {
+      "key": "dm-013",
+      "topic_key": "classification",
+      "difficulty": 1,
+      "prompt": "A model predicts whether an email is spam or not spam. What type of task is this?",
+      "options": {
+        "A": "Classification",
+        "B": "Clustering",
+        "C": "Compression",
+        "D": "Sorting"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Spam and not-spam are categories, so this is classification.",
+        "te": "స్పామ్, స్పామ్ కాదు అనే వర్గాలను ఎంచుకోవడం క్లాసిఫికేషన్."
+      }
+    },
+    {
+      "key": "dm-014",
+      "topic_key": "classification",
+      "difficulty": 2,
+      "prompt": "What does a classifier learn from labeled training examples?",
+      "options": {
+        "A": "A mapping from features to categories",
+        "B": "Only the file name",
+        "C": "A list of random rows",
+        "D": "The order of computer ports"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Labels teach the model how input features relate to categories.",
+        "te": "లేబుళ్లు ఇన్‌పుట్ లక్షణాలు వర్గాలతో ఎలా సంబంధించాయో నేర్పుతాయి."
+      }
+    },
+    {
+      "key": "dm-015",
+      "topic_key": "classification",
+      "difficulty": 3,
+      "prompt": "Why keep a separate test set?",
+      "options": {
+        "A": "To estimate performance on unseen examples",
+        "B": "To train on the answers twice",
+        "C": "To remove all features",
+        "D": "To guarantee zero error"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A held-out test set checks whether learned patterns generalize.",
+        "te": "వేరుగా ఉంచిన టెస్ట్ సెట్ కొత్త ఉదాహరణలపై పనితీరును అంచనా వేస్తుంది."
+      }
+    },
+    {
+      "key": "dm-016",
+      "topic_key": "classification",
+      "difficulty": 4,
+      "prompt": "A model gets 99% accuracy on a dataset where 99% of cases are negative. What is a concern?",
+      "options": {
+        "A": "It may predict the majority class and miss positives",
+        "B": "It must be perfect",
+        "C": "Accuracy is impossible",
+        "D": "The dataset has no labels"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Class imbalance can make accuracy look high while the minority class is poorly detected.",
+        "te": "అసమతుల్య డేటాలో మైనారిటీ వర్గాన్ని గుర్తించకపోయినా ఖచ్చితత్వం ఎక్కువగా కనిపించవచ్చు."
+      }
+    },
+    {
+      "key": "dm-017",
+      "topic_key": "classification",
+      "difficulty": 5,
+      "prompt": "A feature is measured after the outcome being predicted. What is the primary risk?",
+      "options": {
+        "A": "Target leakage",
+        "B": "Underflow",
+        "C": "Clustering",
+        "D": "Low file size"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A post-outcome feature reveals information unavailable at prediction time.",
+        "te": "ఫలితం తర్వాతి లక్షణం అంచనా సమయంలో లేని సమాచారాన్ని బయటపెడుతుంది."
+      }
+    },
+    {
+      "key": "dm-018",
+      "topic_key": "classification",
+      "difficulty": 3,
+      "prompt": "Which input is the target in supervised classification?",
+      "options": {
+        "A": "The known category label",
+        "B": "The row number",
+        "C": "The chart title",
+        "D": "The database password"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The target is the category the model is trained to predict.",
+        "te": "మోడల్ అంచనా వేయడానికి శిక్షణ పొందే వర్గమే టార్గెట్."
+      }
+    },
+    {
+      "key": "dm-019",
+      "topic_key": "clustering",
+      "difficulty": 1,
+      "prompt": "Clustering is usually used to do what?",
+      "options": {
+        "A": "Group similar records without supplied labels",
+        "B": "Translate a paragraph",
+        "C": "Encrypt a table",
+        "D": "Calculate a password hash"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Clustering discovers groups based on similarity without known labels.",
+        "te": "తెలిసిన లేబుళ్లు లేకుండా సారూప్యత ఆధారంగా సమూహాలను క్లస్టరింగ్ కనుగొంటుంది."
+      }
+    },
+    {
+      "key": "dm-020",
+      "topic_key": "clustering",
+      "difficulty": 2,
+      "prompt": "In k-means, what does k specify?",
+      "options": {
+        "A": "The requested number of clusters",
+        "B": "The number of columns to delete",
+        "C": "The test accuracy",
+        "D": "The file format"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The algorithm is asked to form k clusters.",
+        "te": "k అంటే ఏర్పరచాల్సిన క్లస్టర్ల సంఖ్య."
+      }
+    },
+    {
+      "key": "dm-021",
+      "topic_key": "clustering",
+      "difficulty": 3,
+      "prompt": "Why can feature scaling matter to k-means?",
+      "options": {
+        "A": "Distance can be dominated by a large-unit feature",
+        "B": "It changes labels into text",
+        "C": "It prevents all missing values",
+        "D": "It sets k automatically"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "K-means uses distances, so large numeric scales can dominate those distances.",
+        "te": "k-means దూరాలను ఉపయోగిస్తుంది కాబట్టి పెద్ద పరిమాణం ఉన్న లక్షణం దూరాన్ని ఆధిపత్యం చేయవచ్చు."
+      }
+    },
+    {
+      "key": "dm-022",
+      "topic_key": "clustering",
+      "difficulty": 4,
+      "prompt": "A cluster contains records far apart from one another. What might this indicate?",
+      "options": {
+        "A": "The grouping may not represent a compact natural group",
+        "B": "The classifier has perfect recall",
+        "C": "Every record is duplicated",
+        "D": "The labels are encrypted"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Large within-cluster distances can signal a poor fit or unsuitable distance measure.",
+        "te": "క్లస్టర్‌లో అంతర్గత దూరాలు ఎక్కువైతే సరిపోని గ్రూపింగ్ లేదా దూర ప్రమాణం కావచ్చు."
+      }
+    },
+    {
+      "key": "dm-023",
+      "topic_key": "clustering",
+      "difficulty": 5,
+      "prompt": "Why repeat k-means with different initial centroids?",
+      "options": {
+        "A": "Different starts can lead to different local solutions",
+        "B": "It guarantees a known true label",
+        "C": "It removes the need to choose k",
+        "D": "It converts clustering to classification"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "K-means can converge to different local minima depending on initialization.",
+        "te": "ప్రారంభ సెంట్రాయిడ్లపై ఆధారపడి k-means వేర్వేరు స్థానిక పరిష్కారాలకు చేరవచ్చు."
+      }
+    },
+    {
+      "key": "dm-024",
+      "topic_key": "clustering",
+      "difficulty": 3,
+      "prompt": "Do unlabeled clusters automatically prove that groups have real-world meaning?",
+      "options": {
+        "A": "No, domain interpretation is still needed",
+        "B": "Yes, every cluster is a true class",
+        "C": "Yes, labels are implicit",
+        "D": "Only when k equals two"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Clusters are mathematical groupings and require context to interpret.",
+        "te": "క్లస్టర్లు గణిత సమూహాలు మాత్రమే; వాటి అర్థానికి సందర్భం అవసరం."
+      }
+    },
+    {
+      "key": "dm-025",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 1,
+      "prompt": "What does accuracy measure?",
+      "options": {
+        "A": "Fraction of predictions that are correct",
+        "B": "Number of features",
+        "C": "Average file size",
+        "D": "Training time only"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Accuracy is correct predictions divided by all predictions.",
+        "te": "ఖచ్చితత్వం అంటే సరైన అంచనాలను మొత్తం అంచనాలతో భాగించిన విలువ."
+      }
+    },
+    {
+      "key": "dm-026",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 2,
+      "prompt": "A true positive is which outcome?",
+      "options": {
+        "A": "Positive case correctly predicted positive",
+        "B": "Negative case predicted positive",
+        "C": "Positive case predicted negative",
+        "D": "Negative case correctly predicted negative"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A true positive is a positive example correctly identified as positive.",
+        "te": "నిజమైన పాజిటివ్ అంటే పాజిటివ్ ఉదాహరణను సరిగ్గా పాజిటివ్‌గా గుర్తించడం."
+      }
+    },
+    {
+      "key": "dm-027",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 3,
+      "prompt": "Precision is true positives divided by which quantity?",
+      "options": {
+        "A": "All predicted positives",
+        "B": "All actual negatives",
+        "C": "All features",
+        "D": "All training epochs"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Precision asks what fraction of predicted positives are truly positive.",
+        "te": "అంచనా వేసిన పాజిటివ్‌లలో నిజంగా పాజిటివ్‌లు ఎంత అన్నది ప్రెసిషన్."
+      }
+    },
+    {
+      "key": "dm-028",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 4,
+      "prompt": "Recall is especially important when which cases must not be missed?",
+      "options": {
+        "A": "Actual positive cases",
+        "B": "Unused columns",
+        "C": "Duplicate file names",
+        "D": "Chart colors"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Recall measures the fraction of actual positives that were found.",
+        "te": "నిజమైన పాజిటివ్‌లలో గుర్తించిన వాటి నిష్పత్తిని రీకాల్ కొలుస్తుంది."
+      }
+    },
+    {
+      "key": "dm-029",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 5,
+      "prompt": "A confusion matrix is useful because it shows what?",
+      "options": {
+        "A": "Counts of correct and incorrect predictions by class",
+        "B": "Only model source code",
+        "C": "The causal effect of every feature",
+        "D": "The number of database tables"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The matrix separates prediction outcomes such as true and false positives and negatives.",
+        "te": "నిజమైన, తప్పు పాజిటివ్‌లు మరియు నెగటివ్‌ల వంటి ఫలితాలను మ్యాట్రిక్స్ వేరు చూపుతుంది."
+      }
+    },
+    {
+      "key": "dm-030",
+      "topic_key": "evaluation-metrics",
+      "difficulty": 3,
+      "prompt": "Which dataset should generally be used for final unbiased evaluation after model choices?",
+      "options": {
+        "A": "Held-out test set",
+        "B": "Training set only",
+        "C": "A list of feature names",
+        "D": "The largest cluster"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A held-out test set provides an evaluation not used to fit or tune the model.",
+        "te": "శిక్షణ లేదా ట్యూనింగ్‌లో ఉపయోగించని టెస్ట్ సెట్ స్వతంత్ర మూల్యాంకనం ఇస్తుంది."
+      }
+    },
+    {
+      "key": "dm-031",
+      "topic_key": "data-visualization",
+      "difficulty": 1,
+      "prompt": "Which chart is commonly useful for comparing values across categories?",
+      "options": {
+        "A": "Bar chart",
+        "B": "Password field",
+        "C": "File tree",
+        "D": "Network socket"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Bar lengths make category values easy to compare.",
+        "te": "బార్ పొడవులు వర్గాల విలువలను పోల్చడం సులభం చేస్తాయి."
+      }
+    },
+    {
+      "key": "dm-032",
+      "topic_key": "data-visualization",
+      "difficulty": 2,
+      "prompt": "Which chart is often suitable for showing a value changing over time?",
+      "options": {
+        "A": "Line chart",
+        "B": "Pie chart with one slice",
+        "C": "Word cloud only",
+        "D": "Table schema"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A line chart shows the order and direction of change over time.",
+        "te": "కాలక్రమంలో మార్పు దిశను లైన్ చార్ట్ చూపిస్తుంది."
+      }
+    },
+    {
+      "key": "dm-033",
+      "topic_key": "data-visualization",
+      "difficulty": 3,
+      "prompt": "Why label chart axes with units?",
+      "options": {
+        "A": "To make the measured quantities interpretable",
+        "B": "To increase the data values",
+        "C": "To hide outliers",
+        "D": "To train a classifier"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Units explain what the plotted numbers represent and their scale.",
+        "te": "యూనిట్లు గ్రాఫ్‌లోని సంఖ్యలు ఏమి సూచిస్తున్నాయో, వాటి పరిమాణాన్ని వివరిస్తాయి."
+      }
+    },
+    {
+      "key": "dm-034",
+      "topic_key": "data-visualization",
+      "difficulty": 4,
+      "prompt": "A truncated y-axis on a bar chart can mislead because it may do what?",
+      "options": {
+        "A": "Exaggerate visual differences",
+        "B": "Remove all categories",
+        "C": "Guarantee causation",
+        "D": "Show missing values accurately"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Starting bars far above zero can make small differences look much larger.",
+        "te": "సున్నా కంటే పై నుంచి బార్లు ప్రారంభిస్తే చిన్న తేడాలు పెద్దవిగా కనిపించవచ్చు."
+      }
+    },
+    {
+      "key": "dm-035",
+      "topic_key": "data-visualization",
+      "difficulty": 5,
+      "prompt": "A scatter plot shows correlation between two measures. What cannot be concluded from correlation alone?",
+      "options": {
+        "A": "That one measure causes the other",
+        "B": "That the plotted points have coordinates",
+        "C": "That a pattern may exist",
+        "D": "That values vary"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Association alone does not establish a causal relationship.",
+        "te": "సంబంధం మాత్రమే కారణ-ఫలితాన్ని నిరూపించదు."
+      }
+    },
+    {
+      "key": "dm-036",
+      "topic_key": "data-visualization",
+      "difficulty": 3,
+      "prompt": "What is a good reason to avoid unnecessary 3D effects in charts?",
+      "options": {
+        "A": "They can distort perception and comparison",
+        "B": "They improve every chart automatically",
+        "C": "They add exact data values",
+        "D": "They remove chart legends"
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Perspective and occlusion can make values harder to compare accurately.",
+        "te": "పర్స్పెక్టివ్ మరియు కప్పివేత వల్ల విలువలను సరిగ్గా పోల్చడం కష్టమవుతుంది."
+      }
+    }
+  ]
+}

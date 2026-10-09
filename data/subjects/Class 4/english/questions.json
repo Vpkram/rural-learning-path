@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-4-english-wake-up-001",
+      "topic_key": "wake-up",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Wake Up!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wake Up!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wake Up! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-wake-up-002",
+      "topic_key": "wake-up",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Wake Up!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wake Up!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wake Up! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-wake-up-003",
+      "topic_key": "wake-up",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Wake Up!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Wake Up!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Wake Up! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-neha-s-alarm-clock-001",
+      "topic_key": "neha-s-alarm-clock",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Neha's Alarm Clock?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neha's Alarm Clock, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neha's Alarm Clock uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-neha-s-alarm-clock-002",
+      "topic_key": "neha-s-alarm-clock",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Neha's Alarm Clock?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neha's Alarm Clock, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neha's Alarm Clock uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-neha-s-alarm-clock-003",
+      "topic_key": "neha-s-alarm-clock",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Neha's Alarm Clock?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Neha's Alarm Clock, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Neha's Alarm Clock uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-little-fir-tree-001",
+      "topic_key": "the-little-fir-tree",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Little Fir Tree?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Little Fir Tree, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Little Fir Tree uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-little-fir-tree-002",
+      "topic_key": "the-little-fir-tree",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Little Fir Tree?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Little Fir Tree, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Little Fir Tree uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-little-fir-tree-003",
+      "topic_key": "the-little-fir-tree",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Little Fir Tree?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Little Fir Tree, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Little Fir Tree uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-donkey-001",
+      "topic_key": "the-donkey",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Donkey?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Donkey, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Donkey uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-donkey-002",
+      "topic_key": "the-donkey",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Donkey?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Donkey, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Donkey uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-donkey-003",
+      "topic_key": "the-donkey",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Donkey?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Donkey, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Donkey uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-milkman-s-cow-001",
+      "topic_key": "the-milkman-s-cow",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Milkman's Cow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Milkman's Cow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Milkman's Cow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-milkman-s-cow-002",
+      "topic_key": "the-milkman-s-cow",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Milkman's Cow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Milkman's Cow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Milkman's Cow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-english-the-milkman-s-cow-003",
+      "topic_key": "the-milkman-s-cow",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Milkman's Cow?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Milkman's Cow, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Milkman's Cow uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

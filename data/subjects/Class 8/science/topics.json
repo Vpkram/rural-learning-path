@@ -1,0 +1,126 @@
+{
+  "subject": {
+    "key": "class-8-science",
+    "name": "Science",
+    "class_level": "Class 8",
+    "stream": "",
+    "description": "Class 8  Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "exploring-the-investigative-world-of-science",
+      "name": "Exploring the Investigative World of Science",
+      "description": "Study and practise the ideas in Exploring the Investigative World of Science.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-invisible-living-world",
+      "name": "The Invisible Living World",
+      "description": "Study and practise the ideas in The Invisible Living World.",
+      "prerequisites": [
+        "exploring-the-investigative-world-of-science"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "health-the-ultimate-treasure",
+      "name": "Health: The Ultimate Treasure",
+      "description": "Study and practise the ideas in Health: The Ultimate Treasure.",
+      "prerequisites": [
+        "the-invisible-living-world"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "electricity-magnetic-and-heating-effects",
+      "name": "Electricity: Magnetic and Heating Effects",
+      "description": "Study and practise the ideas in Electricity: Magnetic and Heating Effects.",
+      "prerequisites": [
+        "health-the-ultimate-treasure"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "exploring-forces",
+      "name": "Exploring Forces",
+      "description": "Study and practise the ideas in Exploring Forces.",
+      "prerequisites": [
+        "electricity-magnetic-and-heating-effects"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "pressure-winds-storms-and-cyclones",
+      "name": "Pressure, Winds, Storms, and Cyclones",
+      "description": "Study and practise the ideas in Pressure, Winds, Storms, and Cyclones.",
+      "prerequisites": [
+        "exploring-forces"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "particulate-nature-of-matter",
+      "name": "Particulate Nature of Matter",
+      "description": "Study and practise the ideas in Particulate Nature of Matter.",
+      "prerequisites": [
+        "pressure-winds-storms-and-cyclones"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "nature-of-matter-elements-compounds-and-mixtures",
+      "name": "Nature of Matter: Elements, Compounds, and Mixtures",
+      "description": "Study and practise the ideas in Nature of Matter: Elements, Compounds, and Mixtures.",
+      "prerequisites": [
+        "particulate-nature-of-matter"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "the-amazing-world-of-solutes-solvents-and-solutions",
+      "name": "The Amazing World of Solutes, Solvents, and Solutions",
+      "description": "Study and practise the ideas in The Amazing World of Solutes, Solvents, and Solutions.",
+      "prerequisites": [
+        "nature-of-matter-elements-compounds-and-mixtures"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "light-mirrors-and-lenses",
+      "name": "Light: Mirrors and Lenses",
+      "description": "Study and practise the ideas in Light: Mirrors and Lenses.",
+      "prerequisites": [
+        "the-amazing-world-of-solutes-solvents-and-solutions"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "keeping-time-with-the-skies",
+      "name": "Keeping Time with the Skies",
+      "description": "Study and practise the ideas in Keeping Time with the Skies.",
+      "prerequisites": [
+        "light-mirrors-and-lenses"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "how-nature-works-in-harmony",
+      "name": "How Nature Works in Harmony",
+      "description": "Study and practise the ideas in How Nature Works in Harmony.",
+      "prerequisites": [
+        "keeping-time-with-the-skies"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "our-home-earth-a-unique-life-sustaining-planet",
+      "name": "Our Home: Earth, a Unique Life-Sustaining Planet",
+      "description": "Study and practise the ideas in Our Home: Earth, a Unique Life-Sustaining Planet.",
+      "prerequisites": [
+        "how-nature-works-in-harmony"
+      ],
+      "sequence_number": 13
+    }
+  ]
+}

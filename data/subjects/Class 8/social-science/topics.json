@@ -1,0 +1,81 @@
+{
+  "subject": {
+    "key": "class-8-social-science",
+    "name": "Social Science",
+    "class_level": "Class 8",
+    "stream": "",
+    "description": "Class 8  Social Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "natural-resources-and-their-use",
+      "name": "Natural Resources and their Use",
+      "description": "Study and practise the ideas in Natural Resources and their Use.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "landforms-and-life",
+      "name": "Landforms and Life",
+      "description": "Study and practise the ideas in Landforms and Life.",
+      "prerequisites": [
+        "natural-resources-and-their-use"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-rise-of-empires",
+      "name": "The Rise of Empires",
+      "description": "Study and practise the ideas in The Rise of Empires.",
+      "prerequisites": [
+        "landforms-and-life"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-age-of-reorganisation",
+      "name": "The Age of Reorganisation",
+      "description": "Study and practise the ideas in The Age of Reorganisation.",
+      "prerequisites": [
+        "the-rise-of-empires"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-constitution-of-india",
+      "name": "The Constitution of India",
+      "description": "Study and practise the ideas in The Constitution of India.",
+      "prerequisites": [
+        "the-age-of-reorganisation"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "from-the-rulers-to-the-ruled",
+      "name": "From the Rulers to the Ruled",
+      "description": "Study and practise the ideas in From the Rulers to the Ruled.",
+      "prerequisites": [
+        "the-constitution-of-india"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "factors-of-production",
+      "name": "Factors of Production",
+      "description": "Study and practise the ideas in Factors of Production.",
+      "prerequisites": [
+        "from-the-rulers-to-the-ruled"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "markets-around-us",
+      "name": "Markets Around Us",
+      "description": "Study and practise the ideas in Markets Around Us.",
+      "prerequisites": [
+        "factors-of-production"
+      ],
+      "sequence_number": 8
+    }
+  ]
+}

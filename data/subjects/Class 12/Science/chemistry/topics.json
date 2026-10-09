@@ -1,0 +1,153 @@
+{
+  "subject": {
+    "key": "class-12-science-chemistry",
+    "name": "Chemistry",
+    "class_level": "Class 12",
+    "stream": "Science",
+    "description": "Class 12 Science Chemistry learning pack"
+  },
+  "topics": [
+    {
+      "key": "some-basic-concepts-of-chemistry",
+      "name": "Some Basic Concepts of Chemistry",
+      "description": "Study and practise the ideas in Some Basic Concepts of Chemistry.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "structure-of-atom",
+      "name": "Structure of Atom",
+      "description": "Study and practise the ideas in Structure of Atom.",
+      "prerequisites": [
+        "some-basic-concepts-of-chemistry"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "classification-of-elements",
+      "name": "Classification of Elements",
+      "description": "Study and practise the ideas in Classification of Elements.",
+      "prerequisites": [
+        "structure-of-atom"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "chemical-bonding",
+      "name": "Chemical Bonding",
+      "description": "Study and practise the ideas in Chemical Bonding.",
+      "prerequisites": [
+        "classification-of-elements"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "states-of-matter",
+      "name": "States of Matter",
+      "description": "Study and practise the ideas in States of Matter.",
+      "prerequisites": [
+        "chemical-bonding"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "thermodynamics",
+      "name": "Thermodynamics",
+      "description": "Study and practise the ideas in Thermodynamics.",
+      "prerequisites": [
+        "states-of-matter"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "equilibrium",
+      "name": "Equilibrium",
+      "description": "Study and practise the ideas in Equilibrium.",
+      "prerequisites": [
+        "thermodynamics"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "redox-reactions",
+      "name": "Redox Reactions",
+      "description": "Study and practise the ideas in Redox Reactions.",
+      "prerequisites": [
+        "equilibrium"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "organic-chemistry-basics",
+      "name": "Organic Chemistry Basics",
+      "description": "Study and practise the ideas in Organic Chemistry Basics.",
+      "prerequisites": [
+        "redox-reactions"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "hydrocarbons",
+      "name": "Hydrocarbons",
+      "description": "Study and practise the ideas in Hydrocarbons.",
+      "prerequisites": [
+        "organic-chemistry-basics"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "solutions",
+      "name": "Solutions",
+      "description": "Study and practise the ideas in Solutions.",
+      "prerequisites": [
+        "hydrocarbons"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "electrochemistry",
+      "name": "Electrochemistry",
+      "description": "Study and practise the ideas in Electrochemistry.",
+      "prerequisites": [
+        "solutions"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "chemical-kinetics",
+      "name": "Chemical Kinetics",
+      "description": "Study and practise the ideas in Chemical Kinetics.",
+      "prerequisites": [
+        "electrochemistry"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "coordination-compounds",
+      "name": "Coordination Compounds",
+      "description": "Study and practise the ideas in Coordination Compounds.",
+      "prerequisites": [
+        "chemical-kinetics"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "aldehydes-ketones-and-carboxylic-acids",
+      "name": "Aldehydes, Ketones and Carboxylic Acids",
+      "description": "Study and practise the ideas in Aldehydes, Ketones and Carboxylic Acids.",
+      "prerequisites": [
+        "coordination-compounds"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "biomolecules",
+      "name": "Biomolecules",
+      "description": "Study and practise the ideas in Biomolecules.",
+      "prerequisites": [
+        "aldehydes-ketones-and-carboxylic-acids"
+      ],
+      "sequence_number": 16
+    }
+  ]
+}

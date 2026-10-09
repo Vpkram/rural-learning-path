@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "class-7-social-science",
+    "name": "Social Science",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  Social Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "understanding-the-past",
+      "name": "Understanding the Past",
+      "description": "Study and practise the ideas in Understanding the Past.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "new-beginnings-and-empires",
+      "name": "New Beginnings and Empires",
+      "description": "Study and practise the ideas in New Beginnings and Empires.",
+      "prerequisites": [
+        "understanding-the-past"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-rise-of-kingdoms",
+      "name": "The Rise of Kingdoms",
+      "description": "Study and practise the ideas in The Rise of Kingdoms.",
+      "prerequisites": [
+        "new-beginnings-and-empires"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "political-formations-in-india",
+      "name": "Political Formations in India",
+      "description": "Study and practise the ideas in Political Formations in India.",
+      "prerequisites": [
+        "the-rise-of-kingdoms"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-atmosphere",
+      "name": "The Atmosphere",
+      "description": "Study and practise the ideas in The Atmosphere.",
+      "prerequisites": [
+        "political-formations-in-india"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "water",
+      "name": "Water",
+      "description": "Study and practise the ideas in Water.",
+      "prerequisites": [
+        "the-atmosphere"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "tropical-and-subtropical-regions",
+      "name": "Tropical and Subtropical Regions",
+      "description": "Study and practise the ideas in Tropical and Subtropical Regions.",
+      "prerequisites": [
+        "water"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "the-constitution-of-india",
+      "name": "The Constitution of India",
+      "description": "Study and practise the ideas in The Constitution of India.",
+      "prerequisites": [
+        "tropical-and-subtropical-regions"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "from-the-rulers-to-the-ruled",
+      "name": "From the Rulers to the Ruled",
+      "description": "Study and practise the ideas in From the Rulers to the Ruled.",
+      "prerequisites": [
+        "the-constitution-of-india"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

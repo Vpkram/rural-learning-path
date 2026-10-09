@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-3-environmental-studies-poonam-s-day-out-001",
+      "topic_key": "poonam-s-day-out",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Poonam's Day out?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Poonam's Day out, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Poonam's Day out uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-poonam-s-day-out-002",
+      "topic_key": "poonam-s-day-out",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Poonam's Day out?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Poonam's Day out, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Poonam's Day out uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-poonam-s-day-out-003",
+      "topic_key": "poonam-s-day-out",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Poonam's Day out?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Poonam's Day out, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Poonam's Day out uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-the-plant-fairy-001",
+      "topic_key": "the-plant-fairy",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Plant Fairy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Plant Fairy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Plant Fairy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-the-plant-fairy-002",
+      "topic_key": "the-plant-fairy",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Plant Fairy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Plant Fairy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Plant Fairy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-the-plant-fairy-003",
+      "topic_key": "the-plant-fairy",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Plant Fairy?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Plant Fairy, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Plant Fairy uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-water-o-water-001",
+      "topic_key": "water-o-water",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Water O' Water!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water O' Water!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water O' Water! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-water-o-water-002",
+      "topic_key": "water-o-water",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Water O' Water!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water O' Water!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water O' Water! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-water-o-water-003",
+      "topic_key": "water-o-water",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Water O' Water!?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water O' Water!, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water O' Water! uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-our-first-school-001",
+      "topic_key": "our-first-school",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Our First School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our First School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our First School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-our-first-school-002",
+      "topic_key": "our-first-school",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Our First School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our First School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our First School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-our-first-school-003",
+      "topic_key": "our-first-school",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Our First School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our First School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our First School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-families-can-be-different-001",
+      "topic_key": "families-can-be-different",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Families can be Different?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Families can be Different, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Families can be Different uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-families-can-be-different-002",
+      "topic_key": "families-can-be-different",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Families can be Different?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Families can be Different, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Families can be Different uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-3-environmental-studies-families-can-be-different-003",
+      "topic_key": "families-can-be-different",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Families can be Different?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Families can be Different, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Families can be Different uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

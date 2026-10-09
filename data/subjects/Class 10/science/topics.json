@@ -1,0 +1,126 @@
+{
+  "subject": {
+    "key": "class-10-science",
+    "name": "Science",
+    "class_level": "Class 10",
+    "stream": "",
+    "description": "Class 10  Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "chemical-reactions-and-equations",
+      "name": "Chemical Reactions and Equations",
+      "description": "Study and practise the ideas in Chemical Reactions and Equations.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "acids-bases-and-salts",
+      "name": "Acids, Bases and Salts",
+      "description": "Study and practise the ideas in Acids, Bases and Salts.",
+      "prerequisites": [
+        "chemical-reactions-and-equations"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "metals-and-non-metals",
+      "name": "Metals and Non-metals",
+      "description": "Study and practise the ideas in Metals and Non-metals.",
+      "prerequisites": [
+        "acids-bases-and-salts"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "carbon-and-its-compounds",
+      "name": "Carbon and its Compounds",
+      "description": "Study and practise the ideas in Carbon and its Compounds.",
+      "prerequisites": [
+        "metals-and-non-metals"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "life-processes",
+      "name": "Life Processes",
+      "description": "Study and practise the ideas in Life Processes.",
+      "prerequisites": [
+        "carbon-and-its-compounds"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "control-and-coordination",
+      "name": "Control and Coordination",
+      "description": "Study and practise the ideas in Control and Coordination.",
+      "prerequisites": [
+        "life-processes"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "how-do-organisms-reproduce",
+      "name": "How do Organisms Reproduce?",
+      "description": "Study and practise the ideas in How do Organisms Reproduce?.",
+      "prerequisites": [
+        "control-and-coordination"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "heredity",
+      "name": "Heredity",
+      "description": "Study and practise the ideas in Heredity.",
+      "prerequisites": [
+        "how-do-organisms-reproduce"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "light-reflection-and-refraction",
+      "name": "Light: Reflection and Refraction",
+      "description": "Study and practise the ideas in Light: Reflection and Refraction.",
+      "prerequisites": [
+        "heredity"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "the-human-eye-and-the-colourful-world",
+      "name": "The Human Eye and the Colourful World",
+      "description": "Study and practise the ideas in The Human Eye and the Colourful World.",
+      "prerequisites": [
+        "light-reflection-and-refraction"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "electricity",
+      "name": "Electricity",
+      "description": "Study and practise the ideas in Electricity.",
+      "prerequisites": [
+        "the-human-eye-and-the-colourful-world"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "magnetic-effects-of-electric-current",
+      "name": "Magnetic Effects of Electric Current",
+      "description": "Study and practise the ideas in Magnetic Effects of Electric Current.",
+      "prerequisites": [
+        "electricity"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "our-environment",
+      "name": "Our Environment",
+      "description": "Study and practise the ideas in Our Environment.",
+      "prerequisites": [
+        "magnetic-effects-of-electric-current"
+      ],
+      "sequence_number": 13
+    }
+  ]
+}

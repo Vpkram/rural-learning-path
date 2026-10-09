@@ -1,0 +1,868 @@
+{
+  "questions": [
+    {
+      "key": "college-python-programming-python-values-and-types-001",
+      "topic_key": "python-values-and-types",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Python Values and Types?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-python-values-and-types-002",
+      "topic_key": "python-values-and-types",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Python Values and Types?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-python-values-and-types-003",
+      "topic_key": "python-values-and-types",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Python Values and Types?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-python-values-and-types-004",
+      "topic_key": "python-values-and-types",
+      "difficulty": 2,
+      "prompt": "When applying Python Values and Types, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-python-values-and-types-005",
+      "topic_key": "python-values-and-types",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Python Values and Types. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-python-values-and-types-006",
+      "topic_key": "python-values-and-types",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Python Values and Types?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Values and Types, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Values and Types uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-001",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Expressions and Operators?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-002",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Expressions and Operators?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-003",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Expressions and Operators?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-004",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 2,
+      "prompt": "When applying Expressions and Operators, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-005",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Expressions and Operators. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-expressions-and-operators-006",
+      "topic_key": "expressions-and-operators",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Expressions and Operators?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Expressions and Operators, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Expressions and Operators uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-001",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Conditions and Loops?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-002",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Conditions and Loops?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-003",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Conditions and Loops?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-004",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 2,
+      "prompt": "When applying Conditions and Loops, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-005",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Conditions and Loops. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-conditions-and-loops-006",
+      "topic_key": "conditions-and-loops",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Conditions and Loops?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditions and Loops, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditions and Loops uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-001",
+      "topic_key": "functions-and-scope",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Functions and Scope?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-002",
+      "topic_key": "functions-and-scope",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Functions and Scope?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-003",
+      "topic_key": "functions-and-scope",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Functions and Scope?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-004",
+      "topic_key": "functions-and-scope",
+      "difficulty": 2,
+      "prompt": "When applying Functions and Scope, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-005",
+      "topic_key": "functions-and-scope",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Functions and Scope. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-functions-and-scope-006",
+      "topic_key": "functions-and-scope",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Functions and Scope?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions and Scope, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions and Scope uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-001",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Sequences and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-002",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Sequences and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-003",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Sequences and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-004",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 2,
+      "prompt": "When applying Sequences and Dictionaries, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-005",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Sequences and Dictionaries. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-sequences-and-dictionaries-006",
+      "topic_key": "sequences-and-dictionaries",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Sequences and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Sequences and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Sequences and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-001",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Files and Exceptions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-002",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Files and Exceptions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-003",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Files and Exceptions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-004",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 2,
+      "prompt": "When applying Files and Exceptions, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-005",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Files and Exceptions. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-files-and-exceptions-006",
+      "topic_key": "files-and-exceptions",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Files and Exceptions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Files and Exceptions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Files and Exceptions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-001",
+      "topic_key": "modules-and-packages",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Modules and Packages?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-002",
+      "topic_key": "modules-and-packages",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Modules and Packages?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-003",
+      "topic_key": "modules-and-packages",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Modules and Packages?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-004",
+      "topic_key": "modules-and-packages",
+      "difficulty": 2,
+      "prompt": "When applying Modules and Packages, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-005",
+      "topic_key": "modules-and-packages",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Modules and Packages. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-modules-and-packages-006",
+      "topic_key": "modules-and-packages",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Modules and Packages?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Modules and Packages, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Modules and Packages uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-001",
+      "topic_key": "classes-and-objects",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Classes and Objects?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-002",
+      "topic_key": "classes-and-objects",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Classes and Objects?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-003",
+      "topic_key": "classes-and-objects",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Classes and Objects?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-004",
+      "topic_key": "classes-and-objects",
+      "difficulty": 2,
+      "prompt": "When applying Classes and Objects, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-005",
+      "topic_key": "classes-and-objects",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Classes and Objects. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-classes-and-objects-006",
+      "topic_key": "classes-and-objects",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Classes and Objects?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Classes and Objects, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Classes and Objects uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-001",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Testing and Debugging?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-002",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Testing and Debugging?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-003",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Testing and Debugging?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-004",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 2,
+      "prompt": "When applying Testing and Debugging, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-005",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Testing and Debugging. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "college-python-programming-testing-and-debugging-006",
+      "topic_key": "testing-and-debugging",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Testing and Debugging?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Testing and Debugging, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Testing and Debugging uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "questions": [
+    {
+      "key": "class-11-science-physics-physical-world-and-measurement-001",
+      "topic_key": "physical-world-and-measurement",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Physical World and Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical World and Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical World and Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-physical-world-and-measurement-002",
+      "topic_key": "physical-world-and-measurement",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Physical World and Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical World and Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical World and Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-physical-world-and-measurement-003",
+      "topic_key": "physical-world-and-measurement",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Physical World and Measurement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Physical World and Measurement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Physical World and Measurement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-kinematics-001",
+      "topic_key": "kinematics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Kinematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-kinematics-002",
+      "topic_key": "kinematics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Kinematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-kinematics-003",
+      "topic_key": "kinematics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Kinematics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Kinematics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Kinematics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-laws-of-motion-001",
+      "topic_key": "laws-of-motion",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Laws of Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Laws of Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Laws of Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-laws-of-motion-002",
+      "topic_key": "laws-of-motion",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Laws of Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Laws of Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Laws of Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-laws-of-motion-003",
+      "topic_key": "laws-of-motion",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Laws of Motion?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Laws of Motion, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Laws of Motion uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-work-energy-and-power-001",
+      "topic_key": "work-energy-and-power",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Work, Energy and Power?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Work, Energy and Power, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Work, Energy and Power uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-work-energy-and-power-002",
+      "topic_key": "work-energy-and-power",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Work, Energy and Power?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Work, Energy and Power, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Work, Energy and Power uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-work-energy-and-power-003",
+      "topic_key": "work-energy-and-power",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Work, Energy and Power?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Work, Energy and Power, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Work, Energy and Power uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-motion-of-system-of-particles-001",
+      "topic_key": "motion-of-system-of-particles",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Motion of System of Particles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Motion of System of Particles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Motion of System of Particles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-motion-of-system-of-particles-002",
+      "topic_key": "motion-of-system-of-particles",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Motion of System of Particles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Motion of System of Particles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Motion of System of Particles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-motion-of-system-of-particles-003",
+      "topic_key": "motion-of-system-of-particles",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Motion of System of Particles?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Motion of System of Particles, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Motion of System of Particles uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-gravitation-001",
+      "topic_key": "gravitation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Gravitation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Gravitation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Gravitation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-gravitation-002",
+      "topic_key": "gravitation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Gravitation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Gravitation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Gravitation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-gravitation-003",
+      "topic_key": "gravitation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Gravitation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Gravitation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Gravitation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-properties-of-bulk-matter-001",
+      "topic_key": "properties-of-bulk-matter",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Properties of Bulk Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Properties of Bulk Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Properties of Bulk Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-properties-of-bulk-matter-002",
+      "topic_key": "properties-of-bulk-matter",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Properties of Bulk Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Properties of Bulk Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Properties of Bulk Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-properties-of-bulk-matter-003",
+      "topic_key": "properties-of-bulk-matter",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Properties of Bulk Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Properties of Bulk Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Properties of Bulk Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-thermodynamics-001",
+      "topic_key": "thermodynamics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-thermodynamics-002",
+      "topic_key": "thermodynamics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-thermodynamics-003",
+      "topic_key": "thermodynamics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Thermodynamics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Thermodynamics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Thermodynamics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-oscillations-and-waves-001",
+      "topic_key": "oscillations-and-waves",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Oscillations and Waves?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oscillations and Waves, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oscillations and Waves uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-oscillations-and-waves-002",
+      "topic_key": "oscillations-and-waves",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Oscillations and Waves?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oscillations and Waves, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oscillations and Waves uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-oscillations-and-waves-003",
+      "topic_key": "oscillations-and-waves",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Oscillations and Waves?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Oscillations and Waves, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Oscillations and Waves uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electrostatics-001",
+      "topic_key": "electrostatics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electrostatics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrostatics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrostatics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electrostatics-002",
+      "topic_key": "electrostatics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electrostatics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrostatics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrostatics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electrostatics-003",
+      "topic_key": "electrostatics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electrostatics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electrostatics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electrostatics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-current-electricity-001",
+      "topic_key": "current-electricity",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Current Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Current Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Current Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-current-electricity-002",
+      "topic_key": "current-electricity",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Current Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Current Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Current Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-current-electricity-003",
+      "topic_key": "current-electricity",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Current Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Current Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Current Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-magnetic-effects-of-current-001",
+      "topic_key": "magnetic-effects-of-current",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Magnetic Effects of Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-magnetic-effects-of-current-002",
+      "topic_key": "magnetic-effects-of-current",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Magnetic Effects of Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-magnetic-effects-of-current-003",
+      "topic_key": "magnetic-effects-of-current",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Magnetic Effects of Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electromagnetic-induction-001",
+      "topic_key": "electromagnetic-induction",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electromagnetic Induction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electromagnetic Induction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electromagnetic Induction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electromagnetic-induction-002",
+      "topic_key": "electromagnetic-induction",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electromagnetic Induction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electromagnetic Induction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electromagnetic Induction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electromagnetic-induction-003",
+      "topic_key": "electromagnetic-induction",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electromagnetic Induction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electromagnetic Induction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electromagnetic Induction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-optics-001",
+      "topic_key": "optics",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Optics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Optics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Optics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-optics-002",
+      "topic_key": "optics",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Optics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Optics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Optics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-optics-003",
+      "topic_key": "optics",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Optics?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Optics, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Optics uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-dual-nature-of-matter-001",
+      "topic_key": "dual-nature-of-matter",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Dual Nature of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Dual Nature of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Dual Nature of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-dual-nature-of-matter-002",
+      "topic_key": "dual-nature-of-matter",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Dual Nature of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Dual Nature of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Dual Nature of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-dual-nature-of-matter-003",
+      "topic_key": "dual-nature-of-matter",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Dual Nature of Matter?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Dual Nature of Matter, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Dual Nature of Matter uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-atoms-and-nuclei-001",
+      "topic_key": "atoms-and-nuclei",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Atoms and Nuclei?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Atoms and Nuclei, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Atoms and Nuclei uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-atoms-and-nuclei-002",
+      "topic_key": "atoms-and-nuclei",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Atoms and Nuclei?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Atoms and Nuclei, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Atoms and Nuclei uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-atoms-and-nuclei-003",
+      "topic_key": "atoms-and-nuclei",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Atoms and Nuclei?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Atoms and Nuclei, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Atoms and Nuclei uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electronic-devices-001",
+      "topic_key": "electronic-devices",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electronic Devices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electronic Devices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electronic Devices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electronic-devices-002",
+      "topic_key": "electronic-devices",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electronic Devices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electronic Devices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electronic Devices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-11-science-physics-electronic-devices-003",
+      "topic_key": "electronic-devices",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electronic Devices?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electronic Devices, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electronic Devices uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-data-structures",
+    "name": "Data Structures",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Data Structures learning pack"
+  },
+  "topics": [
+    {
+      "key": "algorithm-analysis",
+      "name": "Algorithm Analysis",
+      "description": "Study and practise the ideas in Algorithm Analysis.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "arrays-and-strings",
+      "name": "Arrays and Strings",
+      "description": "Study and practise the ideas in Arrays and Strings.",
+      "prerequisites": [
+        "algorithm-analysis"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "linked-lists",
+      "name": "Linked Lists",
+      "description": "Study and practise the ideas in Linked Lists.",
+      "prerequisites": [
+        "arrays-and-strings"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "stacks-and-queues",
+      "name": "Stacks and Queues",
+      "description": "Study and practise the ideas in Stacks and Queues.",
+      "prerequisites": [
+        "linked-lists"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "trees-and-binary-search-trees",
+      "name": "Trees and Binary Search Trees",
+      "description": "Study and practise the ideas in Trees and Binary Search Trees.",
+      "prerequisites": [
+        "stacks-and-queues"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "heaps-and-priority-queues",
+      "name": "Heaps and Priority Queues",
+      "description": "Study and practise the ideas in Heaps and Priority Queues.",
+      "prerequisites": [
+        "trees-and-binary-search-trees"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "hashing",
+      "name": "Hashing",
+      "description": "Study and practise the ideas in Hashing.",
+      "prerequisites": [
+        "heaps-and-priority-queues"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "graphs-and-traversal",
+      "name": "Graphs and Traversal",
+      "description": "Study and practise the ideas in Graphs and Traversal.",
+      "prerequisites": [
+        "hashing"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "sorting-and-searching",
+      "name": "Sorting and Searching",
+      "description": "Study and practise the ideas in Sorting and Searching.",
+      "prerequisites": [
+        "graphs-and-traversal"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

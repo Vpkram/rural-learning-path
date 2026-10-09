@@ -1,0 +1,964 @@
+{
+  "questions": [
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-001",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Square and A Cube?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-002",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Square and A Cube?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-003",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Square and A Cube?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-004",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 2,
+      "prompt": "When applying A Square and A Cube, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-005",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing A Square and A Cube. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-square-and-a-cube-006",
+      "topic_key": "a-square-and-a-cube",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying A Square and A Cube?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Square and A Cube, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Square and A Cube uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-001",
+      "topic_key": "power-play",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Power Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-002",
+      "topic_key": "power-play",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Power Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-003",
+      "topic_key": "power-play",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Power Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-004",
+      "topic_key": "power-play",
+      "difficulty": 2,
+      "prompt": "When applying Power Play, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-005",
+      "topic_key": "power-play",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Power Play. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-power-play-006",
+      "topic_key": "power-play",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Power Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Power Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Power Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-001",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Story of Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-002",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Story of Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-003",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Story of Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-004",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 2,
+      "prompt": "When applying A Story of Numbers, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-005",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing A Story of Numbers. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-a-story-of-numbers-006",
+      "topic_key": "a-story-of-numbers",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying A Story of Numbers?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Story of Numbers, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Story of Numbers uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-001",
+      "topic_key": "quadrilaterals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-002",
+      "topic_key": "quadrilaterals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-003",
+      "topic_key": "quadrilaterals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-004",
+      "topic_key": "quadrilaterals",
+      "difficulty": 2,
+      "prompt": "When applying Quadrilaterals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-005",
+      "topic_key": "quadrilaterals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Quadrilaterals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-quadrilaterals-006",
+      "topic_key": "quadrilaterals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Quadrilaterals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Quadrilaterals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Quadrilaterals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-001",
+      "topic_key": "number-play",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-002",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-003",
+      "topic_key": "number-play",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-004",
+      "topic_key": "number-play",
+      "difficulty": 2,
+      "prompt": "When applying Number Play, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-005",
+      "topic_key": "number-play",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Number Play. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-number-play-006",
+      "topic_key": "number-play",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Number Play?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Play, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Play uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-001",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about We Distribute, Yet Things Multiply?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-002",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving We Distribute, Yet Things Multiply?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-003",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise We Distribute, Yet Things Multiply?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-004",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 2,
+      "prompt": "When applying We Distribute, Yet Things Multiply, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-005",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing We Distribute, Yet Things Multiply. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-we-distribute-yet-things-multiply-006",
+      "topic_key": "we-distribute-yet-things-multiply",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying We Distribute, Yet Things Multiply?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for We Distribute, Yet Things Multiply, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on We Distribute, Yet Things Multiply uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-001",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Proportional Reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-002",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Proportional Reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-003",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Proportional Reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-004",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 2,
+      "prompt": "When applying Proportional Reasoning, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-005",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Proportional Reasoning. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-proportional-reasoning-006",
+      "topic_key": "proportional-reasoning",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Proportional Reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Proportional Reasoning, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Proportional Reasoning uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-001",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Fractions in Disguise?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-002",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Fractions in Disguise?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-003",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Fractions in Disguise?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-004",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 2,
+      "prompt": "When applying Fractions in Disguise, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-005",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Fractions in Disguise. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-fractions-in-disguise-006",
+      "topic_key": "fractions-in-disguise",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Fractions in Disguise?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Fractions in Disguise, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Fractions in Disguise uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-001",
+      "topic_key": "the-data-game",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Data Game?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-002",
+      "topic_key": "the-data-game",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Data Game?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-003",
+      "topic_key": "the-data-game",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Data Game?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-004",
+      "topic_key": "the-data-game",
+      "difficulty": 2,
+      "prompt": "When applying The Data Game, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-005",
+      "topic_key": "the-data-game",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Data Game. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-the-data-game-006",
+      "topic_key": "the-data-game",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Data Game?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Data Game, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Data Game uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-001",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Exploring Some Geometric Themes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-002",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Exploring Some Geometric Themes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-003",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Exploring Some Geometric Themes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-004",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 2,
+      "prompt": "When applying Exploring Some Geometric Themes, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-005",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Exploring Some Geometric Themes. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-8-mathematics-exploring-some-geometric-themes-006",
+      "topic_key": "exploring-some-geometric-themes",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Exploring Some Geometric Themes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Exploring Some Geometric Themes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Exploring Some Geometric Themes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

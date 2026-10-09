@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-software-engineering",
+    "name": "Software Engineering",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Software Engineering learning pack"
+  },
+  "topics": [
+    {
+      "key": "software-processes",
+      "name": "Software Processes",
+      "description": "Study and practise the ideas in Software Processes.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "requirements-engineering",
+      "name": "Requirements Engineering",
+      "description": "Study and practise the ideas in Requirements Engineering.",
+      "prerequisites": [
+        "software-processes"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "system-modeling",
+      "name": "System Modeling",
+      "description": "Study and practise the ideas in System Modeling.",
+      "prerequisites": [
+        "requirements-engineering"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "software-architecture",
+      "name": "Software Architecture",
+      "description": "Study and practise the ideas in Software Architecture.",
+      "prerequisites": [
+        "system-modeling"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "design-and-implementation",
+      "name": "Design and Implementation",
+      "description": "Study and practise the ideas in Design and Implementation.",
+      "prerequisites": [
+        "software-architecture"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "software-testing",
+      "name": "Software Testing",
+      "description": "Study and practise the ideas in Software Testing.",
+      "prerequisites": [
+        "design-and-implementation"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "project-planning",
+      "name": "Project Planning",
+      "description": "Study and practise the ideas in Project Planning.",
+      "prerequisites": [
+        "software-testing"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "quality-and-maintenance",
+      "name": "Quality and Maintenance",
+      "description": "Study and practise the ideas in Quality and Maintenance.",
+      "prerequisites": [
+        "project-planning"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "configuration-management",
+      "name": "Configuration Management",
+      "description": "Study and practise the ideas in Configuration Management.",
+      "prerequisites": [
+        "quality-and-maintenance"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

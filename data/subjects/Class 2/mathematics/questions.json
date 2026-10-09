@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-2-mathematics-what-is-long-001",
+      "topic_key": "what-is-long",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-what-is-long-002",
+      "topic_key": "what-is-long",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-what-is-long-003",
+      "topic_key": "what-is-long",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise What Is Long??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for What Is Long?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on What Is Long? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-groups-001",
+      "topic_key": "counting-in-groups",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Counting in Groups?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Groups, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Groups uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-groups-002",
+      "topic_key": "counting-in-groups",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Counting in Groups?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Groups, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Groups uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-groups-003",
+      "topic_key": "counting-in-groups",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Counting in Groups?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Groups, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Groups uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-how-much-can-you-carry-001",
+      "topic_key": "how-much-can-you-carry",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about How Much Can You Carry??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Much Can You Carry?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Much Can You Carry? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-how-much-can-you-carry-002",
+      "topic_key": "how-much-can-you-carry",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving How Much Can You Carry??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Much Can You Carry?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Much Can You Carry? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-how-much-can-you-carry-003",
+      "topic_key": "how-much-can-you-carry",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise How Much Can You Carry??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How Much Can You Carry?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How Much Can You Carry? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-tens-001",
+      "topic_key": "counting-in-tens",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Counting in Tens?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Tens, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Tens uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-tens-002",
+      "topic_key": "counting-in-tens",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Counting in Tens?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Tens, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Tens uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-counting-in-tens-003",
+      "topic_key": "counting-in-tens",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Counting in Tens?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Counting in Tens, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Counting in Tens uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-patterns-001",
+      "topic_key": "patterns",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Patterns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-patterns-002",
+      "topic_key": "patterns",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Patterns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-2-mathematics-patterns-003",
+      "topic_key": "patterns",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Patterns?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Patterns, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Patterns uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

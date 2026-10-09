@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-1-mathematics",
+    "name": "Mathematics",
+    "class_level": "Class 1",
+    "stream": "",
+    "description": "Class 1  Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "finding-the-furry-cat",
+      "name": "Finding the Furry Cat!",
+      "description": "Study and practise the ideas in Finding the Furry Cat!.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "what-is-long",
+      "name": "What Is Long?",
+      "description": "Study and practise the ideas in What Is Long?.",
+      "prerequisites": [
+        "finding-the-furry-cat"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "mango-treat",
+      "name": "Mango Treat",
+      "description": "Study and practise the ideas in Mango Treat.",
+      "prerequisites": [
+        "what-is-long"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "making-10",
+      "name": "Making 10",
+      "description": "Study and practise the ideas in Making 10.",
+      "prerequisites": [
+        "mango-treat"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "how-many",
+      "name": "How Many",
+      "description": "Study and practise the ideas in How Many.",
+      "prerequisites": [
+        "making-10"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

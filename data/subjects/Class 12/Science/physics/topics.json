@@ -1,0 +1,162 @@
+{
+  "subject": {
+    "key": "class-12-science-physics",
+    "name": "Physics",
+    "class_level": "Class 12",
+    "stream": "Science",
+    "description": "Class 12 Science Physics learning pack"
+  },
+  "topics": [
+    {
+      "key": "physical-world-and-measurement",
+      "name": "Physical World and Measurement",
+      "description": "Study and practise the ideas in Physical World and Measurement.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "kinematics",
+      "name": "Kinematics",
+      "description": "Study and practise the ideas in Kinematics.",
+      "prerequisites": [
+        "physical-world-and-measurement"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "laws-of-motion",
+      "name": "Laws of Motion",
+      "description": "Study and practise the ideas in Laws of Motion.",
+      "prerequisites": [
+        "kinematics"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "work-energy-and-power",
+      "name": "Work, Energy and Power",
+      "description": "Study and practise the ideas in Work, Energy and Power.",
+      "prerequisites": [
+        "laws-of-motion"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "motion-of-system-of-particles",
+      "name": "Motion of System of Particles",
+      "description": "Study and practise the ideas in Motion of System of Particles.",
+      "prerequisites": [
+        "work-energy-and-power"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "gravitation",
+      "name": "Gravitation",
+      "description": "Study and practise the ideas in Gravitation.",
+      "prerequisites": [
+        "motion-of-system-of-particles"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "properties-of-bulk-matter",
+      "name": "Properties of Bulk Matter",
+      "description": "Study and practise the ideas in Properties of Bulk Matter.",
+      "prerequisites": [
+        "gravitation"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "thermodynamics",
+      "name": "Thermodynamics",
+      "description": "Study and practise the ideas in Thermodynamics.",
+      "prerequisites": [
+        "properties-of-bulk-matter"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "oscillations-and-waves",
+      "name": "Oscillations and Waves",
+      "description": "Study and practise the ideas in Oscillations and Waves.",
+      "prerequisites": [
+        "thermodynamics"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "electrostatics",
+      "name": "Electrostatics",
+      "description": "Study and practise the ideas in Electrostatics.",
+      "prerequisites": [
+        "oscillations-and-waves"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "current-electricity",
+      "name": "Current Electricity",
+      "description": "Study and practise the ideas in Current Electricity.",
+      "prerequisites": [
+        "electrostatics"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "magnetic-effects-of-current",
+      "name": "Magnetic Effects of Current",
+      "description": "Study and practise the ideas in Magnetic Effects of Current.",
+      "prerequisites": [
+        "current-electricity"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "electromagnetic-induction",
+      "name": "Electromagnetic Induction",
+      "description": "Study and practise the ideas in Electromagnetic Induction.",
+      "prerequisites": [
+        "magnetic-effects-of-current"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "optics",
+      "name": "Optics",
+      "description": "Study and practise the ideas in Optics.",
+      "prerequisites": [
+        "electromagnetic-induction"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "dual-nature-of-matter",
+      "name": "Dual Nature of Matter",
+      "description": "Study and practise the ideas in Dual Nature of Matter.",
+      "prerequisites": [
+        "optics"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "atoms-and-nuclei",
+      "name": "Atoms and Nuclei",
+      "description": "Study and practise the ideas in Atoms and Nuclei.",
+      "prerequisites": [
+        "dual-nature-of-matter"
+      ],
+      "sequence_number": 16
+    },
+    {
+      "key": "electronic-devices",
+      "name": "Electronic Devices",
+      "description": "Study and practise the ideas in Electronic Devices.",
+      "prerequisites": [
+        "atoms-and-nuclei"
+      ],
+      "sequence_number": 17
+    }
+  ]
+}

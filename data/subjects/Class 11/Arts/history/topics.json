@@ -1,0 +1,171 @@
+{
+  "subject": {
+    "key": "class-11-arts-history",
+    "name": "History",
+    "class_level": "Class 11",
+    "stream": "Arts",
+    "description": "Class 11 Arts History learning pack"
+  },
+  "topics": [
+    {
+      "key": "writing-and-city-life",
+      "name": "Writing and City Life",
+      "description": "Study and practise the ideas in Writing and City Life.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "an-empire-across-three-continents",
+      "name": "An Empire Across Three Continents",
+      "description": "Study and practise the ideas in An Empire Across Three Continents.",
+      "prerequisites": [
+        "writing-and-city-life"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "central-islamic-lands",
+      "name": "Central Islamic Lands",
+      "description": "Study and practise the ideas in Central Islamic Lands.",
+      "prerequisites": [
+        "an-empire-across-three-continents"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-three-orders",
+      "name": "The Three Orders",
+      "description": "Study and practise the ideas in The Three Orders.",
+      "prerequisites": [
+        "central-islamic-lands"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "changing-cultural-traditions",
+      "name": "Changing Cultural Traditions",
+      "description": "Study and practise the ideas in Changing Cultural Traditions.",
+      "prerequisites": [
+        "the-three-orders"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "displacing-indigenous-peoples",
+      "name": "Displacing Indigenous Peoples",
+      "description": "Study and practise the ideas in Displacing Indigenous Peoples.",
+      "prerequisites": [
+        "changing-cultural-traditions"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "paths-to-modernisation",
+      "name": "Paths to Modernisation",
+      "description": "Study and practise the ideas in Paths to Modernisation.",
+      "prerequisites": [
+        "displacing-indigenous-peoples"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "bricks-beads-and-bones",
+      "name": "Bricks, Beads and Bones",
+      "description": "Study and practise the ideas in Bricks, Beads and Bones.",
+      "prerequisites": [
+        "paths-to-modernisation"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "kings-farmers-and-towns",
+      "name": "Kings, Farmers and Towns",
+      "description": "Study and practise the ideas in Kings, Farmers and Towns.",
+      "prerequisites": [
+        "bricks-beads-and-bones"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "kinship-caste-and-class",
+      "name": "Kinship, Caste and Class",
+      "description": "Study and practise the ideas in Kinship, Caste and Class.",
+      "prerequisites": [
+        "kings-farmers-and-towns"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "thinkers-beliefs-and-buildings",
+      "name": "Thinkers, Beliefs and Buildings",
+      "description": "Study and practise the ideas in Thinkers, Beliefs and Buildings.",
+      "prerequisites": [
+        "kinship-caste-and-class"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "through-the-eyes-of-travellers",
+      "name": "Through the Eyes of Travellers",
+      "description": "Study and practise the ideas in Through the Eyes of Travellers.",
+      "prerequisites": [
+        "thinkers-beliefs-and-buildings"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "bhakti-sufi-traditions",
+      "name": "Bhakti-Sufi Traditions",
+      "description": "Study and practise the ideas in Bhakti-Sufi Traditions.",
+      "prerequisites": [
+        "through-the-eyes-of-travellers"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "an-imperial-capital-vijayanagara",
+      "name": "An Imperial Capital: Vijayanagara",
+      "description": "Study and practise the ideas in An Imperial Capital: Vijayanagara.",
+      "prerequisites": [
+        "bhakti-sufi-traditions"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "peasants-zamindars-and-the-state",
+      "name": "Peasants, Zamindars and the State",
+      "description": "Study and practise the ideas in Peasants, Zamindars and the State.",
+      "prerequisites": [
+        "an-imperial-capital-vijayanagara"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "colonialism-and-the-countryside",
+      "name": "Colonialism and the Countryside",
+      "description": "Study and practise the ideas in Colonialism and the Countryside.",
+      "prerequisites": [
+        "peasants-zamindars-and-the-state"
+      ],
+      "sequence_number": 16
+    },
+    {
+      "key": "mahatma-gandhi-and-the-nationalist-movement",
+      "name": "Mahatma Gandhi and the Nationalist Movement",
+      "description": "Study and practise the ideas in Mahatma Gandhi and the Nationalist Movement.",
+      "prerequisites": [
+        "colonialism-and-the-countryside"
+      ],
+      "sequence_number": 17
+    },
+    {
+      "key": "framing-the-constitution",
+      "name": "Framing the Constitution",
+      "description": "Study and practise the ideas in Framing the Constitution.",
+      "prerequisites": [
+        "mahatma-gandhi-and-the-nationalist-movement"
+      ],
+      "sequence_number": 18
+    }
+  ]
+}

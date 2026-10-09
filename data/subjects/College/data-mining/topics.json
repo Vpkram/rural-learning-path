@@ -1,0 +1,87 @@
+{
+  "subject": {
+    "key": "data-mining",
+    "name": "Data Mining",
+    "class_level": "College",
+    "description": "Preparing, discovering, and evaluating patterns in data.",
+    "stream": ""
+  },
+  "topics": [
+    {
+      "key": "data-preprocessing",
+      "name": "Data Preprocessing",
+      "description": "Cleaning and preparing data for analysis.",
+      "notes": {
+        "en": "Data preprocessing handles missing values, noise, inconsistent formats, and scaling before mining.",
+        "te": "డేటా మైనింగ్‌కు ముందు లేని విలువలు, శబ్దం, అసమాన ఫార్మాట్లు మరియు స్కేలింగ్‌ను సరిచేయడం డేటా ప్రీప్రాసెసింగ్."
+      },
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "association-rules",
+      "name": "Association Rules",
+      "description": "Finding items that frequently occur together.",
+      "notes": {
+        "en": "Association rules describe co-occurrence using support, confidence, and sometimes lift.",
+        "te": "సపోర్ట్, కాన్ఫిడెన్స్ మరియు లిఫ్ట్‌తో కలిసి కనిపించే అంశాలను అసోసియేషన్ నియమాలు వివరిస్తాయి."
+      },
+      "prerequisites": [
+        "data-preprocessing"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "classification",
+      "name": "Classification",
+      "description": "Predicting a category from labeled examples.",
+      "notes": {
+        "en": "Classification learns from labeled examples to assign a category to new records.",
+        "te": "లేబుల్ ఉన్న ఉదాహరణల నుంచి నేర్చుకుని కొత్త రికార్డుకు వర్గాన్ని కేటాయించడం క్లాసిఫికేషన్."
+      },
+      "prerequisites": [
+        "data-preprocessing"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "clustering",
+      "name": "Clustering",
+      "description": "Grouping similar records without known labels.",
+      "notes": {
+        "en": "Clustering groups similar records without requiring a known class label.",
+        "te": "ముందుగా తెలిసిన వర్గ లేబుల్ లేకుండా ఒకే విధమైన రికార్డులను సమూహాలుగా చేయడం క్లస్టరింగ్."
+      },
+      "prerequisites": [
+        "data-preprocessing"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "evaluation-metrics",
+      "name": "Evaluation Metrics",
+      "description": "Measuring the quality of a classification model.",
+      "notes": {
+        "en": "A confusion matrix counts true and false predictions; precision and recall summarize different errors.",
+        "te": "కన్ఫ్యూషన్ మ్యాట్రిక్స్ సరైన, తప్పు అంచనాలను లెక్కిస్తుంది; ప్రెసిషన్ మరియు రీకాల్ వేర్వేరు తప్పులను చూపుతాయి."
+      },
+      "prerequisites": [
+        "classification"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "data-visualization",
+      "name": "Data Visualization",
+      "description": "Showing patterns and summaries with clear charts.",
+      "notes": {
+        "en": "A suitable chart makes comparisons, trends, and distributions easier to inspect.",
+        "te": "సరైన చార్ట్ పోలికలు, ధోరణులు మరియు పంపిణీలను సులభంగా అర్థం చేసుకునేలా చేస్తుంది."
+      },
+      "prerequisites": [
+        "data-preprocessing"
+      ],
+      "sequence_number": 6
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-9-english",
+    "name": "English",
+    "class_level": "Class 9",
+    "stream": "",
+    "description": "Class 9  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-fun-they-had",
+      "name": "The Fun They Had",
+      "description": "Study and practise the ideas in The Fun They Had.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-sound-of-music",
+      "name": "The Sound of Music",
+      "description": "Study and practise the ideas in The Sound of Music.",
+      "prerequisites": [
+        "the-fun-they-had"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "the-little-girl",
+      "name": "The Little Girl",
+      "description": "Study and practise the ideas in The Little Girl.",
+      "prerequisites": [
+        "the-sound-of-music"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "a-truly-beautiful-mind",
+      "name": "A Truly Beautiful Mind",
+      "description": "Study and practise the ideas in A Truly Beautiful Mind.",
+      "prerequisites": [
+        "the-little-girl"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-snake-and-the-mirror",
+      "name": "The Snake and the Mirror",
+      "description": "Study and practise the ideas in The Snake and the Mirror.",
+      "prerequisites": [
+        "a-truly-beautiful-mind"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,1252 @@
+{
+  "questions": [
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-001",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Chemical Reactions and Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-002",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Chemical Reactions and Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-003",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Chemical Reactions and Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-004",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 2,
+      "prompt": "When applying Chemical Reactions and Equations, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-005",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Chemical Reactions and Equations. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-chemical-reactions-and-equations-006",
+      "topic_key": "chemical-reactions-and-equations",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Chemical Reactions and Equations?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Chemical Reactions and Equations, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Chemical Reactions and Equations uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-001",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Acids, Bases and Salts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-002",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Acids, Bases and Salts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-003",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Acids, Bases and Salts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-004",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 2,
+      "prompt": "When applying Acids, Bases and Salts, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-005",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Acids, Bases and Salts. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-acids-bases-and-salts-006",
+      "topic_key": "acids-bases-and-salts",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Acids, Bases and Salts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Acids, Bases and Salts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Acids, Bases and Salts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-001",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-002",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-003",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-004",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 2,
+      "prompt": "When applying Metals and Non-metals, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-005",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Metals and Non-metals. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-metals-and-non-metals-006",
+      "topic_key": "metals-and-non-metals",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Metals and Non-metals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Metals and Non-metals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Metals and Non-metals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-001",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Carbon and its Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-002",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Carbon and its Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-003",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Carbon and its Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-004",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 2,
+      "prompt": "When applying Carbon and its Compounds, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-005",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Carbon and its Compounds. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-carbon-and-its-compounds-006",
+      "topic_key": "carbon-and-its-compounds",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Carbon and its Compounds?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Carbon and its Compounds, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Carbon and its Compounds uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-001",
+      "topic_key": "life-processes",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Life Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-002",
+      "topic_key": "life-processes",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Life Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-003",
+      "topic_key": "life-processes",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Life Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-004",
+      "topic_key": "life-processes",
+      "difficulty": 2,
+      "prompt": "When applying Life Processes, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-005",
+      "topic_key": "life-processes",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Life Processes. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-life-processes-006",
+      "topic_key": "life-processes",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Life Processes?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Life Processes, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Life Processes uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-001",
+      "topic_key": "control-and-coordination",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Control and Coordination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-002",
+      "topic_key": "control-and-coordination",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Control and Coordination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-003",
+      "topic_key": "control-and-coordination",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Control and Coordination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-004",
+      "topic_key": "control-and-coordination",
+      "difficulty": 2,
+      "prompt": "When applying Control and Coordination, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-005",
+      "topic_key": "control-and-coordination",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Control and Coordination. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-control-and-coordination-006",
+      "topic_key": "control-and-coordination",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Control and Coordination?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Control and Coordination, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Control and Coordination uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-001",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about How do Organisms Reproduce??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-002",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving How do Organisms Reproduce??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-003",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise How do Organisms Reproduce??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-004",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 2,
+      "prompt": "When applying How do Organisms Reproduce?, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-005",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing How do Organisms Reproduce?. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-how-do-organisms-reproduce-006",
+      "topic_key": "how-do-organisms-reproduce",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying How do Organisms Reproduce??",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for How do Organisms Reproduce?, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on How do Organisms Reproduce? uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-001",
+      "topic_key": "heredity",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Heredity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-002",
+      "topic_key": "heredity",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Heredity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-003",
+      "topic_key": "heredity",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Heredity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-004",
+      "topic_key": "heredity",
+      "difficulty": 2,
+      "prompt": "When applying Heredity, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-005",
+      "topic_key": "heredity",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Heredity. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-heredity-006",
+      "topic_key": "heredity",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Heredity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Heredity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Heredity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-001",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Light: Reflection and Refraction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-002",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Light: Reflection and Refraction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-003",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Light: Reflection and Refraction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-004",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 2,
+      "prompt": "When applying Light: Reflection and Refraction, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-005",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Light: Reflection and Refraction. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-light-reflection-and-refraction-006",
+      "topic_key": "light-reflection-and-refraction",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Light: Reflection and Refraction?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Light: Reflection and Refraction, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Light: Reflection and Refraction uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-001",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Human Eye and the Colourful World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-002",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Human Eye and the Colourful World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-003",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Human Eye and the Colourful World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-004",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 2,
+      "prompt": "When applying The Human Eye and the Colourful World, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-005",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing The Human Eye and the Colourful World. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-the-human-eye-and-the-colourful-world-006",
+      "topic_key": "the-human-eye-and-the-colourful-world",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying The Human Eye and the Colourful World?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Human Eye and the Colourful World, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Human Eye and the Colourful World uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-001",
+      "topic_key": "electricity",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-002",
+      "topic_key": "electricity",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-003",
+      "topic_key": "electricity",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-004",
+      "topic_key": "electricity",
+      "difficulty": 2,
+      "prompt": "When applying Electricity, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-005",
+      "topic_key": "electricity",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Electricity. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-electricity-006",
+      "topic_key": "electricity",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Electricity?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Electricity, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Electricity uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-001",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Magnetic Effects of Electric Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-002",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Magnetic Effects of Electric Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-003",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Magnetic Effects of Electric Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-004",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 2,
+      "prompt": "When applying Magnetic Effects of Electric Current, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-005",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Magnetic Effects of Electric Current. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-magnetic-effects-of-electric-current-006",
+      "topic_key": "magnetic-effects-of-electric-current",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Magnetic Effects of Electric Current?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Magnetic Effects of Electric Current, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Magnetic Effects of Electric Current uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-001",
+      "topic_key": "our-environment",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Our Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-002",
+      "topic_key": "our-environment",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Our Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-003",
+      "topic_key": "our-environment",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Our Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-004",
+      "topic_key": "our-environment",
+      "difficulty": 2,
+      "prompt": "When applying Our Environment, which habit supports sound reasoning?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-005",
+      "topic_key": "our-environment",
+      "difficulty": 4,
+      "prompt": "A learner is reviewing Our Environment. Which next step is most useful?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-10-science-our-environment-006",
+      "topic_key": "our-environment",
+      "difficulty": 3,
+      "prompt": "Which choice best supports learning and applying Our Environment?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Our Environment, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Our Environment uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

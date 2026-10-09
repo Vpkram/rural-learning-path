@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-5-telugu",
+    "name": "Telugu",
+    "class_level": "Class 5",
+    "stream": "",
+    "description": "Class 5  Telugu learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "పద నిర్మాణ పరిచయం",
+      "description": "Study and practise the ideas in పద నిర్మాణ పరిచయం.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "కాలాలు సర్వనామాలు",
+      "description": "Study and practise the ideas in కాలాలు సర్వనామాలు.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "పాఠ విశ్లేషణ",
+      "description": "Study and practise the ideas in పాఠ విశ్లేషణ.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "పద్య రసం",
+      "description": "Study and practise the ideas in పద్య రసం.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "సృజనాత్మక రచన",
+      "description": "Study and practise the ideas in సృజనాత్మక రచన.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

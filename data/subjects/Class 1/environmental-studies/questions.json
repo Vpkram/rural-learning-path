@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-1-environmental-studies-my-family-001",
+      "topic_key": "my-family",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about My Family?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Family, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Family uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-my-family-002",
+      "topic_key": "my-family",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving My Family?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Family, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Family uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-my-family-003",
+      "topic_key": "my-family",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise My Family?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Family, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Family uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-my-body-001",
+      "topic_key": "my-body",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about My Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-my-body-002",
+      "topic_key": "my-body",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving My Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-my-body-003",
+      "topic_key": "my-body",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise My Body?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for My Body, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on My Body uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-food-around-us-001",
+      "topic_key": "food-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Food Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-food-around-us-002",
+      "topic_key": "food-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Food Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-food-around-us-003",
+      "topic_key": "food-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Food Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Food Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Food Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-water-around-us-001",
+      "topic_key": "water-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Water Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-water-around-us-002",
+      "topic_key": "water-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Water Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-water-around-us-003",
+      "topic_key": "water-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Water Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Water Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Water Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-plants-around-us-001",
+      "topic_key": "plants-around-us",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Plants Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plants Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plants Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-plants-around-us-002",
+      "topic_key": "plants-around-us",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Plants Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plants Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plants Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-1-environmental-studies-plants-around-us-003",
+      "topic_key": "plants-around-us",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Plants Around Us?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Plants Around Us, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Plants Around Us uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

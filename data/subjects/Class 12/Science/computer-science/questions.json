@@ -1,0 +1,580 @@
+{
+  "questions": [
+    {
+      "key": "class-12-science-computer-science-computer-systems-001",
+      "topic_key": "computer-systems",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Computer Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-computer-systems-002",
+      "topic_key": "computer-systems",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Computer Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-computer-systems-003",
+      "topic_key": "computer-systems",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Computer Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-boolean-logic-001",
+      "topic_key": "boolean-logic",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Boolean Logic?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Logic, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Logic uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-boolean-logic-002",
+      "topic_key": "boolean-logic",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Boolean Logic?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Logic, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Logic uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-boolean-logic-003",
+      "topic_key": "boolean-logic",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Boolean Logic?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Boolean Logic, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Boolean Logic uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-number-systems-001",
+      "topic_key": "number-systems",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-number-systems-002",
+      "topic_key": "number-systems",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-number-systems-003",
+      "topic_key": "number-systems",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Number Systems?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Number Systems, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Number Systems uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-python-fundamentals-001",
+      "topic_key": "python-fundamentals",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Python Fundamentals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Fundamentals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Fundamentals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-python-fundamentals-002",
+      "topic_key": "python-fundamentals",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Python Fundamentals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Fundamentals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Fundamentals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-python-fundamentals-003",
+      "topic_key": "python-fundamentals",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Python Fundamentals?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Python Fundamentals, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Python Fundamentals uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-conditional-and-iterative-statements-001",
+      "topic_key": "conditional-and-iterative-statements",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Conditional and Iterative Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional and Iterative Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional and Iterative Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-conditional-and-iterative-statements-002",
+      "topic_key": "conditional-and-iterative-statements",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Conditional and Iterative Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional and Iterative Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional and Iterative Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-conditional-and-iterative-statements-003",
+      "topic_key": "conditional-and-iterative-statements",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Conditional and Iterative Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Conditional and Iterative Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Conditional and Iterative Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-strings-and-lists-001",
+      "topic_key": "strings-and-lists",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Strings and Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Strings and Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Strings and Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-strings-and-lists-002",
+      "topic_key": "strings-and-lists",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Strings and Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Strings and Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Strings and Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-strings-and-lists-003",
+      "topic_key": "strings-and-lists",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Strings and Lists?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Strings and Lists, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Strings and Lists uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-tuples-and-dictionaries-001",
+      "topic_key": "tuples-and-dictionaries",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Tuples and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tuples and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tuples and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-tuples-and-dictionaries-002",
+      "topic_key": "tuples-and-dictionaries",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Tuples and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tuples and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tuples and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-tuples-and-dictionaries-003",
+      "topic_key": "tuples-and-dictionaries",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Tuples and Dictionaries?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Tuples and Dictionaries, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Tuples and Dictionaries uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-functions-001",
+      "topic_key": "functions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-functions-002",
+      "topic_key": "functions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-functions-003",
+      "topic_key": "functions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Functions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Functions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Functions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-file-handling-001",
+      "topic_key": "file-handling",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about File Handling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Handling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Handling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-file-handling-002",
+      "topic_key": "file-handling",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving File Handling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Handling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Handling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-file-handling-003",
+      "topic_key": "file-handling",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise File Handling?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for File Handling, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on File Handling uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-computer-networks-001",
+      "topic_key": "computer-networks",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Computer Networks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Networks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Networks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-computer-networks-002",
+      "topic_key": "computer-networks",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Computer Networks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Networks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Networks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-computer-networks-003",
+      "topic_key": "computer-networks",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Computer Networks?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Computer Networks, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Computer Networks uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-database-concepts-001",
+      "topic_key": "database-concepts",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Database Concepts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Database Concepts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Database Concepts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-database-concepts-002",
+      "topic_key": "database-concepts",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Database Concepts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Database Concepts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Database Concepts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-database-concepts-003",
+      "topic_key": "database-concepts",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Database Concepts?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Database Concepts, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Database Concepts uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-sql-001",
+      "topic_key": "sql",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about SQL?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for SQL, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on SQL uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-sql-002",
+      "topic_key": "sql",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving SQL?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for SQL, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on SQL uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-science-computer-science-sql-003",
+      "topic_key": "sql",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise SQL?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for SQL, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on SQL uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

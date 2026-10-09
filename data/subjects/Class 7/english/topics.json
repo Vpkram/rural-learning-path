@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-7-english",
+    "name": "English",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "three-questions",
+      "name": "Three Questions",
+      "description": "Study and practise the ideas in Three Questions.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "a-gift-of-chappals",
+      "name": "A Gift of Chappals",
+      "description": "Study and practise the ideas in A Gift of Chappals.",
+      "prerequisites": [
+        "three-questions"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "gopal-and-the-hilsa-fish",
+      "name": "Gopal and the Hilsa-fish",
+      "description": "Study and practise the ideas in Gopal and the Hilsa-fish.",
+      "prerequisites": [
+        "a-gift-of-chappals"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "the-ashes-that-made-trees-bloom",
+      "name": "The Ashes That Made Trees Bloom",
+      "description": "Study and practise the ideas in The Ashes That Made Trees Bloom.",
+      "prerequisites": [
+        "gopal-and-the-hilsa-fish"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "quality",
+      "name": "Quality",
+      "description": "Study and practise the ideas in Quality.",
+      "prerequisites": [
+        "the-ashes-that-made-trees-bloom"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

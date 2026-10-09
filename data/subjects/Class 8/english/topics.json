@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-8-english",
+    "name": "English",
+    "class_level": "Class 8",
+    "stream": "",
+    "description": "Class 8  English learning pack"
+  },
+  "topics": [
+    {
+      "key": "the-best-christmas-present-in-the-world",
+      "name": "The Best Christmas Present in the World",
+      "description": "Study and practise the ideas in The Best Christmas Present in the World.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "the-tsunami",
+      "name": "The Tsunami",
+      "description": "Study and practise the ideas in The Tsunami.",
+      "prerequisites": [
+        "the-best-christmas-present-in-the-world"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "glimpses-of-the-past",
+      "name": "Glimpses of the Past",
+      "description": "Study and practise the ideas in Glimpses of the Past.",
+      "prerequisites": [
+        "the-tsunami"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "bepin-choudhury-s-lapse-of-memory",
+      "name": "Bepin Choudhury's Lapse of Memory",
+      "description": "Study and practise the ideas in Bepin Choudhury's Lapse of Memory.",
+      "prerequisites": [
+        "glimpses-of-the-past"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "the-summit-within",
+      "name": "The Summit Within",
+      "description": "Study and practise the ideas in The Summit Within.",
+      "prerequisites": [
+        "bepin-choudhury-s-lapse-of-memory"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+data/*.db
+data/*.db-*
+data/embeddings/
+data/cache/
+logs/*.log
+data/textbooks/
+*.pdf
+*.docx
+.streamlit/secrets.toml

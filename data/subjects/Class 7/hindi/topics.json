@@ -1,0 +1,54 @@
+{
+  "subject": {
+    "key": "class-7-hindi",
+    "name": "Hindi",
+    "class_level": "Class 7",
+    "stream": "",
+    "description": "Class 7  Hindi learning pack"
+  },
+  "topics": [
+    {
+      "key": "topic-01",
+      "name": "हम पंछी उन्मुक्त गगन के",
+      "description": "Study and practise the ideas in हम पंछी उन्मुक्त गगन के.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "topic-02",
+      "name": "दादी माँ",
+      "description": "Study and practise the ideas in दादी माँ.",
+      "prerequisites": [
+        "topic-01"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "topic-03",
+      "name": "हिमालय की बेटियाँ",
+      "description": "Study and practise the ideas in हिमालय की बेटियाँ.",
+      "prerequisites": [
+        "topic-02"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "topic-04",
+      "name": "कठपुतली",
+      "description": "Study and practise the ideas in कठपुतली.",
+      "prerequisites": [
+        "topic-03"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "topic-05",
+      "name": "मिठाईवाला",
+      "description": "Study and practise the ideas in मिठाईवाला.",
+      "prerequisites": [
+        "topic-04"
+      ],
+      "sequence_number": 5
+    }
+  ]
+}

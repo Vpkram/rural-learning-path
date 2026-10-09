@@ -1,0 +1,207 @@
+{
+  "subject": {
+    "key": "class-12-arts-political-science",
+    "name": "Political Science",
+    "class_level": "Class 12",
+    "stream": "Arts",
+    "description": "Class 12 Arts Political Science learning pack"
+  },
+  "topics": [
+    {
+      "key": "constitution-why-and-how",
+      "name": "Constitution: Why and How?",
+      "description": "Study and practise the ideas in Constitution: Why and How?.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "rights-in-the-indian-constitution",
+      "name": "Rights in the Indian Constitution",
+      "description": "Study and practise the ideas in Rights in the Indian Constitution.",
+      "prerequisites": [
+        "constitution-why-and-how"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "election-and-representation",
+      "name": "Election and Representation",
+      "description": "Study and practise the ideas in Election and Representation.",
+      "prerequisites": [
+        "rights-in-the-indian-constitution"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "executive",
+      "name": "Executive",
+      "description": "Study and practise the ideas in Executive.",
+      "prerequisites": [
+        "election-and-representation"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "legislature",
+      "name": "Legislature",
+      "description": "Study and practise the ideas in Legislature.",
+      "prerequisites": [
+        "executive"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "judiciary",
+      "name": "Judiciary",
+      "description": "Study and practise the ideas in Judiciary.",
+      "prerequisites": [
+        "legislature"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "federalism",
+      "name": "Federalism",
+      "description": "Study and practise the ideas in Federalism.",
+      "prerequisites": [
+        "judiciary"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "local-governments",
+      "name": "Local Governments",
+      "description": "Study and practise the ideas in Local Governments.",
+      "prerequisites": [
+        "federalism"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "constitution-as-a-living-document",
+      "name": "Constitution as a Living Document",
+      "description": "Study and practise the ideas in Constitution as a Living Document.",
+      "prerequisites": [
+        "local-governments"
+      ],
+      "sequence_number": 9
+    },
+    {
+      "key": "the-cold-war-era",
+      "name": "The Cold War Era",
+      "description": "Study and practise the ideas in The Cold War Era.",
+      "prerequisites": [
+        "constitution-as-a-living-document"
+      ],
+      "sequence_number": 10
+    },
+    {
+      "key": "the-end-of-bipolarity",
+      "name": "The End of Bipolarity",
+      "description": "Study and practise the ideas in The End of Bipolarity.",
+      "prerequisites": [
+        "the-cold-war-era"
+      ],
+      "sequence_number": 11
+    },
+    {
+      "key": "us-hegemony",
+      "name": "US Hegemony",
+      "description": "Study and practise the ideas in US Hegemony.",
+      "prerequisites": [
+        "the-end-of-bipolarity"
+      ],
+      "sequence_number": 12
+    },
+    {
+      "key": "international-organisations",
+      "name": "International Organisations",
+      "description": "Study and practise the ideas in International Organisations.",
+      "prerequisites": [
+        "us-hegemony"
+      ],
+      "sequence_number": 13
+    },
+    {
+      "key": "security-in-the-contemporary-world",
+      "name": "Security in the Contemporary World",
+      "description": "Study and practise the ideas in Security in the Contemporary World.",
+      "prerequisites": [
+        "international-organisations"
+      ],
+      "sequence_number": 14
+    },
+    {
+      "key": "environment-and-natural-resources",
+      "name": "Environment and Natural Resources",
+      "description": "Study and practise the ideas in Environment and Natural Resources.",
+      "prerequisites": [
+        "security-in-the-contemporary-world"
+      ],
+      "sequence_number": 15
+    },
+    {
+      "key": "globalisation",
+      "name": "Globalisation",
+      "description": "Study and practise the ideas in Globalisation.",
+      "prerequisites": [
+        "environment-and-natural-resources"
+      ],
+      "sequence_number": 16
+    },
+    {
+      "key": "challenges-of-nation-building",
+      "name": "Challenges of Nation Building",
+      "description": "Study and practise the ideas in Challenges of Nation Building.",
+      "prerequisites": [
+        "globalisation"
+      ],
+      "sequence_number": 17
+    },
+    {
+      "key": "era-of-one-party-dominance",
+      "name": "Era of One-Party Dominance",
+      "description": "Study and practise the ideas in Era of One-Party Dominance.",
+      "prerequisites": [
+        "challenges-of-nation-building"
+      ],
+      "sequence_number": 18
+    },
+    {
+      "key": "politics-of-planned-development",
+      "name": "Politics of Planned Development",
+      "description": "Study and practise the ideas in Politics of Planned Development.",
+      "prerequisites": [
+        "era-of-one-party-dominance"
+      ],
+      "sequence_number": 19
+    },
+    {
+      "key": "india-s-external-relations",
+      "name": "India's External Relations",
+      "description": "Study and practise the ideas in India's External Relations.",
+      "prerequisites": [
+        "politics-of-planned-development"
+      ],
+      "sequence_number": 20
+    },
+    {
+      "key": "democratic-resurgence",
+      "name": "Democratic Resurgence",
+      "description": "Study and practise the ideas in Democratic Resurgence.",
+      "prerequisites": [
+        "india-s-external-relations"
+      ],
+      "sequence_number": 21
+    },
+    {
+      "key": "regional-aspirations",
+      "name": "Regional Aspirations",
+      "description": "Study and practise the ideas in Regional Aspirations.",
+      "prerequisites": [
+        "democratic-resurgence"
+      ],
+      "sequence_number": 22
+    }
+  ]
+}

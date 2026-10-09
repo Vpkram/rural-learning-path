@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "key": "class-4-environmental-studies-going-to-school-001",
+      "topic_key": "going-to-school",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Going to School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Going to School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Going to School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-going-to-school-002",
+      "topic_key": "going-to-school",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Going to School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Going to School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Going to School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-going-to-school-003",
+      "topic_key": "going-to-school",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Going to School?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Going to School, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Going to School uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-ear-to-ear-001",
+      "topic_key": "ear-to-ear",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Ear to Ear?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ear to Ear, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ear to Ear uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-ear-to-ear-002",
+      "topic_key": "ear-to-ear",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Ear to Ear?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ear to Ear, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ear to Ear uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-ear-to-ear-003",
+      "topic_key": "ear-to-ear",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Ear to Ear?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Ear to Ear, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Ear to Ear uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-a-day-with-nandu-001",
+      "topic_key": "a-day-with-nandu",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about A Day with Nandu?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Day with Nandu, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Day with Nandu uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-a-day-with-nandu-002",
+      "topic_key": "a-day-with-nandu",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving A Day with Nandu?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Day with Nandu, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Day with Nandu uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-a-day-with-nandu-003",
+      "topic_key": "a-day-with-nandu",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise A Day with Nandu?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for A Day with Nandu, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on A Day with Nandu uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-the-story-of-amrita-001",
+      "topic_key": "the-story-of-amrita",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about The Story of Amrita?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Amrita, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Amrita uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-the-story-of-amrita-002",
+      "topic_key": "the-story-of-amrita",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving The Story of Amrita?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Amrita, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Amrita uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-the-story-of-amrita-003",
+      "topic_key": "the-story-of-amrita",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise The Story of Amrita?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for The Story of Amrita, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on The Story of Amrita uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-anita-and-the-honeybees-001",
+      "topic_key": "anita-and-the-honeybees",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Anita and the Honeybees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anita and the Honeybees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anita and the Honeybees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-anita-and-the-honeybees-002",
+      "topic_key": "anita-and-the-honeybees",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Anita and the Honeybees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anita and the Honeybees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anita and the Honeybees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-4-environmental-studies-anita-and-the-honeybees-003",
+      "topic_key": "anita-and-the-honeybees",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Anita and the Honeybees?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Anita and the Honeybees, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Anita and the Honeybees uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

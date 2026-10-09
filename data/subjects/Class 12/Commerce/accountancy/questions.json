@@ -1,0 +1,484 @@
+{
+  "questions": [
+    {
+      "key": "class-12-commerce-accountancy-introduction-to-accounting-001",
+      "topic_key": "introduction-to-accounting",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Introduction to Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-introduction-to-accounting-002",
+      "topic_key": "introduction-to-accounting",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Introduction to Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-introduction-to-accounting-003",
+      "topic_key": "introduction-to-accounting",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Introduction to Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Introduction to Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Introduction to Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-theory-base-of-accounting-001",
+      "topic_key": "theory-base-of-accounting",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Theory Base of Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Theory Base of Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Theory Base of Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-theory-base-of-accounting-002",
+      "topic_key": "theory-base-of-accounting",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Theory Base of Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Theory Base of Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Theory Base of Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-theory-base-of-accounting-003",
+      "topic_key": "theory-base-of-accounting",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Theory Base of Accounting?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Theory Base of Accounting, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Theory Base of Accounting uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-recording-of-transactions-001",
+      "topic_key": "recording-of-transactions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Recording of Transactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recording of Transactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recording of Transactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-recording-of-transactions-002",
+      "topic_key": "recording-of-transactions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Recording of Transactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recording of Transactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recording of Transactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-recording-of-transactions-003",
+      "topic_key": "recording-of-transactions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Recording of Transactions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Recording of Transactions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Recording of Transactions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-bank-reconciliation-001",
+      "topic_key": "bank-reconciliation",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Bank Reconciliation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bank Reconciliation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bank Reconciliation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-bank-reconciliation-002",
+      "topic_key": "bank-reconciliation",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Bank Reconciliation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bank Reconciliation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bank Reconciliation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-bank-reconciliation-003",
+      "topic_key": "bank-reconciliation",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Bank Reconciliation?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Bank Reconciliation, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Bank Reconciliation uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-trial-balance-and-rectification-001",
+      "topic_key": "trial-balance-and-rectification",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Trial Balance and Rectification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trial Balance and Rectification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trial Balance and Rectification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-trial-balance-and-rectification-002",
+      "topic_key": "trial-balance-and-rectification",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Trial Balance and Rectification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trial Balance and Rectification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trial Balance and Rectification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-trial-balance-and-rectification-003",
+      "topic_key": "trial-balance-and-rectification",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Trial Balance and Rectification?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Trial Balance and Rectification, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Trial Balance and Rectification uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-depreciation-and-provisions-001",
+      "topic_key": "depreciation-and-provisions",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Depreciation and Provisions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Depreciation and Provisions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Depreciation and Provisions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-depreciation-and-provisions-002",
+      "topic_key": "depreciation-and-provisions",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Depreciation and Provisions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Depreciation and Provisions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Depreciation and Provisions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-depreciation-and-provisions-003",
+      "topic_key": "depreciation-and-provisions",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Depreciation and Provisions?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Depreciation and Provisions, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Depreciation and Provisions uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-financial-statements-001",
+      "topic_key": "financial-statements",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Financial Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-financial-statements-002",
+      "topic_key": "financial-statements",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Financial Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-financial-statements-003",
+      "topic_key": "financial-statements",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Financial Statements?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Financial Statements, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Financial Statements uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-partnership-001",
+      "topic_key": "accounting-for-partnership",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Accounting for Partnership?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Partnership, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Partnership uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-partnership-002",
+      "topic_key": "accounting-for-partnership",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Accounting for Partnership?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Partnership, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Partnership uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-partnership-003",
+      "topic_key": "accounting-for-partnership",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Accounting for Partnership?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Partnership, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Partnership uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-companies-001",
+      "topic_key": "accounting-for-companies",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Accounting for Companies?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Companies, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Companies uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-companies-002",
+      "topic_key": "accounting-for-companies",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Accounting for Companies?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Companies, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Companies uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-accounting-for-companies-003",
+      "topic_key": "accounting-for-companies",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Accounting for Companies?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Accounting for Companies, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Accounting for Companies uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-cash-flow-statement-001",
+      "topic_key": "cash-flow-statement",
+      "difficulty": 1,
+      "prompt": "Which approach is most useful when beginning a problem about Cash Flow Statement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cash Flow Statement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cash Flow Statement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-cash-flow-statement-002",
+      "topic_key": "cash-flow-statement",
+      "difficulty": 3,
+      "prompt": "How should a learner check an answer involving Cash Flow Statement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cash Flow Statement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cash Flow Statement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    },
+    {
+      "key": "class-12-commerce-accountancy-cash-flow-statement-003",
+      "topic_key": "cash-flow-statement",
+      "difficulty": 5,
+      "prompt": "What is a careful way to practise Cash Flow Statement?",
+      "options": {
+        "A": "Identify the relevant information, use the method taught for Cash Flow Statement, and check the result.",
+        "B": "Ignore the conditions and select an answer without checking.",
+        "C": "Replace the given information with unrelated facts.",
+        "D": "Skip the reasoning and assume every problem has the same answer."
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Careful work on Cash Flow Statement uses the relevant information, applies an appropriate method, and checks whether the result answers the question."
+      }
+    }
+  ]
+}

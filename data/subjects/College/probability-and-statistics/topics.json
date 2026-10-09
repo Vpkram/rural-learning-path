@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-probability-and-statistics",
+    "name": "Probability and Statistics",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Probability and Statistics learning pack"
+  },
+  "topics": [
+    {
+      "key": "data-summaries",
+      "name": "Data Summaries",
+      "description": "Study and practise the ideas in Data Summaries.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "counting-and-probability",
+      "name": "Counting and Probability",
+      "description": "Study and practise the ideas in Counting and Probability.",
+      "prerequisites": [
+        "data-summaries"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "conditional-probability",
+      "name": "Conditional Probability",
+      "description": "Study and practise the ideas in Conditional Probability.",
+      "prerequisites": [
+        "counting-and-probability"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "random-variables",
+      "name": "Random Variables",
+      "description": "Study and practise the ideas in Random Variables.",
+      "prerequisites": [
+        "conditional-probability"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "probability-distributions",
+      "name": "Probability Distributions",
+      "description": "Study and practise the ideas in Probability Distributions.",
+      "prerequisites": [
+        "random-variables"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "expectation-and-variance",
+      "name": "Expectation and Variance",
+      "description": "Study and practise the ideas in Expectation and Variance.",
+      "prerequisites": [
+        "probability-distributions"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "sampling-and-estimation",
+      "name": "Sampling and Estimation",
+      "description": "Study and practise the ideas in Sampling and Estimation.",
+      "prerequisites": [
+        "expectation-and-variance"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "confidence-intervals",
+      "name": "Confidence Intervals",
+      "description": "Study and practise the ideas in Confidence Intervals.",
+      "prerequisites": [
+        "sampling-and-estimation"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "hypothesis-testing",
+      "name": "Hypothesis Testing",
+      "description": "Study and practise the ideas in Hypothesis Testing.",
+      "prerequisites": [
+        "confidence-intervals"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}

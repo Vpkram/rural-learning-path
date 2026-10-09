@@ -1,0 +1,90 @@
+{
+  "subject": {
+    "key": "college-discrete-mathematics",
+    "name": "Discrete Mathematics",
+    "class_level": "College",
+    "stream": "",
+    "description": "College  Discrete Mathematics learning pack"
+  },
+  "topics": [
+    {
+      "key": "logic-and-propositions",
+      "name": "Logic and Propositions",
+      "description": "Study and practise the ideas in Logic and Propositions.",
+      "prerequisites": [],
+      "sequence_number": 1
+    },
+    {
+      "key": "predicates-and-quantifiers",
+      "name": "Predicates and Quantifiers",
+      "description": "Study and practise the ideas in Predicates and Quantifiers.",
+      "prerequisites": [
+        "logic-and-propositions"
+      ],
+      "sequence_number": 2
+    },
+    {
+      "key": "sets-and-set-operations",
+      "name": "Sets and Set Operations",
+      "description": "Study and practise the ideas in Sets and Set Operations.",
+      "prerequisites": [
+        "predicates-and-quantifiers"
+      ],
+      "sequence_number": 3
+    },
+    {
+      "key": "functions-and-relations",
+      "name": "Functions and Relations",
+      "description": "Study and practise the ideas in Functions and Relations.",
+      "prerequisites": [
+        "sets-and-set-operations"
+      ],
+      "sequence_number": 4
+    },
+    {
+      "key": "proof-techniques",
+      "name": "Proof Techniques",
+      "description": "Study and practise the ideas in Proof Techniques.",
+      "prerequisites": [
+        "functions-and-relations"
+      ],
+      "sequence_number": 5
+    },
+    {
+      "key": "counting-principles",
+      "name": "Counting Principles",
+      "description": "Study and practise the ideas in Counting Principles.",
+      "prerequisites": [
+        "proof-techniques"
+      ],
+      "sequence_number": 6
+    },
+    {
+      "key": "recurrence-relations",
+      "name": "Recurrence Relations",
+      "description": "Study and practise the ideas in Recurrence Relations.",
+      "prerequisites": [
+        "counting-principles"
+      ],
+      "sequence_number": 7
+    },
+    {
+      "key": "graphs-and-trees",
+      "name": "Graphs and Trees",
+      "description": "Study and practise the ideas in Graphs and Trees.",
+      "prerequisites": [
+        "recurrence-relations"
+      ],
+      "sequence_number": 8
+    },
+    {
+      "key": "boolean-algebra",
+      "name": "Boolean Algebra",
+      "description": "Study and practise the ideas in Boolean Algebra.",
+      "prerequisites": [
+        "graphs-and-trees"
+      ],
+      "sequence_number": 9
+    }
+  ]
+}
